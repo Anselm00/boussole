@@ -63,7 +63,9 @@
     <span id="txtHint"></span>
 
     <li><div class="divider"></div></li> 
+
     <?php require('menu.php');?>
+    
   </ul>
 
   <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
