@@ -1,0 +1,205 @@
+
+body {    
+color:white;}
+
+section {
+    background:white;
+    color:black;
+    z-index: 1;
+    margin-bottom: 50px;
+}
+
+.sidenav-trigger {
+    z-index: 2 !important;
+    position: fixed !important;
+}
+
+h1 {
+    z-index: 1;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    margin:100px;
+   }
+
+.fond {
+    background:url('img/fond2.jpg');background-size: cover;
+    width: 100%;
+    height:100%;
+    position: fixed;
+    z-index: 0;
+}
+
+.modal {
+    color:black;
+}
+
+
+
+@font-face {
+    /*not working*/ font-family: "FrenchScriptMT";
+    /*not working*/ src: url("FrenchScriptMT.ttf") format("ttf");
+   }
+
+nav a {
+    font-family: 'FrenchScriptMT';
+    /* font-family: "Georgia, Arial" !important; */
+}
+
+div.modal {
+    background: #f7f6f6;
+    color:rgb(2, 0, 0);
+    font-size: 1.5em;
+    text-align: justify;
+}
+
+div.modal a { color:rgb(255, 0, 179);}
+
+
+div.modal img.image {
+    width: 100%;
+}
+
+div.modal div.center {
+    text-align: center;
+}
+
+div.modal h4 {
+    font-weight: bold;
+    
+}
+
+div.modal span {
+    border:1px solid black;
+    padding:2px;
+    font-weight: bold;
+    margin-right:5px;
+    
+}
+
+.boussole {
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+}
+.svg {
+
+    text-align: center;
+    -webkit-animation:spin 360s linear infinite;
+    -moz-animation:spin 360s linear infinite;
+    animation:spin 360s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(-360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(-360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(-360deg); transform:rotate(-360deg); } }
+
+.container.boussole1 {
+    width: 1000px;
+    box-shadow: -10px -7px 23px grey;
+    height: 1000px;
+    position: relative;
+    border-radius: 5000px;
+    background: url(img/logo_home1-omb.jpg) no-repeat 50% 50%;
+    background-size: 6%;
+    background-color: white;
+}
+
+.svg a {
+    transition: background-color 1s;
+}
+
+.svg a:hover {
+    background: yellow;
+}
+
+
+
+.svg .s2, .svg h1, .modal {
+    font-family: "Georgia, Arial" !important;
+}
+
+.svg h4 {
+    font-size: 1.5rem;
+}
+
+.svg h3 {
+    font-size: 1.4em;
+    font-style: italic;
+}
+
+.svg h3 a {
+    color:black;
+}
+
+.svg h2 {
+    font-size: 2.5em;
+}
+
+.svg h1 {
+    line-height: 30%;
+}
+
+.svg h1 a {
+    font-weight: bold;
+    color:black;
+}
+
+.svg h5 {
+    font-size: 1em;
+    line-height: 43%;
+}
+
+.svg h4 a, .svg h5 a, .svg h6 a {
+    color:#7cb342;
+}
+
+blockquote {
+    border-left: 5px solid blue;
+}
+
+
+.svg a:hover {
+fill: red;}
+
+.logo img {
+        position:absolute;
+    background:url("img/logo_home1-omb.jpg");
+    top: 390px !important;
+    left: 378px !important;
+    width: 40px !important;
+    height: 40px;
+    z-index:1;
+}
+
+
+footer {
+margin-top:300px;
+z-index: 1;
+    background: none !important;
+}
+
+
+body {
+display: flex;
+min-height: 100vh;
+flex-direction: column;
+}
+
+main {
+flex: 1 0 auto;
+}
+
+.sidenav-trigger {
+  position: absolute;
+color: white;
+margin: 10px 0px 0px 10px;
+z-index:1;
+}
+
+#slide-out a span {
+color:black !important;
+}
+
+
+
+
