@@ -19,7 +19,7 @@
       }
       </script>
       <!--Import Google Icon Font-->
-      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link href="font/font.css" rel="stylesheet">
        <!--Import materialize.css-->
 	  <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
 	  <link type="text/css" rel="stylesheet" href="style.css"  media="screen,projection"/>
@@ -56,7 +56,7 @@
     <div class="row">
     <form class="col s12"><div class="input-field col s12">
 
-        <i class="material-icons prefix">Cherche</i>
+        <i class="material-icons prefix">search</i>
           <input placeholder="Recherche" id="fname" name="fname" type="text" class="validate" onkeyup="showHint(this.value)">
 
          </div></div></div>
