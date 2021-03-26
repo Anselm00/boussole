@@ -8,7 +8,7 @@
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Trois_Humanité_ed.pdf" target="_blank"> "Les Trois Humanité"</a>, p.1 - juin 2006 - Freddy Malot - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Trois_Humanites_ed.pdf" target="_blank"> "Les Trois Humanité"</a>, p.1 - juin 2006 - Freddy Malot - Editions de l'Evidence</p>
 
 				  <p>__________________________</p>				  
 				  
@@ -88,7 +88,7 @@
 
 	<p>__________________________</p>
 
-	<p>Voir <a href="https://www.eglise-realiste.org/pdf/Esclavage_Eglait_Despot_ed.pdf" target="_blank"> "Esclavage et Démocratie"</a>, p.9 - août 2005 - Talib Freddy - Editions de l'Evidence</p>
+	<p>Voir <a href="https://www.eglise-realiste.org/pdf/Esclavage_Egalit_Despot_ed.pdf" target="_blank"> "Esclavage et Démocratie"</a>, p.9 - août 2005 - Talib Freddy - Editions de l'Evidence</p>
 			
 
 </div>

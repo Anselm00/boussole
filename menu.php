@@ -35,14 +35,14 @@
 <li><a class="modal-trigger" href="#don">Don</a></li>
 <li><a class="modal-trigger" href="#dons-vivants">Dons Vivants</a></li>
 <li><a class="modal-trigger" href="#economie-politique">Economie Politique</a></li>
-<li><a class="modal-trigger" href="#egalité-liberte">Egalité-Liberté</a></li>
+<li><a class="modal-trigger" href="#egalite-liberte">Egalité-Liberté</a></li>
 <li><a class="modal-trigger" href="#egalite-reactionnaire">Egalité Réactionnaire</a></li>
 <li><a class="modal-trigger" href="#emanation">Emanation</a></li>
 <li><a class="modal-trigger" href="#emanation-vitale">Emanation Vitale</a></li>
 <li><a class="modal-trigger" href="#esclavage">Esclavage</a></li>
 <li><a class="modal-trigger" href="#espace">Espace</a></li>
 <li><a class="modal-trigger" href="#esprit">Esprit</a></li>
-<li><a class="modal-trigger" href="#eternité">Eternité</a></li>
+<li><a class="modal-trigger" href="#eternite">Eternité</a></li>
 <li><a class="modal-trigger" href="#ethnies">Ethnies</a></li>
 <li><a class="modal-trigger" href="#etre">Etre</a></li>
 <li><a class="modal-trigger" href="#evidence">Evidence</a></li>
@@ -51,7 +51,7 @@
 <li><a class="modal-trigger" href="#fecondite-travail">Fécondité/Travail</a></li>
 <li><a class="modal-trigger" href="#feminin">Féminin</a></li>
 <li><a class="modal-trigger" href="#feminisme">Féminisme</a></li>
-<li><a class="modal-trigger" href="#fidelité">Fidélité</a></li>
+<li><a class="modal-trigger" href="#fidelite">Fidélité</a></li>
 <li><a class="modal-trigger" href="#fille-mere-nourrice">Fille-Mère-Nourrice</a></li>
 <li><a class="modal-trigger" href="#fin">Fin</a></li>
 <li><a class="modal-trigger" href="#foi">Foi</a></li>
@@ -86,15 +86,15 @@
 <li><a class="modal-trigger" href="#materialiste">Matérialiste</a></li>
 <li><a class="modal-trigger" href="#matiere-esprit">Matière Esprit</a></li>
 <li><a class="modal-trigger" href="#matriarcat">Matriarcat</a></li>
+<li><a class="modal-trigger" href="#memoire">Mémoire</a></li>
 <li><a class="modal-trigger" href="#meneur">Meneur</a></li>
+<li><a class="modal-trigger" href="#mere-fondamentale">Mère Fondamentale</a></li>
+<li><a class="modal-trigger" href="#merite">Mérite</a></li>
 <li><a class="modal-trigger" href="#moeurs">Moeurs</a></li>
 <li><a class="modal-trigger" href="#morale">Morale</a></li>
 <li><a class="modal-trigger" href="#mouvement">Mouvement</a></li>
 <li><a class="modal-trigger" href="#moyen">Moyen</a></li>
 <li><a class="modal-trigger" href="#mystere">Mystère</a></li>
-<li><a class="modal-trigger" href="#mere-fondamentale">Mère Fondamentale</a></li>
-<li><a class="modal-trigger" href="#memoire">Mémoire</a></li>
-<li><a class="modal-trigger" href="#merite">Mérite</a></li>
 <li><a class="modal-trigger" href="#mythe">Mythe</a></li>
 <li><a class="modal-trigger" href="#nation-phare">Nation Phare</a></li>
 <li><a class="modal-trigger" href="#naturaliste">Naturaliste</a></li>
@@ -113,23 +113,23 @@
 <li><a class="modal-trigger" href="#plan">Plan</a></li>
 <li><a class="modal-trigger" href="#planete">Planète</a></li>
 <li><a class="modal-trigger" href="#policee">Policée</a></li>
+<li><a class="modal-trigger" href="#preceptes">Préceptes</a></li>
+<li><a class="modal-trigger" href="#precis">Précis</a></li>
+<li><a class="modal-trigger" href="#predestination">Prédestination</a></li>
 <li><a class="modal-trigger" href="#principe">Principe</a></li>
 <li><a class="modal-trigger" href="#promesse">Promesse</a></li>
 <li><a class="modal-trigger" href="#prophetie">Prophétie</a></li>
 <li><a class="modal-trigger" href="#propitiation">Propitiation</a></li>
-<li><a class="modal-trigger" href="#proprio-citoyen">Proprio-Citoyen</a></li>
+<li><a class="modal-trigger" href="#proprio">Proprio</a></li>
 <li><a class="modal-trigger" href="#prudence">Prudence</a></li>
-<li><a class="modal-trigger" href="#preceptes">Préceptes</a></li>
-<li><a class="modal-trigger" href="#precis">Précis</a></li>
-<li><a class="modal-trigger" href="#impure">Prédestination</a></li>
 <li><a class="modal-trigger" href="#puissances">Puissances</a></li>
-<li><a class="modal-trigger" href="#pure">Pur-Impur</a></li>
+<li><a class="modal-trigger" href="#pur-impur">Pur-Impur</a></li>
 <li><a class="modal-trigger" href="#raison">Raison</a></li>
+<li><a class="modal-trigger" href="#realiste">Réaliste</a></li>
 <li><a class="modal-trigger" href="#religion">Religion</a></li>
 <li><a class="modal-trigger" href="#responsable">Responsable</a></li>
-<li><a class="modal-trigger" href="#rites">Rites</a></li>
-<li><a class="modal-trigger" href="#realiste">Réaliste</a></li>
 <li><a class="modal-trigger" href="#reve-communiste">Rêve Communiste</a></li>
+<li><a class="modal-trigger" href="#rites">Rites</a></li>
 <li><a class="modal-trigger" href="#sagesse">Sagesse</a></li>
 <li><a class="modal-trigger" href="#saint-bon-integre">Saint-Bon-Intègre</a></li>
 <li><a class="modal-trigger" href="#salut">Salut</a></li>

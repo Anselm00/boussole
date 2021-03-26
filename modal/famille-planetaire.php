@@ -3,15 +3,15 @@
 			<div class="modal-content">
 			  <h4>Famille Planétaire</h4>
 			  
-			  <img class="image" src="img/se_transformer.png"/>
+			  <img class="image" src="img/se_transformer_ed.jpg"/>
 
-<img class="image" src="img/evidence.png"/>
+
 
 <p>__________________________</p>
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Se_Transformer_ed.pdf" target="_blank"> "Se Transformer"</a>, p.16 - 29.11.2010 - Talib Freddy - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Se_Transformer_ed.pdf" target="_blank"> "Se Transformer"</a>, p.17 - Talib Freddy - 29.11.2010</p>
 			  
 
 			</div>

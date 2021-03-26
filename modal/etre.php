@@ -20,7 +20,7 @@ spiritualiste, ce que nous nommons Matière n’est pas proprement “substantie
 est au contraire “privation d’être”, ne vaut qu’en considération du Monde, comme
 “moyen” de l’Esprit créé. Le mot Matière ne doit donc pas nous égarer. Ce qui doit
 retenir véritablement l’attention est le rapport hégémonique qui soutient le Monde,
-interne à l’esprit Manifeste, <p>esprit Actif/Passif</p>. L’esprit Actif, c’est l’intelligence du
+interne à l’esprit Manifeste, <b>esprit Actif/Passif</b>. L’esprit Actif, c’est l’intelligence du
 Monde donnée dans la perspective de la Race d’Adam ; l’esprit Passif, c’est
 l’intelligence du Monde donnée dans la perspective du Système des Corps. »</p>
 <p>__________________________</p>

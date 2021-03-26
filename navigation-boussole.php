@@ -375,8 +375,74 @@
 
 
 <?php require('modal/adequation.php');?> 
+<?php require('modal/alliance.php');?>
+<?php require('modal/ame-corps.php');?>  
+<?php require('modal/ami.php');?>   
+<?php require('modal/ancestral.php');?> 
+<?php require('modal/assume.php');?>
+<?php require('modal/attentif.php');?>
+<?php require('modal/auteur.php');?>
+<?php require('modal/autodidacte.php');?>
+<?php require('modal/besoins.php');?>
+<?php require('modal/bonheur-commun.php');?>
+<?php require('modal/bourgeois.php');?>
+<?php require('modal/brave.php');?>
+<?php require('modal/camarade.php');?>
+<?php require('modal/capacites.php');?>
+<?php require('modal/cellules-privees.php');?>
+<?php require('modal/cerveau-collectif.php');?>
+<?php require('modal/chasse.php');?>
+<?php require('modal/chose-pensante.php');?>
+<?php require('modal/citoyen.php');?>
+<?php require('modal/civilisation.php');?>
+<?php require('modal/comm-anar.php');?>
+<?php require('modal/contrat.php');?>
+<?php require('modal/convenable.php');?>
+<?php require('modal/coutumes.php');?>
+<?php require('modal/citoyen.php');?>
+<?php require('modal/creation.php');?>
+<?php require('modal/credo.php');?>
+<?php require('modal/critique.php');?>
+<?php require('modal/croyant.php');?>
+<?php require('modal/curieux.php');?>
+<?php require('modal/democratie-centralisee.php');?>
+<?php require('modal/dialectique-totale.php');?>
+<?php require('modal/divination.php');?>
+<?php require('modal/dogme.php');?>
+<?php require('modal/don.php');?>
+<?php require('modal/dons-vivants.php');?>
+<?php require('modal/economie-politique.php');?>
+<?php require('modal/egalite-liberte.php');?>
+<?php require('modal/egalite-reactionnaire.php');?>
+<?php require('modal/emanation.php');?>
+<?php require('modal/esclavage.php');?>
+<?php require('modal/espace.php');?>
+<?php require('modal/eternite.php');?>
+<?php require('modal/ethnies.php');?>
+<?php require('modal/etre.php');?>
+<?php require('modal/evidence.php');?>
+<?php require('modal/existence.php');?>
+<?php require('modal/famille-planetaire.php');?>
+<?php require('modal/fecondite-travail.php');?>
+<?php require('modal/feminin.php');?>
+<?php require('modal/feminisme.php');?>
+<?php require('modal/fidelite.php');?>
+<?php require('modal/fille-mere-nourrice.php');?>
+<?php require('modal/fin.php');?>
+<?php require('modal/foi.php');?>
+<?php require('modal/force-feconde.php');?>
+<?php require('modal/frere.php');?>
+<?php require('modal/geographie.php');?>
+<?php require('modal/grace.php');?>
+<?php require('modal/histoire.php');?>
+<?php require('modal/historisme.php');?>
+<?php require('modal/homme-complet.php');?>
+<?php require('modal/honneur.php');?>
+<?php require('modal/humaniste.php');?>
 
-  
-     
+
+
+
+
 <?php require('footer.php');?>
     

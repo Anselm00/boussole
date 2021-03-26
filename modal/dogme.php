@@ -1,7 +1,7 @@
 <!-- Modal Structure -->
-<div id="divination" class="modal">
+<div id="dogme" class="modal">
 			<div class="modal-content">
-			  <h4>Divination</h4>
+			  <h4>Dogme</h4>
 			  
 			  <p>« Pourquoi cette déclaration première, concernant la Réalité religieuse, 
 				  revêt-elle à tous points de vue une allure Acerbe et Péremptoire ? 
@@ -13,7 +13,7 @@
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Mentalite_Religieuse_ed.pdf" target="_blank"> "Mentalité Religieuse"</a>, p.12 - mars 2004 - Freddy Malot - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Mentalite_Religieuse_ed.pdf" target="_blank"> "Mentalité Religieuse"</a>, p.12 - Freddy Malot - mars 2004 - Editions de l'Evidence - 2010</p>
 			  
 
 			</div>

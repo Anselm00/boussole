@@ -18,7 +18,7 @@ etc. »</p>
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/resurrection_janv06_ed.pdf" target="_blank"> "Résurrection de l'Occident"</a>, p.8 - Jan. 2006 - Talib Freddy - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/resurrection_janv06_ed.pdf" target="_blank"> "Résurrection de l'Occident"</a>, p.8 - jan. 2006 - Talib Freddy - Editions de l'Evidence - 2010</p>
 			  
 
 			</div>

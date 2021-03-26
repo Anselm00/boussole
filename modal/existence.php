@@ -23,7 +23,7 @@
 				  doivent régler Vie-Intermittente, faute de quoi la Catastrophe 
 				  matérielle du monde s’ensuivrait. »</p>
 
-<img class="image" src="img/evidence.png"/>
+
 
 <p>__________________________</p>
 

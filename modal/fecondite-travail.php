@@ -36,7 +36,7 @@
 
 	<p>__________________________</p>
 		  
-	<p>Voir <a href="https://www.eglise-realiste.org/pdf/Mere_Fondamentale_ed.pdf" target="_blank"> "La Mère Fondamentale"</a>, p.13 - septembre 1999 - Freddy Malot - Editions de l'Evidence</p>
+	<p>Voir <a href="https://www.eglise-realiste.org/pdf/Mere_Fondamentale_ed.pdf" target="_blank"> "La Mère Fondamentale"</a>, p.13 - Freddy Malot - septembre 1999</p>
 	
 	<p>__________________________</p>
 
@@ -47,7 +47,7 @@
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Adieu_Argent_et_Armement_ed.pdf" target="_blank"> "Adieu à l'Argent et à l'Armement"</a>, p.16 - 30.05.2013 - Sylvie d'après Freddy - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Adieu_Argent_et_Armement_ed.pdf" target="_blank"> "Adieu à l'Argent et à l'Armement"</a>, p.16 - 30.05.2013 - Sylvie d'après Freddy</p>
 			  
 
 			</div>

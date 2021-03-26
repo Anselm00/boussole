@@ -4,9 +4,9 @@
 			  <h4>Evidence</h4>
 			  
 			  <p>« La pensée mène l’humanité » ; ceci est notre toute première Évidence.
-Immédiatement après, il faut préciser : ce n’est point en recourant à la Religion
+Immédiatement après, il faut préciser : ce n’est point en recourant à la <b><u>Religion</u></b>
 (spiritualiste) que les premiers hommes crièrent leur « exceptionnalisme » sur notre
-Terre ; mais précisément par l’Observance (matérialiste), qui en est le contraire direct.
+Terre ; mais précisément par l’<b><u>Observance</u></b> (matérialiste), qui en est le contraire direct.
 On a ainsi :</p>
 
 <img class="image" src="img/evidence.png"/>
@@ -15,7 +15,7 @@ On a ainsi :</p>
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/_ed.pdf" target="_blank"> ""</a>, p.81,82 -  - Freddy Malot - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Deux_points_a_mediter_ed.pdf" target="_blank"> "Deux points à méditer absolument"</a> - Aîné de Dom Deschamps - 8 oct. 2017</p>
 			  
 
 			</div>
