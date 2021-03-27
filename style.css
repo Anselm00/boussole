@@ -1,6 +1,6 @@
 
 body {    
-color:white;}
+color:black;}
 
 section {
     background:white;
@@ -12,6 +12,23 @@ section {
 .sidenav-trigger {
     z-index: 2 !important;
     position: fixed !important;
+}
+
+.search-container {
+    width: 350px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 221px;
+}
+
+.search-container ul {
+
+/* height: 200px;
+overflow-y: scroll; */
+}
+
+.search-container li {
+    margin:20px;
 }
 
 h1 {
@@ -27,6 +44,29 @@ h1 {
     height:100%;
     position: fixed;
     z-index: 0;
+    filter: blur(2px);
+}
+
+.background {
+    background:url('img/wordcloud.png');background-size: cover;
+    width: 100%;
+    height:100%;
+    position: absolute;
+    z-index: 0;
+    filter: blur(2px);
+    background-position: 50% 50%;
+}
+
+.background2 {
+    background: black;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 0;
+    margin-top: 1;
+    margin-top: 658px;
+    background-position: 50% 50%;
 }
 
 .modal {

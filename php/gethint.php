@@ -1,6 +1,6 @@
 <?php
 // Array with names
-$file = '../menu.php';
+$file = '../menu.txt';
 
 
 // get the q parameter from URL
@@ -30,5 +30,5 @@ if(preg_match_all($pattern, $contents, $matches)){
    
 }
 else{
-   echo "No matches found";
+   echo "<li>Aucun résultat</li>";
 }
