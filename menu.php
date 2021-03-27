@@ -99,10 +99,11 @@
 <li><a class="modal-trigger" href="#nation-phare">Nation Phare</a></li>
 <li><a class="modal-trigger" href="#naturaliste">Naturaliste</a></li>
 <li><a class="modal-trigger" href="#nature">Nature</a></li>
-<li><a class="modal-trigger" href="#neant">Néant</a></li>
+<li><a class="modal-trigger" href="#neant1">Néant</a></li>
+<li><a class="modal-trigger" href="#neant2">Néant</a></li>
 <li><a class="modal-trigger" href="#necessite">Nécessité</a></li>
 <li><a class="modal-trigger" href="#observance">Observance</a></li>
-<li><a class="modal-trigger" href="#organes-publiques">Organes Publiques</a></li>
+<li><a class="modal-trigger" href="#organes-publics">Organes Publics</a></li>
 <li><a class="modal-trigger" href="#parents">Parents</a></li>
 <li><a class="modal-trigger" href="#patience">Patience</a></li>
 <li><a class="modal-trigger" href="#patrie-celeste">Patrie Céleste</a></li>

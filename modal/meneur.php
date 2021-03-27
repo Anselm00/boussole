@@ -12,7 +12,7 @@
 				  et ridicule”, avec leur Sénat de Lords qui prétend “balancer” le pouvoir 
 				  législatif de la Chambre des Communes ; oublions ce “fatras des idées anglaises” 
 				  qu’on nous met sur le tapis, “sous l’autorité qui veut en imposer de l’aristocrate 
-				  Montesquieu4”, avec le prétexte de la nécessité d’un “corps intermédiaire”, 
+				  Montesquieu”, avec le prétexte de la nécessité d’un “corps intermédiaire”, 
 				  dans le seul but de nous infliger une “démocratie féodale” ! Les anglais 
 				  rétorquent : nous ne tolèrerons jamais une telle Religion Parfaite, 
 				  avec ses conséquences sur le Gouvernement et les Entreprises. 

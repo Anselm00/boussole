@@ -17,12 +17,12 @@
 			  à la nettoyer, la guérir. Cela explique du même coup pourquoi 
 			  les juifs sont environnés de Parentés Futiles, et pourquoi 
 			  en leur sein même il y aura des juifs <b>Droits</b> 
-			  (ils traduisent par Justes : TSADDIQYM6), et 
+			  (ils traduisent par Justes : TSADDIQYM), et 
 			  des juifs tortus. Il y a aussi des Devins 
-			  (ils disent Prophète : NABY’7), “possédés” 
+			  (ils disent Prophète : NABY’), “possédés” 
 			  communautaires, en temps de crise grave. En temps normal, 
-			  il suffit d’avoir des Sacrificateurs (ils disent Prêtre : COHEN8), 
-			  et les juifs peuvent même avoir des Prosélytes (GUÉR9). 
+			  il suffit d’avoir des Sacrificateurs (ils disent Prêtre : COHEN), 
+			  et les juifs peuvent même avoir des Prosélytes (GUÉR). 
 			  De toute façon, tout le Redressement de la Nature consiste 
 			  essentiellement en restitutions solennelles d’une part de 
 			  ses Dons dans les Sacrifices (y compris dévouer les 

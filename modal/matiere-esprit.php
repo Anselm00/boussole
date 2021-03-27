@@ -1,5 +1,5 @@
 <!-- Modal Structure -->
-<div id="matiere-Esprit" class="modal">
+<div id="matiere-esprit" class="modal">
 			<div class="modal-content">
 			  <h4>Matière Esprit</h4>
 			  
