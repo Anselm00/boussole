@@ -5,7 +5,7 @@
 	  		
 		<p> « La <b>Religion Pure</b> – celle des Temps Modernes – veut que Dieu soit pur <b>Auteur</b> de la Création, c’est-à-dire que les Hommes en répandent enfin l’idée qui coïncide complètement avec ce qu’il est vraiment, tant en ce qui concerne ce qui en est intelligible pour nous, que quant à la nature de son vrai Mystère. Ainsi est tournée la page de la religion impure pré-Moderne, qui avait successivement donné à Dieu les noms de <b>Maître</b>, puis de <b>Père</b>.</p>
 <p><b>Tout change avec le Dieu Auteur</b> : et la Théologie, et Logique-Math, et Morale-Physique, et Marché-État, et Mystique-Art.</p>
-•••
+<p style="text-align:center;">• • •</p>
 <p>L’Auteur donne pour la 1ère fois Dieu <b>“Créateur à partir du Néant”</b>, et une <b>Création Perpétuelle-Illimitée</b>.</p>
 <p><b>1</b>- Or, ceci suppose que <b>Dieu se borne à Créer l’AUTRE-MONDE</b> ; et il crée celui-ci, <b>en un Instant Unique</b> qui est un “accident” de son Éternité, Instant qui est l’Origine, la Source, du Temps, mais non pas le Temps lui-même qui est fait de Moments, lesquels supportent CE-MONDE… et l’AUTRE que Dieu n’habite ni plus, ni moins, que Celui-ci.</p>
 <p><b>2</b>- En quoi consiste la Création par Dieu de l’Autre-Monde ? C’est la Création de l’<b>Âme Première</b> unique, à laquelle échoit du même coup – comme “accident de l’accident” – le <b>Corps Premier</b>, version totalement purifiée de la vieille “Matière Première”. L’Âme première et le Corps Premier de l’Autre-Monde forment la <b>Personne Première</b> tout à fait Perpétuelle, seul fruit de l’acte Créateur.</p>

@@ -6,7 +6,7 @@
 			  <p>« 1/ La question de la femme est évidemment aussi celle du <b>Ménage</b>. Or, ce dernier est la “cellule
 fondamentale” revendiquée de la société Bourgeoise. Le problème conduit donc à introduire dans la
 cause l’ensemble de l’ordre Civilisé.</p>
-<p>C’est d’un assainissement <b>Théorique</b> radical dont nous avons besoin. Pour ce faire, reportonsnous
+<p>C’est d’un assainissement <b>Théorique</b> radical dont nous avons besoin. Pour ce faire, reportons nous
 tout d’abord à “Ménage Privé” et “Putain & Poulinière”.</p>
 <p>2/ Le Parti Féminin est tout autre chose qu’une <b>Association</b> parmi d’autres : c’est un des éléments
 de la double Assise naturelle du nouveau Peuple.</p>
@@ -20,7 +20,7 @@ dans le dilemme hors sujet : féminisme “de lutte de classes” (pour les seul
 féminine dans notre Occident dégénéré depuis 1835. C’est au contraire de la faillite scandaleuse et
 cruelle des anti-droits portés à leur comble que le “Sexe” souffre actuellement.
 Dans tous les domaines, la femme n’a eu droit sous la Caste barbare dominante qu’à des cadeaux
-<b>empoisonnés</b> semant le malheur : droit de Vote, régime Matrimonial légal16, Capacité juridique
+<b>empoisonnés</b> semant le malheur : droit de Vote, régime Matrimonial légal, Capacité juridique
 (action en justice, disposition des biens), liberté Professionnelle, Puissance maritale et paternelle,
 Divorce, Contraception-Avortement, Prostitution.</p>
 <p>4/ Le P.F. est tout d’abord l’instrument Vital – et le seul fiable – de destruction de la <b>Bestialité
@@ -43,7 +43,7 @@ des ♂ : Society to Cut Up Men).»</p>
 <p>Notes, cf. document original
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel_Handbook_Programme_Platform.pdf" target="_blank"> "Question de la Femme (Manuel-Programme)"</a>, p.68(31) - 22.01.2012 - Talib Freddy - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Question de la Femme (Manuel-Programme)"</a>, p.68 (31) - 22.01.2012 - Talib Freddy - Editions de l'Evidence</p>
 			  
 
 			</div>

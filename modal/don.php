@@ -25,7 +25,7 @@
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Volontariat_Gratuite_ed.pdf" target="_blank"> "Volontariat Gratuité"</a>, p.7-8 - août 2005 - Talib Freddy - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Volontariat_Gratuite_ed.pdf" target="_blank"> "Volontariat Gratuité"</a>, p.7-8 - Talib Freddy - août 2005</p>
 			  
 
 			</div>

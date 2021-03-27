@@ -1,7 +1,7 @@
 <!-- Modal Structure -->
-<div id="loi" class="modal">
+<div id="citoyen" class="modal">
 			<div class="modal-content">
-			  <h4>Loi</h4>
+			  <h4>Citoyen</h4>
 			  
 			  <p>« D’une manière générale, la Constitution de 1791 juge tout à fait “naturel” que les Propriétaires et Citoyens Actifs forment une minorité sociale.
 <p>- Les choses se présentent de la façon suivante :</p>
@@ -17,11 +17,11 @@ On ne se rend pas compte à quel point la seule Constitution de 1791, bien qu’
 			  
 				  <p>__________________________</p>
 
-<p>La Citoyenneté publique est le complément nécessaire de la Propriété privée. Elle est effective en engendrant un ÉTAT incarnant la Volonté générale. D’abord, les Propriétaires – Représentants naturels de la Nation – font valider l’Égalité de tous devant la Loi. Ensuite, ce pouvoir législatif se donne un pouvoir Exécutif (agents publics, fonctionnaires), gage de la Sûreté de chacun des propriétaires, où l’on n’est admis que selon la Capacité (égale admission aux Dignités, Places et Emplois publics, selon la Vertu et le Talent).</p>
+<p>« La Citoyenneté publique est le complément nécessaire de la Propriété privée. Elle est effective en engendrant un ÉTAT incarnant la <b>Volonté générale</b>. D’abord, les Propriétaires – Représentants naturels de la Nation – font valider l’<b>Égalité</b> de tous devant la Loi. Ensuite, ce pouvoir législatif se donne un pouvoir Exécutif (agents publics, fonctionnaires), gage de la <b>Sûreté</b> de chacun des propriétaires, où l’on n’est admis que selon la <b>Capacité</b> (égale admission aux Dignités, Places et Emplois publics, selon la Vertu et le Talent). »</p>
 			
 <p>__________________________</p>
 
-<p>Voir <a href="https://www.eglise-realiste.org/pdf1789_Homme_Vrai_ed.pdf" target="_blank"> "1789, l'Homme Vrai est Bourgeois"</a>, - février 2006  - Freddy Malot</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/1789_Homme_Vrai_ed.pdf" target="_blank"> "1789, l'Homme Vrai est Bourgeois"</a>, - février 2006  - Freddy Malot</p>
 
 <p>__________________________</p>
 

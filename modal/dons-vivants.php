@@ -1,7 +1,7 @@
 <!-- Modal Structure -->
-<div id="don" class="modal">
+<div id="dons-vivants" class="modal">
 			<div class="modal-content">
-			  <h4>Don</h4>
+			  <h4>Dons Vivants</h4>
 			  
 			  <p>« Dans l’histoire réelle de l’Émanation du Monde, la Communauté Parentale 
 				  élue (et donc toute l’humanité) ne sait pas “cueillir” comme il 
@@ -21,7 +21,7 @@
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Producteur_Libre_ed.pdf" target="_blank"> "Producteurs de Dons"</a>, p.5-6 - 27 novembre 2005 - Talib Freddy - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Producteur_Libre_ed.pdf" target="_blank"> "Producteurs de Dons"</a>, p.5-6 - Talib Freddy - 27 novembre 2005</p>
 			  
 
 			</div>

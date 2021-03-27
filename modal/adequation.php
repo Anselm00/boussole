@@ -17,7 +17,7 @@ Rapport, il y a Adéquation totale du “mot” et de la “chose”.</p>
 
 		  </blockquote>
 
-		  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank">"Manuel Programme Réaliste Convenable"</a>, page 46 - Talib Freddy - 2-01-2012 -  Editions de l'Evidence </p>
+		  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank">"Manuel Programme Réaliste Convenable"</a>, page 46 - Talib Freddy - 2.01.2012 -  Editions de l'Evidence - 2012 </p>
 	  <blockquote>
 
 	  <img class="image" src="img/les_deux_societes.png"/>	

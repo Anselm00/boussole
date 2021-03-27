@@ -8,7 +8,7 @@ ceci : s’avouer Esclave de la nature ou s’en déclarer le Maître sont les d
 médaille : <b>le VRAI TRAVAIL</b>, complet et équilibré.</p>
 <p>Il suffit de fondre ensemble les deux flancs de la maladroite Partialité préhistorique
 pour l’abolir ! Célébrons le mariage inédit Égalité-Liberté : c’est la formule même de
-la VRAIE SOCIÉTÉ, du Nouvel Homme complet et équilibré. »</p>
+<b>la VRAIE SOCIÉTÉ</b>, du Nouvel Homme complet et équilibré. »</p>
 <p>__________________________</p>
 
 				  

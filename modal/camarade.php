@@ -39,7 +39,7 @@ Comm-Anar. Sans Argent et sans Armes.</p>
 
 <p>CREDO Réaliste Convenable - Talib Freddy 2012</p>
 
-<p>Voir<a href="https://www.eglise-realiste.org/credo/index.html" target="_blank">"CREDO ERM-TNP"</a>
+<p>Voir<a href="https://www.eglise-realiste.org/credo/index.html" target="_blank"> "CREDO ERM-TNP"</a>
 
 
 </div>

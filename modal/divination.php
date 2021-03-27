@@ -17,7 +17,7 @@ sur laquelle devait couler (Mana) le sang des victimes offertes en sacrifice. »
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Autour_de_l_Islam_3_ed.pdf" target="_blank"> "Autour de l'Islam"</a>, Tome III, p.20 - 1999 - Freddy Malot - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Autour_de_l_Islam_3_ed.pdf" target="_blank"> "Autour de l'Islam"</a>, Tome III, p.20 - 1999 - Freddy Malot - Editions de l'Evidence - 2010</p>
 			  
 
 			</div>

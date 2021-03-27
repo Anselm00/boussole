@@ -15,7 +15,7 @@
 				  formes seulement distinctes selon leur “domicile” du moment, la cause unique de la République Sociale. »</p>
 <p>__________________________</p>
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/FP_Ouest_I_ed.pdf" target="_blank"> "La Fin de la Préhistoire, L'Ouest I"</a>, p.40 - Fredy Malot - avril 1992</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/FP_Ouest_I_ed.pdf" target="_blank"> "La Fin de la Préhistoire, L'Ouest I"</a>, p.40 - Front Social du Salut - Freddy Malot - avril 1992</p>
 <p>__________________________</p>
 
 				  <p>« Le phénomène de “blocage” de la pensée civilisée se manifesta clairement avec
@@ -65,7 +65,7 @@ présentées alors comme de pauvres proies “crédules” ! »</p>
 
 <p>__________________________</p>
 
-<p>Voir <a href="https://www.eglise-realiste.org/pdf/Probleme_philo_ed.pdf" target="_blank"> "Le Problème Philosophique"</a>, p.9 - Fredy Malot - septembre 1992</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Probleme_philo_ed.pdf" target="_blank"> "Le Problème Philosophique"</a>, p.9 - Freddy Malot - septembre 1992 - Association Le Sens de l'Histoire</p>
 
 			</div>
 			<div class="modal-footer">

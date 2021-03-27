@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Emanation</h4>
 			  
-			  <p>« Tout au long de son histoire, la Société Parentale conserva la même base.
+			  <p>« Tout au long de son histoire, la Société Parentale conserva <b>la même base</b>.
 Concernant la théorie, elle est Matérialiste. Cela veut dire que la Substance
 dernière de la Réalité est la Matière Fondamentale, “RACINE” (CHORÈCH) du Monde.</p>
 <p>Quant au Monde, il est Émanation de cette Racine répartie en deux régions :</p>
@@ -19,7 +19,7 @@ la seconde se reconnaissant tributaire des Bénédictions (dons) proposées par 
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Theorie_generale_ed.pdf" target="_blank"> "Esclavage et Démocratie"</a>, p.12 - août 2005 - Talib Freddy - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Esclavage_Egalit_Despot_ed.pdf" target="_blank"> "Esclavage et Démocratie"</a>, p.12 - août 2005 - Talib Freddy - Editions de l'Evidence</p>
 			  
 
 			</div>
