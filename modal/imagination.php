@@ -18,7 +18,7 @@
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Producteur_Libre_ed.pdf" target="_blank"> "Producteurs Libres de Dons Vivants"</a>, p.12 - 27 novembre 2005 - Talibb Freddy - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Producteur_Libre_ed.pdf" target="_blank"> "Producteurs Libres de Dons Vivants"</a>, p.12 - Talib Freddy - 27 novembre 2005</p>
 			  
 
 			</div>

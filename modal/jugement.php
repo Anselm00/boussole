@@ -5,24 +5,24 @@
 			  
 			  <p><b>I - J U G E M E N T S</b>
 <p><b>1 - Quantité des jugements.</b></p>
-<p>a) Jugements généraux,</p>
-<p>b) particuliers, ou pluriels,</p>
+<p>a) Jugements généraux,<br>
+<p>b) particuliers, ou pluriels,<br>
 <p>c) et individuels.</p>
 
 <p><b>2 - Qualité des jugements.</b></p>
-<p>d) Jugements affirmatifs,</p>
-<p>e) négatifs,</p>
+<p>d) Jugements affirmatifs,<br>
+<p>e) négatifs,<br>
 <p>f) et déterminatifs.</p>
 
 <p><b>3 - Relation des jugements.</b></p>
-<p>g) Jugements catégoriques,</p>
-<p>h) hypothétiques,</p>
+<p>g) Jugements catégoriques,<br>
+<p>h) hypothétiques,<br>
 <p>i) et disjonctifs.</p>
 
 <p><b>4 - Modalité des jugements.</b></p>
-<p>l) Jugements problématiques,</p>
-<p>m) assertoriques,</p>
-<p>n) et apodectiques »</p>
+<p>l) Jugements problématiques,<br>
+<p>m) assertoriques,<br>
+<p>n) et apodectiques</p>
 <p>__________________________</p>
 
 				  
@@ -34,7 +34,7 @@
 <p>Un jour, nous étions assis en conférence chez l’Envoyé de Dieu (à lui bénédiction et salut), et voici que se présenta à nous un homme vêtu d’habits d’une blancheur resplendissante, et aux cheveux très noirs. On ne pouvait distinguer sur lui une trace de voyage, alors que personne d’entre nous ne le connaissait.</p>
 <p>Il prit alors place en face du Prophète (à lui bénédiction et salut). Il plaça ses genoux contre les siens, et posa les paumes de ses mains sur les cuisses de celui-ci, et lui dit :</p>
 <p>“O Moh’ammed, fais-moi connaître l’Islam”. L’Envoyé de Dieu (à lui bénédiction et salut) dit alors :</p>
-<p><i>“L’Islam consiste en ce que tu dois : témoigner qu’il n’est d’autre divinité qu’Allâh, et que Moh’ammed est Son Envoyé, accomplir la prière rituelle, verser la zekâa (impôt rituel) et accomplir le jeûne de Ramadhân, ainsi que le pèlerinage à la Maison d’Allâh si les conditions de voyage rendent la chose possible”</i></p>.
+<p><i>“L’Islam consiste en ce que tu dois : témoigner qu’il n’est d’autre divinité qu’Allâh, et que Moh’ammed est Son Envoyé, accomplir la prière rituelle, verser la zekâa (impôt rituel) et accomplir le jeûne de Ramadhân, ainsi que le pèlerinage à la Maison d’Allâh si les conditions de voyage rendent la chose possible”.</i></p>
 <p>Son interlocuteur lui répondit : “Tu as dit vrai”, et nous de nous étonner, tant de sa question que de son approbation, puis, il reprit : “Fais-moi connaître la Foi”. Le Prophète répliqua :</p>
 <p><i>“La foi consiste en ce que tu dois croire à Allâh, à Ses Anges, à Ses Livres, à son Prophète, au Jugement dernier. Tu dois croire encore à la prédestination touchant le bien et le mal”.</i></p>
 <p>L’homme lui dit encore : “Tu as dit vrai”, et il reprit : “Fais-moi connaître la vertu”, et le Prophète lui répondit :</p>

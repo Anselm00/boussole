@@ -95,7 +95,7 @@ Tiers-Monde ! »</p>
 
 				  
 
-<p>Voir <a href="https://www.eglise-realiste.org/pdf/Esclavage_Eglait_Despot_ed.pdf" target="_blank"> "Esclavage et Démocratie"</a>, p.9 - août 2005 - Talib Freddy - Editions de l'Evidence</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Esclavage_Egalit_Despot_ed.pdf" target="_blank"> "Esclavage et Démocratie"</a>, p.9 - Talib Freddy - août 2005 - Editions de l'Evidence - 2010</p>
 
 
 			</div>

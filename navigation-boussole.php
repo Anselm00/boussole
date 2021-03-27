@@ -439,8 +439,26 @@
 <?php require('modal/homme-complet.php');?>
 <?php require('modal/honneur.php');?>
 <?php require('modal/humaniste.php');?>
+<?php require('modal/humanite.php');?>
+<?php require('modal/ideal-anarchiste.php');?>
+<?php require('modal/idolatre.php');?>
+<?php require('modal/humaniste.php');?>
+<?php require('modal/imagination.php');?>
+<?php require('modal/imperatif-moral.php');?>
+<?php require('modal/inities.php');?>
+<?php require('modal/intello.php');?>
+<?php require('modal/inventif.php');?>
+<?php require('modal/jugement.php');?>
+<?php require('modal/liberte-revolutionnaire.php');?>
+<?php require('modal/libre-arbitre.php');?>
+<?php require('modal/loi.php');?>
+<?php require('modal/magie.php');?>
+<?php require('modal/maitre.php');?>
+<?php require('modal/marcottage.php');?>
+<?php require('modal/maritalat.php');?>
+<?php require('modal/masculin.php');?>
 
-
+<?php require('modal/societe-de-personnes.php');?>
 
 
 

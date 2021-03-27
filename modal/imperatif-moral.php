@@ -1,9 +1,9 @@
 <!-- Modal Structure -->
-<div id="impératif-moral" class="modal">
+<div id="imperatif-moral" class="modal">
 			<div class="modal-content">
 			  <h4>Impératif Moral</h4>
 			  
-			  <p>La vraie Religion est celle que j’expose. Elle est Naturelle et Rationnelle parce
+			  <p>« La vraie Religion est celle que j’expose. Elle est Naturelle et Rationnelle parce
 qu’elle prêche ceci : chaque homme sans exception, s’il obéit à l’Impératif Moral avec
 ses conséquences prend le chemin d’un “vicaire de Dieu”. Mais lui-même est juge du
 fait qu’il emprunte la voie du Bien et s’y maintient, et personne d’autre ; et c’est en
@@ -154,7 +154,7 @@ de ses descendants le penchant au Mal
 prima sur l’Impératif du Bien.</p>
 
 <p style="text-align:center;"><b>§ 144</b></p>		  
-<p>« <b>Devoir réglé</b> parfaitement.
+<p><b>Devoir réglé</b> parfaitement.
 D’abord, que veut dire “Aime Dieu par-dessus
 tout, et Autrui comme toi-même”
 ? C’est : aime celui qui est le
@@ -164,7 +164,7 @@ sans considération d’intérêt personnel.
 Ne rabaissons pas cela à deux maximes
 ordinaires de la vertu ; c’est la voie de
 Sainteté qui est imposée, et toutes les
-maximes ne servent que pour y marcher. »</p>
+maximes ne servent que pour y marcher.</p>
 
 <p style="text-align:center;"><b>§ 163</b></p>
 <p>Apportons donc les vraies Lumières
@@ -220,7 +220,7 @@ problème l’existence de Dieu.</p>
 <p>- N’empêche que le pourquoi et le
 comment de Dieu lui-même nous sont
 complètement cachés en Ce-monde
-(􀂀 chap. V).</p>
+(􀂀 chap. V). »</p>
 
 
 
@@ -228,7 +228,7 @@ complètement cachés en Ce-monde
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Etude_Abrege_ERM-Kant_ed.pdf" target="_blank"> "Etude de l'Abrégé de la Religion de Kant"</a> - mai 2008 - Talibb Freddy - Eglise Réaliste Mondiale - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Etude_Abrege_ERM-Kant_ed.pdf" target="_blank"> "Etude de l'Abrégé de la Religion de Kant"</a> - Talib Freddy - mai 2008 - Eglise Réaliste Mondiale - Editions de l'Evidence - 2015</p>
 			  
 
 			</div>

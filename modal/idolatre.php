@@ -7,7 +7,7 @@
 de leur Religion. Il s’agit pour eux, immédiatement et quant-à-soi, de s’extirper du
 monde parental auquel ils appartiennent, <b>qu’ils dénoncent</b> comme Idolâtre
 (mental) et Totalitaire (social).</p>
-<p>C’est que, dans chaque <b>décadence</b> Asiate locale10, le régime ne pouvait
+<p>C’est que, dans chaque <b>décadence</b> Asiate locale, le régime ne pouvait
 survivre qu’en conservant un formalisme de plus en plus oppressif. Évidemment, le
 Collectivisme en décomposition minait l’Observance officielle : adieu, Honneur,
 Solidarité de sang, secours à la veuve et l’orphelin, vénération des patriarches ! Bref :
@@ -32,15 +32,13 @@ fondement était catégorique : les Personnes du « siècle » ne pouvaient se d
 qu’un <b>Sujet Suprême</b> (Âme absolue), Père-Créateur ayant « tiré du Néant »
 l’Univers ! »</p>
 
-<p>_______</p>
-<p>Notes: voir le document original</p>
 
 
 <p>__________________________</p>
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Prehistoire_Vivante_ed.pdf" target="_blank"> "Préhistoire Vivante"</a>, p.3 - 11 septembre 2017 - Freddy Malot, Aîné de Dom Deschamps- Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Prehistoire_Vivante_ed.pdf" target="_blank"> "Préhistoire Vivante"</a>, p.3 - 11 septembre 2017 - Freddy Malot, Aîné de Dom Deschamps</p>
 			  
 
 			</div>

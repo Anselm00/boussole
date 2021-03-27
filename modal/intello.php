@@ -26,7 +26,7 @@ en 1794, par le Culte de l’Être Suprême
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Mentalite_Religieuse_ed.pdf" target="_blank"> "Deux Révolutions Totales"</a>, p.51 - mars 2004 - Talibb Freddy - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Mentalite_Religieuse_ed.pdf" target="_blank"> "Deux Révolutions Totales"</a>, p.51 - Talib Freddy - mars 2004 - Eglise Réaliste Mondiale - Editions de l'Evidence - 2010</p>
 			  
 
 			</div>

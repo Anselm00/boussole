@@ -8,11 +8,11 @@ est “Innommé”. Toute Association Mixte est présumée Masculine, et offerte
 P.F. »</p>
 <p>__________________________</p>
 
-<p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel_Handbook_Programme-Platform.pdf" target="_blank"> "Manuel Réaliste Convenable du Comm-Anar"</a>, note 1, p.62 (28) - 19.01-2012 - Talib freddy - Editions de l'Evidence</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Manuel Réaliste Convenable du Comm-Anar"</a>, note 1, p.62 (28) - 19.01-2012 - Talib freddy - Editions de l'Evidence</p>
 			  
 
 
-
+Le LIEN NE FONCTIONNE PAS!
 
 			</div>
 			<div class="modal-footer">

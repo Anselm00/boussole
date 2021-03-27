@@ -56,7 +56,7 @@ transgressions nécessaires. »</p>
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Sagesse_Trad_ed.pdf" target="_blank"> "La Sagesse Traditionnelle"</a>, p.19,20 - mai 1991 - Freddy Malot - Association le Sens de l'Histoire - Editions de l'Evidence - 2010</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Sagesse_Trad_ed.pdf" target="_blank"> "La Sagesse Traditionnelle"</a>, p.19,20 - mai 1991 - Freddy Malot - Association le Sens de l'Histoire</p>
 			  
 
 			</div>

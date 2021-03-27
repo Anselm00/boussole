@@ -17,7 +17,7 @@ involontaire pouvant devenir délibérée. »</p>
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Humanite_Prehistorique_ed.pdf" target="_blank"> "Humanité Préhistorique"</a>, p.3 - 11 avril 2007 - Talib Freddy -</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Humanite_Prehistorique_ed.pdf" target="_blank"> "Humanité Préhistorique"</a>, p.3 - Talib Freddy - 11 avril 2007</p>
 			  
 				  <p>__________________________</p>
 
@@ -28,7 +28,7 @@ des Commandements juifs (MITSVOTS) –, ils règlent les comportements selon le 
 et l’impur. »</p>
 <p>__________________________</p>
 
- <p>Voir <a href="https://www.eglise-realiste.org/pdf/Trois_Humanite_ed.pdf" target="_blank"> " Les Trois Humanités"</a>, p.4 - 17 janvier 2007 - Talib Freddy - Editions de l'Evidence - 2010</p>
+ <p>Voir <a href="https://www.eglise-realiste.org/pdf/Trois_Humanites_ed.pdf" target="_blank"> "Les Trois Humanités"</a>, p.4 - Talib Freddy - 17 janvier 2007 - Editions de l'Evidence - 2010</p>
 
 
 			</div>

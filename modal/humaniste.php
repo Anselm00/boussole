@@ -50,7 +50,7 @@
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/r_v3_francais_ed.pdf" target="_blank"> "Acquis Sociaux? Funeste Foutaise!"</a>, p.8 - juin 2003 - Freddy Malot - Eglise Réaliste Mondiale</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/FP_Sud_ed.pdf" target="_blank"> "La fin de la Préhistoire: Le Sud"</a>, p.30 - Freddy Malot - avril 1992 - Editions de l'Evidence - 2010</p>
 			  
 
 			</div>
