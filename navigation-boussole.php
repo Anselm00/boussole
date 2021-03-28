@@ -471,6 +471,12 @@
 <?php require('modal/pere.php');?>
 <?php require('modal/pere-supreme.php');?>
 <?php require('modal/personnalisme.php');?>
+<?php require('modal/peuple-bijou.php');?>
+<?php require('modal/plan.php');?>
+<?php require('modal/planete.php');?>
+<?php require('modal/policee.php');?>
+
+
 
 
 <?php require('modal/proprio.php');?>
