@@ -1,12 +1,34 @@
 
-body {    
+#svg1, #svg2{
+    height: 100vh;
+    width: 100%;
+  }
+
+
+  .hints {
+    position: absolute;
+    top: 64px;
+    background: white;
+    left: 65px;
+    width: 350px;
+  }
+  
+  .hints li {
+    color: grey;
+    float:none;
+  }
+
+  .hints li a {
+    color: #039be5;
+  }
+  
+  body {    
 color:black;}
 
 section {
     background:white;
     color:black;
     z-index: 1;
-    margin-bottom: 50px;
 }
 
 .sidenav-trigger {
@@ -35,7 +57,14 @@ h1 {
     z-index: 1;
  font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2em;
-    margin:100px;
+    margin-top:100px;
+    margin-left: 20px;
+    color:white;
+   }
+
+   section p {
+       color:white;
+       margin:20px;
    }
 
 .fond {
@@ -43,8 +72,8 @@ h1 {
     width: 100%;
     height:100%;
     position: fixed;
-    z-index: 0;
-    filter: blur(2px);
+    z-index:-1;
+    filter: blur(2px)  brightness(0.5);;
 }
 
 .background {
@@ -122,12 +151,30 @@ div.modal span {
     display: flex;
     margin-top: 50px;
 }
-.svg {
-
+.svg1 {
+    width: 1000px;
+    height: 1000px;
+    background: url(img/logo_home.png) no-repeat 50% 50%;
+    display: block;
+    background-size: 6%;margin-top:100px;
     text-align: center;
     -webkit-animation:spin 360s linear infinite;
     -moz-animation:spin 360s linear infinite;
     animation:spin 360s linear infinite;
+    overflow: hidden;
+}
+
+.svg2 {
+    width: 1000px;
+    height: 1000px;
+    background: url(img/logo_home.png) no-repeat 50% 50%;
+    display: block;
+    background-size: 6%;margin-top:100px;
+    text-align: center;
+    -webkit-animation:spin 360s linear infinite;
+    -moz-animation:spin 360s linear infinite;
+    animation:spin 360s linear infinite;
+    overflow: hidden;
 }
 @-moz-keyframes spin { 100% { -moz-transform: rotate(-360deg); } }
 @-webkit-keyframes spin { 100% { -webkit-transform: rotate(-360deg); } }

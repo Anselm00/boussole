@@ -20,15 +20,15 @@ $pattern = "/^.*$pattern.*\$/m";
 if(preg_match_all($pattern, $contents, $matches)){
     for($i=0;$i< count($matches[0]);$i++) {
         
-        
+        if($i<5) {
             $matches[0][$i] = str_replace(",",'">',$matches[0][$i]);
         
             $matches[0][$i] = '<li><a class="modal-trigger" href="#' . $matches[0][$i] . '</a></li>';
-        }
+        
 
-   echo implode("\n", $matches[0]);
+   echo $matches[0][$i];
    
-}
+}}}
 else{
    echo "<li>Aucun résultat</li>";
 }

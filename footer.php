@@ -3,11 +3,8 @@
             <div class="row">
               <div class="col l6 s12">
                 <h5 class="white-text">"On ne sait ni ne pouvons savoir pourquoi il y a un Monde... mais il est évident qu'il existe... Immense et Eternel" - Réel Muet -Aîné de Dom Deschamps -18-11-2020</h5>
-                <p class="grey-text text-lighten-4">Projet mené en pair programming avec Tony</p>
 				<p class="grey-text text-lighten-4">"Une Société sans religion est comme un vaisseau sans boussole" Napoléon</p>
-				<p class="grey-text text-lighten-4">"3ème Espèce, connais-toi toi-même"</p>
-				<p class="grey-text text-lighten-4">"L'Humanité est encore jeune" (Engels)"</p>
-				<p class="grey-text text-lighten-4">"Que puis-je savoir? Que dois-je faire? Que m'est-il permis d'espérer?" E.Kant</p>
+			
               </div>
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Liens importants</h5>
@@ -22,8 +19,8 @@
           </div>
           <div class="footer-copyright">
             <div class="container">
-            © Lady Ccile at St-Jean de Dieu Hospital with Care Unity Cell
-            <a class="grey-text text-lighten-4 right" href="#!">Références</a>
+             
+            <p class="right">© Website made with love by toto and ccile</p>
             </div>
           </div>
         </footer>
@@ -45,6 +42,10 @@
   $(document).ready(function(){
     $('.modal').modal();
 
+  });
+
+  $(document).ready(function(){
+    $('.scrollspy').scrollSpy();
   });
       
   

@@ -37,15 +37,29 @@
 
     <div class="fond"></div>
 
-  <nav class="nav-wrapper transparent" data-target="blue" style="    position: fixed;
+  <nav class="nav-wrapper transparent" data-target="blue" style="    position: fixed;    box-shadow: none;
     z-index: 2;">
     <div class="nav-wrapper transparent">
-      <div class="container">
-        <a href="#" class="brand-logo">Navigation Boussole</a>
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
-            <li><a href="navigation-boussole.3.php">Accueil</a></li>
-          <li><a href="navigation-boussole.php">Sociabilité</a></li>
-          <li><a href="navigation-boussole.1.php">Electre</a></li>
+      <div>
+      <div class="indigo" style="    width: 350px;
+    height: 64px;
+    margin-left: 65px;float: left;">
+      <form>
+      
+        <div class="input-field">
+        <input id="search" type="search" onkeyup="showHint(this.value)" required >
+        <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+        <i class="material-icons" onclick="clearShowHint()">close</i>
+        </div>
+      </form>
+      </div>
+
+      <ul class="hints"><span id="txtHint"></span></ul>
+
+      
+        <ul id="nav-mobile" class="right">
+          <li><a href="#sociable">Sociabilité</a></li>
+          <li><a href="#electre">Electre</a></li>
           <li><a href="navigation-boussole.2.php">Cloud</a></li>
         </ul>
       </div>
@@ -53,24 +67,11 @@
   </nav>
 
   <ul id="slide-out" class="sidenav">
-    <li><div class="user-view">
-
-      <a href="https://www.eglise-realiste.org"><img src="img/logo_home1-omb.jpg" style="
-    width: 50px;"/>Eglise-réaliste.org</a>
-      
-    </div></li>
+   
     <div class="row">
-    <form class="col s12"><div class="input-field col s12">
+    
 
-        <i class="material-icons prefix">search</i>
-          <input placeholder="Recherche" id="fname" name="fname" type="text" class="validate" onkeyup="showHint(this.value)">
-
-         </div></div></div>
-    <span id="txtHint"></span>
-
-    <li><div class="divider"></div></li> 
-
-    <?php require('menu.php');?>
+    <?php require('menu.php');?></div>
     
   </ul>
 
