@@ -1,26 +1,14 @@
 
 <?php require('header.php');?>
 
-<section><h1>Boussole de sociabilité</h1></section>
-
   <div style = "max-width:1000px;margin:auto;">
 
-  <!-- Modal Structure -->
-  <div id="modal1" class="modal modal-fixed-footer">
-    <div class="modal-content">
-      <h4>Modal Header</h4>
-      <p>A bunch of text</p>
-    </div>
-    <div class="modal-footer">
-      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
-    </div>
-  </div>
 
 <div class="svg" style="    width: 1000px;
     height: 1000px;
     background: url(img/logo_home.png) no-repeat 50% 50%;
     display: block;
-    background-size: 6%;">
+    background-size: 6%;margin-top:100px;">
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Calque_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"

@@ -1,25 +1,14 @@
 <?php require('header.php');?>
 
-<section><h1>Boussole électre</h1></section>
 
-  <div style = "max-width:1000px;margin:auto;">
+<div style = "max-width:1000px;margin:auto;">
 
-  <!-- Modal Structure -->
-  <div id="modal1" class="modal modal-fixed-footer">
-    <div class="modal-content">
-      <h4>Modal Header</h4>
-      <p>A bunch of text</p>
-    </div>
-    <div class="modal-footer">
-      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
-    </div>
-  </div>
 
 <div class="svg" style="    width: 1000px;
     height: 1000px;
     background: url(img/logo_home.png) no-repeat 50% 50%;
     display: block;
-    background-size: 6%;">
+    background-size: 6%;margin-top:100px;">
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -28,7 +17,7 @@
 	.st0{fill:#FFFFFF;}
 	.st1{opacity:0.15;fill:#BF7B00;}
 	.st2{opacity:0.1;fill:#BF7B00;}
-	.st3{opacity:0.2;fill:#FFE77F;}
+	.st3{opacity:0.2;fill:#ffc67f;}
 	.st4{fill:none;}
 	.st5{font-family:'Georgia-Bold';}
 	.st6{font-size:31.4749px;}
@@ -36,12 +25,12 @@
 	.st8{font-family:'Georgia';}
 	.st9{font-size:31.6312px;}
 </style>
-<g id="Calque_2">
+<!-- <g id="Calque_2">
 	<g>
 		<rect x="-141" y="-93.9" width="1932" height="1838"/>
 		<path class="st0" d="M1790.5-93.4v1837h-1931v-1837H1790.5 M1791.5-94.4h-1933v1839h1933V-94.4L1791.5-94.4z"/>
 	</g>
-</g>
+</g> -->
 <g id="Calque_3">
 	<path class="st1" d="M127.3,422c0,0,205.9-378.4,700.2-396.6s682.4,367.6,682.4,367.6L835.6,841L127.3,422z"/>
 	<path class="st2" d="M871.3,1665.8c0,0-474.2,24-737.6-394.8s-13.7-835-13.7-835l707.8,401.7L871.3,1665.8z"/>
@@ -385,9 +374,73 @@
 </text>
 	</g>
 </g>
-</svg>
+</svg></div></div>
 
-
+<?php require('modal/adequation.php');?> 
+<?php require('modal/alliance.php');?>
+<?php require('modal/ame-corps.php');?>  
+<?php require('modal/ami.php');?>   
+<?php require('modal/ancestral.php');?> 
+<?php require('modal/assume.php');?>
+<?php require('modal/attentif.php');?>
+<?php require('modal/auteur.php');?>
+<?php require('modal/autodidacte.php');?>
+<?php require('modal/besoins.php');?>
+<?php require('modal/bonheur-commun.php');?>
+<?php require('modal/bourgeois.php');?>
+<?php require('modal/brave.php');?>
+<?php require('modal/camarade.php');?>
+<?php require('modal/capacites.php');?>
+<?php require('modal/cellules-privees.php');?>
+<?php require('modal/cerveau-collectif.php');?>
+<?php require('modal/chasse.php');?>
+<?php require('modal/chose-pensante.php');?>
+<?php require('modal/citoyen.php');?>
+<?php require('modal/civilisation.php');?>
+<?php require('modal/comm-anar.php');?>
+<?php require('modal/contrat.php');?>
+<?php require('modal/convenable.php');?>
+<?php require('modal/coutumes.php');?>
+<?php require('modal/citoyen.php');?>
+<?php require('modal/creation.php');?>
+<?php require('modal/credo.php');?>
+<?php require('modal/critique.php');?>
+<?php require('modal/croyant.php');?>
+<?php require('modal/curieux.php');?>
+<?php require('modal/democratie-centralisee.php');?>
+<?php require('modal/dialectique-totale.php');?>
+<?php require('modal/divination.php');?>
+<?php require('modal/dogme.php');?>
+<?php require('modal/don.php');?>
+<?php require('modal/dons-vivants.php');?>
+<?php require('modal/economie-politique.php');?>
+<?php require('modal/egalite-liberte.php');?>
+<?php require('modal/egalite-reactionnaire.php');?>
+<?php require('modal/emanation.php');?>
+<?php require('modal/esclavage.php');?>
+<?php require('modal/espace.php');?>
+<?php require('modal/eternite.php');?>
+<?php require('modal/ethnies.php');?>
+<?php require('modal/etre.php');?>
+<?php require('modal/evidence.php');?>
+<?php require('modal/existence.php');?>
+<?php require('modal/famille-planetaire.php');?>
+<?php require('modal/fecondite-travail.php');?>
+<?php require('modal/feminin.php');?>
+<?php require('modal/feminisme.php');?>
+<?php require('modal/fidelite.php');?>
+<?php require('modal/fille-mere-nourrice.php');?>
+<?php require('modal/fin.php');?>
+<?php require('modal/foi.php');?>
+<?php require('modal/force-feconde.php');?>
+<?php require('modal/frere.php');?>
+<?php require('modal/geographie.php');?>
+<?php require('modal/grace.php');?>
+<?php require('modal/histoire.php');?>
+<?php require('modal/historisme.php');?>
+<?php require('modal/homme-complet.php');?>
+<?php require('modal/honneur.php');?>
+<?php require('modal/humaniste.php');?>
 
 
 

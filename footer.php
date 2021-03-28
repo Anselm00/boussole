@@ -1,10 +1,3 @@
-<div style="z-index: 1;
-    font-size: 2em;
-    background: rgba(255,255,255);
-    position: absolute;
-    width: 100%;
-    color: black;" class="temp"><h1>Boussole intéractive en cours de développement</h1></div>
-
 <footer class="page-footer">
           <div class="container">
             <div class="row">
