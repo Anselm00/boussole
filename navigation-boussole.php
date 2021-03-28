@@ -478,11 +478,16 @@
 <?php require('modal/observance.php');?>
 <?php require('modal/organes-publics.php');?>
 <?php require('modal/parents.php');?>
+<?php require('modal/patience.php');?>
+<?php require('modal/patrie-celeste.php');?>
+<?php require('modal/pere.php');?>
+<?php require('modal/pere-supreme.php');?>
+<?php require('modal/personnalisme.php');?>
 
 
+<?php require('modal/proprio.php');?>
 
-
-
+<?php require('modal/responsable.php');?>
 
 <?php require('modal/societe-de-personnes.php');?>
 
