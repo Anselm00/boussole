@@ -3,7 +3,16 @@
 			<div class="modal-content">
 			  <h4>Mère Fondamentale</h4>
 			  
-			  <p>« La Mère, prise séparément de son Monde, 
+			  <p>« Avant le Père Suprême, il y eut la Mère Fondamentale, de la même manière qu’avant la
+Cité Civilisée, il y eut la Communauté Primitive.
+C’est en s’appuyant solidement sur ce fait général déterminant qu’on peut espérer
+comprendre quelque chose de l’histoire de l’humanité, ce qui nous intéresse évidemment
+au plus haut point. Se faire une idée correcte du passé est indispensable pour aborder
+convenablement les problèmes du présent, et pour envisager clairement la solution de
+l’avenir. À ce propos, il apparaît aujourd’hui que le vieux marxisme (communisme) ne
+faisait pas vraiment l’affaire.</p>
+
+			   La Mère, prise séparément de son Monde, 
 			  n’est intelligible que si on l’aborde comme un 
 			  Couple, par exemple Matière-Secrète avec Mère-Matière 
 			  exotérique. Ensuite, il faut laisser de côté 
@@ -25,7 +34,7 @@
 
 <p>__________________________</p>
 
-<p>Voir <a href="https://www.eglise-realiste.org/pdf/Mere_Fondamentale_ed.pdf" target="_blank"> "La Mère Fondamentale"</a>, p.23 et 30 - septembre 1999 - Freddy Malot - Editions de l'Evidence - 2010</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Mere_Fondamentale_ed.pdf" target="_blank"> "La Mère Fondamentale"</a>, p.&, 23 et 30 - septembre 1999 - Freddy Malot - Editions de l'Evidence - 2010</p>
 			  
 
 

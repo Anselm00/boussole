@@ -131,13 +131,18 @@
 <?php require('modal/plan.php');?>
 <?php require('modal/planete.php');?>
 <?php require('modal/policee.php');?>
-
-
+<?php require('modal/preceptes.php');?>
+<?php require('modal/precis.php');?>
+<?php require('modal/predestination.php');?>
+<?php require('modal/principe.php');?>
+<?php require('modal/promesse.php');?>
 
 
 <?php require('modal/proprio.php');?>
 
 <?php require('modal/responsable.php');?>
+
+<?php require('modal/rites.php');?>
 
 <?php require('modal/societe-de-personnes.php');?>
 

@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Libre Arbitre</h4>
 			  
-			  <p>« libre arbitre ne peut être
+			  <p>« Le libre arbitre ne peut être
 déterminé à agir par aucun motif que
 l’homme n’aurait pas adopté pour
 maxime, et dont il ne se ferait pas une

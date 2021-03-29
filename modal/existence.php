@@ -36,6 +36,14 @@
 				  </p>En Elle-même, la Matière est Rien Absolu, de même que Dieu (Esprit) sera Être Absolu. D’où les histoires déroutantes de la “Vacuité”, du “Néant”, des hindouistes (que l’on colle de force sur le dos des Bouddhistes !). Rapportée aux réalités du Monde, on dirait que la Matière en tant que telle est Existence absolue, Fécondité absolue, Espace absolu ; ceci pour saisir le contraste avec l’Être, le Travail et le Temps chez les Spiritualistes. Autrement dit, en la Matière comme telle, l’Esprit est (en notre langage !) Présence totale ou Être total (car c’est l’Absence qui est activité en soi !). De manière plus accessible, on peut dire qu’en la Matière pure, il n’y a que Vie, Instinct, sans aucune trace quelconque de Pensée, d’Intelligence. En un mot, dans son Secret, la Matière est Incolore objectivement et Indicible subjectivement ; elle échappe au Mythe proprement dit, mais en même temps lui donne toute sa force et en est la clef.</p>
 				  <p>__________________________</p>
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Mere-Fondamentale_ed.pdf" target="_blank"> "La Mère Fondamentale"</a>, p.17 - Freddy Malot - septembre 1999 - Editions de l'Evidence - 2010</p>
+<p>__________________________</p>
+<p>« ● On peut être étonné que <b>l’Existence</b> (la Durée, donc le changement éventuel) est associée intimement à l’idée de la <b>Matière</b> décrétée Substance exclusive. Pourtant cela ne présente pas de difficulté : pour la société Parentale, la Matière est le ZÉRO qui se trouve “derrière” l’UN de la VIE. (La Matière n’est pas “privation d’être” comme dans le Spiritualisme. Tout au contraire, c’est elle qui est ce que les civilisés nomment l’Être absolu. Chez ceux-ci, la Matière n’est qu’au Monde, et elle est Inerte. Inerte non pas opposé au Vivant, mais à la Pensée qui est la seule “vraie vie” ; le “vivant” corporel n’est que de l’inerte complexe. Inversement, dans le Matérialisme parental, la Pensée n’est que vie Faillible ; d’où l’Humanité n’ayant pas l’Instinct sûr de la Nature, les Sacrifices, Rites et Préceptes que la Communauté doit observer.)</p>
+<p>● Bien prêter attention aux vestiges de la primauté de l’Existence dans nos langues. Ainsi la conjugaison “progressive” en anglais : Be-ing ; I am reading. D’où les flottements insensés, que nos professeurs préfèrent “ignorer”, entre la dualité des auxiliaires “être” et “exister”. On parle des “preuves de l’existence de Dieu” ! C’est de “l’être” de Dieu qu’il faudrait dire. Voir par exemple encore : ESTAR et SER en espagnol. »</p>
+
+
+
+<p>__________________________</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Moi_Dure_ed.pdf" target="_blank"> "Moi Dure, certes Moi Dure"</a>, p.5-6 - Freddy Malot - janvier 2006 - Eglise Réaliste Mondiale - Editions de l'Evidence - 2010</p>
 
 
 			</div>
