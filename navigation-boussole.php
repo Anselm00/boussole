@@ -60,6 +60,7 @@
 <?php require('modal/egalite-liberte.php');?>
 <?php require('modal/egalite-reactionnaire.php');?>
 <?php require('modal/emanation.php');?>
+<?php require('modal/emanation-vitale.php');?>
 <?php require('modal/esclavage.php');?>
 <?php require('modal/espace.php');?>
 <?php require('modal/eternite.php');?>
@@ -142,6 +143,9 @@
 <?php require('modal/prudence.php');?>
 <?php require('modal/puissances.php');?>
 <?php require('modal/pur-impur.php');?>
+<?php require('modal/raison.php');?>
+<?php require('modal/realiste.php');?>
+
 
 <?php require('modal/responsable.php');?>
 
