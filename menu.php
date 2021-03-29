@@ -1,6 +1,6 @@
 <li><a class="modal-trigger" href="#adequation">Adéquation</a></li>
 <li><a class="modal-trigger" href="#alliance">Alliance</a></li>
-<li><a class="modal-trigger" href="#ame-corps">Ame-Corps</a></li>
+<li><a class="modal-trigger" href="#ame-personnelle">Ame Personnelle</a></li>
 <li><a class="modal-trigger" href="#ami">Ami</a></li>
 <li><a class="modal-trigger" href="#ancestral">Ancestral</a></li>
 <li><a class="modal-trigger" href="#assume">Assumé</a></li>
@@ -29,6 +29,7 @@
 <li><a class="modal-trigger" href="#croyant">Croyant</a></li>
 <li><a class="modal-trigger" href="#curieux">Curieux</a></li>
 <li><a class="modal-trigger" href="#democratie-centralisee">Démocratie-centralisée</a></li>
+<li><a class="modal-trigger" href="#destin">Destin</a></li>
 <li><a class="modal-trigger" href="#dialectique-totale">Dialectique totale</a></li>
 <li><a class="modal-trigger" href="#divination">Divination</a></li>
 <li><a class="modal-trigger" href="#dogme">Dogme</a></li>
@@ -119,7 +120,6 @@
 <li><a class="modal-trigger" href="#predestination">Prédestination</a></li>
 <li><a class="modal-trigger" href="#principe">Principe</a></li>
 <li><a class="modal-trigger" href="#promesse">Promesse</a></li>
-<li><a class="modal-trigger" href="#prophetie">Prophétie</a></li>
 <li><a class="modal-trigger" href="#propitiation">Propitiation</a></li>
 <li><a class="modal-trigger" href="#proprio">Proprio</a></li>
 <li><a class="modal-trigger" href="#prudence">Prudence</a></li>

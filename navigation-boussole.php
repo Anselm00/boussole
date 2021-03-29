@@ -20,7 +20,7 @@
 
 <?php require('modal/adequation.php');?> 
 <?php require('modal/alliance.php');?>
-<?php require('modal/ame-corps.php');?>  
+<?php require('modal/ame-personnelle.php');?>  
 <?php require('modal/ami.php');?>   
 <?php require('modal/ancestral.php');?> 
 <?php require('modal/assume.php');?>
@@ -50,6 +50,7 @@
 <?php require('modal/croyant.php');?>
 <?php require('modal/curieux.php');?>
 <?php require('modal/democratie-centralisee.php');?>
+<?php require('modal/destin.php');?>
 <?php require('modal/dialectique-totale.php');?>
 <?php require('modal/divination.php');?>
 <?php require('modal/dogme.php');?>
@@ -136,9 +137,11 @@
 <?php require('modal/predestination.php');?>
 <?php require('modal/principe.php');?>
 <?php require('modal/promesse.php');?>
-
-
+<?php require('modal/propitiation.php');?>
 <?php require('modal/proprio.php');?>
+<?php require('modal/prudence.php');?>
+<?php require('modal/puissances.php');?>
+<?php require('modal/pur-impur.php');?>
 
 <?php require('modal/responsable.php');?>
 

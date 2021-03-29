@@ -1,7 +1,7 @@
 <!-- Modal Structure (structure exemple) -->
-<div id="ame-corps" class="modal">
+<div id="ame-personnelle" class="modal">
     <div class="modal-content">
-      <h4><b>Âme-Corps</b></h4>
+      <h4><b>Âme Personnelle</b></h4>
 	  		
 		<p> « Ici-Bas, <b>l’homme “ordinaire”</b>, même s’il est fidèle et
 non pas un impie, a toujours quelque mal mélé au bien
