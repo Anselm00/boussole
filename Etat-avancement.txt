@@ -16,3 +16,16 @@ Bulle "PRECIS": Centrer et encadrer "DOM DESCHAMPS Fin du Précis en quatre Thè
 Bulle "PROMESSE": Grossir "Le Bon Dépôt"
 
 En exergue, sur la page d'accueil, avec toutes les citations: "C'est dans la nuit la plus noire que les étoiles brillent le plus" Zinoviev, 1914
+Bulle "Religion" grossir les titres, notes de bas de page à insérer (étoiles)
+
+Académie Comm-Anar (comme titre?)
+Petites fautes: Ame Personnelle (est-ce qu'on ne réduirait pas la taille de ces mots?)
+Mettre les accents sur les MAJUSCULES "VOUé"
+"idéal anarchiste": Accent à é
+Policé en petit caractère (boussole bourgeoise)
+Peut-être réduire les mots du côté: "Promesse, religion société de personne" de façon à mettre "Humaniste et Naturaliste sur la même ligne que "Nature-Humanité"
+Evidence à côté de "Mère fondamentale": c'est "Existence" le bon mots
+
+Rajouter le tableau ETRE AVOIR dans la Popup "Être"
+
+Encadrer Théorie pratique et potentiel manifeste dans le Trépan (éventuellement, mettre deux cadre)
