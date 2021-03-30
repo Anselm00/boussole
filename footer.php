@@ -7,12 +7,12 @@
 			
               </div>
               <div class="col l4 offset-l2 s12">
-                <h5 class="white-text">Liens importants</h5>
+             
                 <ul>
                   <li><a class="grey-text text-lighten-3" href="#!">L'idée d'une boussole</a></li>
                   <li><a class="grey-text text-lighten-3" href="#!">Pourquoi Electre</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Lien github du projet</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Retour sur le site</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Règle du jeu</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#top">Retour sur le site</a></li>
                 </ul>
               </div>
             </div>

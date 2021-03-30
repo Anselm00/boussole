@@ -53,6 +53,12 @@ overflow-y: scroll; */
     margin:20px;
 }
 
+.trepan .row .col {
+    padding:0px;
+    text-align: center;
+    position: relative;
+}
+
 h1 {
     z-index: 1;
  font-family: Georgia, 'Times New Roman', Times, serif;
