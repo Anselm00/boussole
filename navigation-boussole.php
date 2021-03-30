@@ -145,9 +145,11 @@
 <?php require('modal/pur-impur.php');?>
 <?php require('modal/raison.php');?>
 <?php require('modal/realiste.php');?>
-
-
+<?php require('modal/religion.php');?>
 <?php require('modal/responsable.php');?>
+<?php require('modal/reve-communiste.php');?>
+
+
 
 <?php require('modal/rites.php');?>
 

@@ -3,6 +3,24 @@
 			<div class="modal-content">
 			  <h4>Liberté Révolutionnaire</h4>
 			  
+			 <p><b><i>“La liberté veut être conquise, jamais elle n’est concédée volontairement. Les prolétaires (les salariés) sont ceux qui, ne possédant rien, vivent uniquement de leur travail. Le plus grand nombre des prolétaires subsiste d’un travail corporel. Le prolétariat a pour terme correspondant le salaire, la rétribution accordée par le capitaliste.</i></b></p>
+			 <p><b><i>Le prolétaire a sur l’esclave antique un avantage immense, quand on le considère abstractivement : il s’appartient. Mais la volonté du prolétaire, exempte de contrainte directe, est soumise à une contrainte morale absolue. La liberté du prolétaire est fictive : son corps n’est pas esclave mais sa volonté l’est. Les chaînes et les verges de l’esclavage moderne, c’est la faim.</i></b></p>
+			 <p><b><i>L’esclave antique était assuré de la nourriture, du vêtement, d’un abri, de soins dans la maladie, de ne pas être accablé sous le poids d’un travail excessif ; à cause de l’intérêt que son maître avait de le conserver.</i></b></p>
+			 <p><b><i>Au contraire, on peut impunément accumuler sur le prolétaire les fatigues les moins tolérables, et il n’est jamais sûr du lendemain. S’il souffre, qui s’en inquiète ? S’il meurt, qui le sait ? Un autre lui succède : tant la faim est prompte à remplir les places !</i></b></p>
+			 <p><b><i>La maxime d’égalité devant la loi n’est qu’une vaine fiction, imaginée pour tromper la conscience publique. Des multitudes de lois, au contraire, émanent d’un principe évident d’inégalité.</i></b></p>
+			 <p><b><i>Le prolétaire est-ce un homme !</i></b></p>
+			 <p><b><i>Peuple, Peuple, réveille-toi enfin ! Esclaves, levez-vous, rompez vos fers ! Voulez-vous qu’un jour vos enfants disent : nos pères ont été plus lâches que les esclaves romains ; parmi eux il ne s’est pas rencontré un Spartacus ?</i></b></p>
+			 <p><b><i>Il s’en rencontrera, et plus d’un, n’en doutons pas !”</i></b></p>
+			 <p><b><i>Vos âmes, Citoyens !</i></b></p>
+			  
+			 <p>__________________________</p>
+
+				  
+
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Vos_ames_Citoyens_ed.pdf" target="_blank"> "Vos âmes, Citoyens"</a>, Appel aux Croyants d'Europe occidentale, p.12 - Freddy Malot - octobre 1999 - Editions de l'Evidence - 2010</p>
+	  
+<p>__________________________</p>
+
 			  <p>« Qu’est la Société Politique, la société Civilisée, 
 				  celles des Francs par exemple ?</p>
 <p>Un seul mot la définit pratiquement : Liberté. <b>Chose inouïe que 
