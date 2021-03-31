@@ -48,7 +48,7 @@
     $('.scrollspy').scrollSpy();
   });
       
-  
+  $('.dropdown-trigger').dropdown();
   
   </script>
 

@@ -5,6 +5,21 @@
     font-weight: 400;
     src: url(flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
   }
+
+
+  @font-face {
+    font-family: 'EdwardianScriptITC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(ITCEDSCR.woff2) format('woff2');
+  }
+
+  @font-face {
+    font-family: 'FrenchScriptMT';
+    font-style: normal;
+    font-weight: 400;
+    src: url(FrenchScriptMT.woff2) format('woff2');
+  }
   
   .material-icons {
     font-family: 'Material Icons';
