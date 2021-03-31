@@ -249,6 +249,8 @@
 <?php require('modal/saint-bon-integre.php');?>
 
 
+<?php require('modal/science-du-neuf.php');?>
+
 <?php require('modal/rites.php');?>
 
 <?php require('modal/salut.php');?>
