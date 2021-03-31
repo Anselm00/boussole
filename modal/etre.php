@@ -25,10 +25,16 @@ Monde donnée dans la perspective de la Race d’Adam ; l’esprit Passif, c’e
 l’intelligence du Monde donnée dans la perspective du Système des Corps. »</p>
 <p>__________________________</p>
 
-				  
+
+			<img class="image" src="img/ontologie.png"/>
+			<img class="image" src="img/ontologie2.png"/>	 
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Principe_de_Raison_ed.pdf" target="_blank"> "Le Principe de Raison"</a>, p.81,82 - 1999-2000 - Freddy Malot - Editions de l'Evidence</p>
-			  
+
+				
+
+
+
 
 			</div>
 			<div class="modal-footer">
