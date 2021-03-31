@@ -121,6 +121,7 @@
 <?php require('modal/attentif.php');?>
 <?php require('modal/auteur.php');?>
 <?php require('modal/autodidacte.php');?>
+<?php require('modal/bel-ouvrage.php');?>
 <?php require('modal/besoins.php');?>
 <?php require('modal/bonheur-commun.php');?>
 <?php require('modal/bourgeois.php');?>
@@ -172,6 +173,7 @@
 <?php require('modal/foi.php');?>
 <?php require('modal/force-feconde.php');?>
 <?php require('modal/frere.php');?>
+<?php require('modal/gens.php');?>
 <?php require('modal/geographie.php');?>
 <?php require('modal/grace.php');?>
 <?php require('modal/histoire.php');?>
@@ -241,13 +243,19 @@
 <?php require('modal/realiste.php');?>
 <?php require('modal/religion.php');?>
 <?php require('modal/responsable.php');?>
-<?php //require('modal/reve-communiste.php');?>
-
+<?php require('modal/reve-communiste.php');?>
+<?php require('modal/rites.php');?>
+<?php require('modal/sagesse.php');?>
+<?php require('modal/saint-bon-integre.php');?>
 
 
 <?php require('modal/rites.php');?>
 
+<?php require('modal/salut.php');?>
+
 <?php require('modal/societe-de-personnes.php');?>
+
+<?php require('modal/tranquille.php');?>
 
 
 

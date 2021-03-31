@@ -7,6 +7,7 @@
 <li><a class="modal-trigger" href="#attentif">Attentif</a></li>
 <li><a class="modal-trigger" href="#auteur">Auteur</a></li>
 <li><a class="modal-trigger" href="#autodidacte">Autodidacte</a></li>
+<li><a class="modal-trigger" href="#bel-ouvrage">Bel Ouvrage</a></li>
 <li><a class="modal-trigger" href="#besoins">Besoins</a></li>
 <li><a class="modal-trigger" href="#bonheur-commun">Bonheur Commun</a></li>
 <li><a class="modal-trigger" href="#bourgeois">Bourgeois</a></li>
@@ -58,6 +59,7 @@
 <li><a class="modal-trigger" href="#foi">Foi</a></li>
 <li><a class="modal-trigger" href="#force-feconde">Force Féconde</a></li>
 <li><a class="modal-trigger" href="#frere">Frère</a></li>
+<li><a class="modal-trigger" href="#gens">Gens</a></li>
 <li><a class="modal-trigger" href="#geographie">Géographie</a></li>
 <li><a class="modal-trigger" href="#grace">Grâce</a></li>
 <li><a class="modal-trigger" href="#heros">Héros</a></li>

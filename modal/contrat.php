@@ -31,7 +31,46 @@
 				  
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Menage_Prive_ed.pdf" target="_blank"> "Ménage Privé"</a>, p.51 (Annexes) - Freddy Malot - mars 1999 </p>
-			  
+
+				  <p>__________________________</p>
+
+
+<p><b>1-</b> Au sommet de la civilisation Moderne (1760/1795 ; 1807/1814), le système Contrat-Loi (domaine social, pratique) fut exalté de la manière suivante :</p>
+<p>• Les Libéraux à l’anglaise disent (Smith : 1776 ; Ricardo : 1817) :</p>
+<p><b>“L’État est un MAL NÉCESSAIRE”.</b></p>
+<p>Par État, il faut entendre finalement : le Gouvernement, l’Administration.</p>
+<p>Cela veut dire en Économie : la Production doit être réglée par la Circulation (l’Industrie par le Commerce).</p>
+<p>• Les Dirigistes à la française disent (Mercier : 1769 ; Ferrier : 1804) :</p>
+<p><b>“Le Marché est un MAL NÉCESSAIRE”.</b></p>
+<p>Par Marché, il faut entendre finalement : les Entreprises, le Commerce.</p>
+<p>Cela veut dire en Économie : la Circulation doit être subordonnée à la Production (le Commerce à l’Industrie) ; parce que le tout que représente l’économie Nationale doit primer en dernière analyse, parce que les Marchandises n’ont de sens que pour être consommées. D’où, en particulier, la nécessité d’établir un taux d’intérêt maximum légal, ne dépassant pas le profit prévisible.</p>
+<p><b>2-</b> Au beau milieu de la Grande Révolution (1784-1807), qui voit le triomphe tempétueux du monde Moderne, deux personnes pratiquement isolées soulignent de manière prophétique les limites “absurdes” du système civilisé tout entier, la nature même du couple Contrat-Loi, chacun à partir d’un des deux pôles. C’est l’Utopisme Intégral, dont le caractère “intégral” fait justement qu’il devra bientôt devenir d’actualité.</p>
+<p>Ces deux “rêveurs” disent ensemble : si l’Autorité politique et la Liberté économique sont un MAL, il n’y a pas de doute que ce mal ne pouvait être NÉCESSAIRE que provisoirement !</p>
+
+<p>• GODWIN :</p>
+<p>- <b>“La Puissance Publique</b>, même sous ses formes les meilleures, est un Mal” ;</p>
+<p>- “Les hommes ne seront <b>réellement Libres</b> qu’avec l’euthanasie du Gouvernement” ;</p>
+<p>“<b>Le Mariage</b> est la pire des lois ; aucun mal ne pourra résulter de son abolition”.
+<p style="text-align:center;"><b>•••</b></p>
+<p>• BABEUF :</p>
+<p>- <b>“La Propriété Privée</b> est le plus grand fléau de la société” ;</b>
+<p>- “Nous voulons <b>l’Égalité réelle</b>, la communauté des biens et des jouissances ou la mort” ;</p>
+<p>- “La République égalitaire ne fabrique plus de <b>Monnaie</b>”.</p>
+<p style="text-align:center;"><b>•••</b></p>
+<p>C’est ainsi que, pour la première fois, tout le passé social Civilisé fut déclaré clairement “préhistorique”, ressenti comme synonyme d’Oppression et d’Exploitation.</p>
+<p><b>L’Anarchiste</b> dit : il est temps de nous dégager des langes sociaux que furent le Maritalat (la “cellule fondamentale” oppressive), le Fonctionnarisme, la peur du Gendarme, les Armes et les Frontières (sanctionnant l’hostilité interne au genre humain).
+<p><b>Le Communiste</b> dit : il est temps de nous dégager des langes sociaux que furent la Vénalité (l’intérêt privé exclusif, source de l’exploitation), le Patronat, l’aiguillon de la Faim, l’Argent et la Concurrence aveugle (qui fait l’apologie de l’impuissance du genre humain).
+<p style="text-align:center;"><b>•••</b></p>
+(...)
+<p><b>6-</b> C’est une chose bien étrange, si on y réfléchit, de voir Babeuf (après Morelly et, finalement toute la tradition Communiste qui remonte au moins à Cléomène) “retourner” la notion habituelle d’Égalité, pour l’appliquer à la Propriété, au domaine du droit Civil, celui des Contrats !</p>
+<p>Cette prétention Communiste, selon les critères civilisés, est “infiniment” moins acceptable que celle des Anarchistes ; si ces derniers paraissent simplement Utopistes en voulant tuer la Hiérarchie politique, les premiers, eux, prétendant tuer l’Hégémonie civile, semblent tout à fait FOUS !</p>
+<p>Ceci explique la contradiction suivante :</p>
+<p>• Babeuf ne trouve à se référer qu’à SPARTE chez les Anciens, ce qu’il y a de plus archaïque dans notre passé civilisé, de plus proche de la société Parentale primitive. Babeuf prend même à Sparte ce qu’il y a de quasi-mythique, l’exemple de Lycurgue. Alors que la Sparte “historique” ne connut pas de vrais Esclaves, mais les Ilotes restés énigmatiques pour les historiens. Alors que Sparte méprise Athènes, qu’elle dit peuplée de “bavards”. Alors que la Bible juive revendique une “parenté” avec Sparte, et que Sparte sera glorifiée par les Nazis.</p>
+<p>• Godwin, au contraire, peut prêcher son Anarchie (le Suffrage étendu à tous au point d’abolir le Jury, réduit au rôle d’Arbitre) en s’appuyant sur le Radicalisme anglais le plus Moderne, celui issu du Major CARTWRIGHT (1774).</p>
+
+
+
+
 </div>				  
 <div id="two">
 				  <img class="image" src="img/jeanne-dalbret.png"/>
