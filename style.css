@@ -108,6 +108,21 @@ h1 {
     color:black;
 }
 
+.pos-voue {
+    transform: rotate( 0deg );
+    transition-duration: 0.75s;
+}
+
+.pos-sociable {
+    transform: rotate( -238deg );
+    transition-duration: 0.75s;
+}
+
+.pos-meneur {
+    transform: rotate( -122deg );
+    transition-duration: 0.75s;
+}
+
 
 
 @font-face {
@@ -115,8 +130,9 @@ h1 {
     /*not working*/ src: url("FrenchScriptMT.ttf") format("ttf");
    }
 
-nav a {
+nav #nav-mobile a {
     font-family: 'FrenchScriptMT';
+    font-size: 1.5em !important;
     /* font-family: "Georgia, Arial" !important; */
 }
 
@@ -151,18 +167,32 @@ div.modal span {
     
 }
 
+.svg {
+    background: url(img/logo_home.png) no-repeat 50% 50%;
+    background-size: 6%;
+}
+
 .boussole {
     width: 1000px;
     margin: auto;
     display: flex;
     margin-top: 50px;
 }
+
+.svg1 a:hover {
+    fill:red;
+    transition-duration: 0.5s;
+}
+.svg1 a.read {
+    fill:yellow;
+}
 .svg1 {
     width: 1000px;
     height: 1000px;
     background: url(img/logo_home.png) no-repeat 50% 50%;
     display: block;
-    background-size: 6%;margin-top:100px;
+    background-size: 6%;
+    margin-top:100px;
     text-align: center;
     -webkit-animation:spin 360s linear infinite;
     -moz-animation:spin 360s linear infinite;
