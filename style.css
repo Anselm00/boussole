@@ -118,6 +118,10 @@ h1 {
     transition-duration: 0.75s;
 }
 
+.svg {
+    transition-duration: 0.1s;
+}
+
 .pos-meneur {
     transform: rotate( -122deg );
     transition-duration: 0.75s;
@@ -167,9 +171,11 @@ div.modal span {
     
 }
 
-.svg {
+.compass1 {
     background: url(img/logo_home.png) no-repeat 50% 50%;
     background-size: 6%;
+    border-radius: 1500px;
+    padding: 7%;
 }
 
 .boussole {
@@ -186,12 +192,24 @@ div.modal span {
 .svg1 a.read {
     fill:yellow;
 }
+.compass {
+    background: url(img/compass.png) no-repeat 50% 54%;
+    background-size: 103%;
+}
+.compass-background {
+    background: url(img/fond.svg) 50% 50%;
+    background-size: cover;
+}
+
+
 .svg1 {
-    width: 1000px;
-    height: 1000px;
     background: url(img/logo_home.png) no-repeat 50% 50%;
-    display: block;
     background-size: 6%;
+}
+.svg1 object {
+    width: 1000px;
+    height: 1000px;    
+    display: block;
     margin-top:100px;
     text-align: center;
     -webkit-animation:spin 360s linear infinite;
