@@ -10,9 +10,55 @@
 <p>__________________________</p>
 
 
+
 			
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Hebreux_ed.pdf" target="_blank"> "Les Hébreux, Peuple de l'échec?"</a>, p.10 - Talib Freddy - Eglise Réaliste Mondiale - octobre 2003 - Editions de l'Evidence - 2010</p>
 				  <p>__________________________</p>
+
+
+
+				  <p>« C’est le <b>Patron</b> qui “crée” véritablement de la Valeur ; les Employés ne font que contribuer à
+l’opération “divine” du patron sur terre. Seul auteur, et pour cela seul responsable
+de la production, maître des employés et propriétaire de la valeur, le patron a le
+privilège de fonctionner selon le temps CONTINU, qualitatif, qui n’a PAS de
+“parties”. Mais, comme Dieu qui ne peut pas créer Librement sans être Nécessité à
+donner lieu à la Matière marquée d’esprit passif-mécanique (autrement le Monde
+serait Dieu et non pas seulement Divin) ; de même, le Patron ne peut qu’être le Roi
+d’une production faite de temps DISCRET (précisément celui auquel son Personnel
+doit se plier, le temps des Machines). La production est cependant “divine”, parce
+que le Patron est “l’âme de l’entreprise” et pour cela “souverain” de ses éléments :
+des Moyens de Production et de la Force de Travail directe, achetés par lui et à son
+initiative. »</p>
+
+<p>__________________________</p>
+
+
+
+			
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Marchandise_Marx_ed.pdf" target="_blank"> "La Marchandise de Marx"</a>, p.10 - Freddy Malot - novembre 2005 - Editions de l'Evidence - 2011</p>
+				  <p>__________________________</p>
+
+				  <p>« L’Arithmétique a une affinité essentielle avec le <b>TEMPS</b>, qui coule à sens unique.
+Mais le Temps des Anciens n’est pas exactement le nôtre (le “chemin” parcouru par
+un mobile) ; c’est à la base un Moment concret, le Maintenant qui sépare l’Avant de l’Après, et qui peut s’étendre comme un curseur sur une règle. Le Présent sépare le
+Passé du Futur comme le chapitre dans un livre.</p>
+<p>Comme l’Arithmétique s’occupe d’enchaînement d’unités concrètes liées à un
+“temps”, ce “tempo” ou rythme normal évoque un rapport réel avec la Rhétorique, la
+technique de l’Orateur. On connaît la surprenante liaison, chez les Anciens, de
+l’Arithmétique et de la Musique. C’est que les “unités” sont comme les barres de
+mesure qui divisent la durée d’un air de musique sur une portée.</p>
+<p>On dit que les chiffres romains étaient très incommodes pour le calcul. Pour
+cause ! Notre 3 était III, accolait trois doigts d’une main “normale”, tenus
+grossièrement pour “égaux” entre eux. Notre 4 était IV, décollait le pouce d’une autre
+“unité”, la main… »</p>
+
+<p>__________________________</p>
+
+
+			
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Principe_de_Raison_ed.pdf" target="_blank"> "Principe de Raison"</a>, p.41 - Freddy Malot - 1999-2000 - Editions de l'Evidence - 2017</p>
+				  <p>__________________________</p>
+
 				 
 <p>Qu’est la religion Orthodoxe Parfaite ? <b>Superficiellement</b>, c’est la Religion qui paraît, comme le fruit d’une <b>Révolution</b>-Réformatrice qui la purifie, et se donne comme la “vraie” religion, celle qui “aurait dû être” depuis toujours, n’eut été l’antique penchant au Mal <b>prédominant</b> en l’homme civilisé. Nous voilà donc arrivés <b>au “milieu du Temps”</b> : Adam régénéré à présent en PRINCIPE, il ne suffit plus que de faire passer cela dans les FAITS, par une longue marche strictement <b>Réformatrice</b>-Révolutionnaire. Ainsi, à partir d’un noyau de Vraie Église, nous allons évangéliser les nations, édifier laborieusement l’Église Mondiale réelle. La <b>prédication</b> de la vraie Foi ralliera assurément la Raison éclairée. Les vrais croyants vaincront, malgré les tribulations qu’ils supporteront de manière rigoureusement <b>Défensive</b>, que susciteront les païens endurcis, cherchant à manipuler les simples fidèles attachés à des <b>Préjugés</b> superstitieux, entachés d’idolâtrie. Enfin, l’Église Mondiale étant établie pour l’essentiel, Dieu viendra “achever nos efforts” (Kant), et opérer SA <b>Révolution-Révolutionnaire</b>, dire : “Cette fois je rénove tout, je fais un Ciel nouveau et une nouvelle Terre.” (Apoc. 21 : 1-5).</p>
 <p>Pourquoi cette version est-elle superficielle ? Parce qu’on la répétait – sous des formes plus ou moins conséquentes – à chaque Révolution Réformatrice. Or, cette fois, on est absolument conséquent, <b>c’est bien</b> la Religion Parfaite qui est produite, et de façon tout à fait Orthodoxe. Et c’est ce qui fait le Drame de la Religion Parfaite. Kant a bel et bien le projet de mettre sur pied la Vraie Église à vocation Mondiale : c’est “<b>l’Association Morale civile à mission Cosmopolite*</b>”, constituée “exclusivement en vue du Bien”, ne connaissant que la Loi suprême d’être “agréable à Dieu”. Elle déclare donc tout net <b>ne pas se référer au</b> “<b>Peuple Souverain</b>”, ce qui reviendrait à professer la Divinité du Peuple. L’objet de l’Église est de “<b>faire un Peuple de Dieu</b>”. La Souveraineté du Peuple, en revanche, doit valoir sans réserve en ce qui concerne les Associations Politiques, le Droit ; le Prince devant se reconnaître comme simple “1er serviteur de l’État”. Chacun son domaine. LES Princes découvriront tout l’avantage de protéger LA vraie Église qui fera s’éteindre les “religions impures” d’hier, et qui ne peut avouer dans cette mission qu’un tout autre “prince”, Dieu lui-même.</p>

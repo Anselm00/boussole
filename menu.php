@@ -150,7 +150,7 @@
 <li><a class="modal-trigger" href="#tabou">Tabou</a></li>
 <li><a class="modal-trigger" href="#taches">Tâches</a></li>
 <li><a class="modal-trigger" href="#temps">Temps</a></li>
-<li><a class="modal-trigger" href="#terre promise">Terre Promise</a></li>
+<li><a class="modal-trigger" href="#terre-promise">Terre Promise</a></li>
 <li><a class="modal-trigger" href="#territoires">Territoires</a></li>
 <li><a class="modal-trigger" href="#theorie">Théorie</a></li>
 <li><a class="modal-trigger" href="#tout-nouveau-peuple">Tout Nouveau Peuple</a></li>

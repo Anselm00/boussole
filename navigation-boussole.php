@@ -263,6 +263,8 @@
 <?php require('modal/tabou.php');?>
 <?php require('modal/taches.php');?>
 <?php require('modal/temps.php');?>
+<?php require('modal/terre-promise.php');?>
+<?php require('modal/territoires.php');?>
 
 
 <?php require('modal/tranquille.php');?>
