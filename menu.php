@@ -25,6 +25,7 @@
 <li><a class="modal-trigger" href="#convenable">Convenable</a></li>
 <li><a class="modal-trigger" href="#coutumes">Coutumes</a></li>
 <li><a class="modal-trigger" href="#creation">Création</a></li>
+<li><a class="modal-trigger" href="#creation-intellectuelle">Création Intellectuelle</a></li>
 <li><a class="modal-trigger" href="#credo">Credo</a></li>
 <li><a class="modal-trigger" href="#critique">Critique</a></li>
 <li><a class="modal-trigger" href="#croyant">Croyant</a></li>

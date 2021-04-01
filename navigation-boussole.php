@@ -140,6 +140,7 @@
 <?php require('modal/coutumes.php');?>
 <?php require('modal/citoyen.php');?>
 <?php require('modal/creation.php');?>
+<?php require('modal/creation-intellectuelle.php');?>
 <?php require('modal/credo.php');?>
 <?php require('modal/critique.php');?>
 <?php require('modal/croyant.php');?>
@@ -254,14 +255,14 @@
 <?php require('modal/secret.php');?>
 <?php require('modal/science-du-neuf.php');?>
 <?php require('modal/sociable.php');?>
-
-
 <?php require('modal/societe-de-personnes.php');?>
-
-<?php require('modal/rites.php');?>
-
-
-
+<?php require('modal/sol.php');?>
+<?php require('modal/sorciers.php');?>
+<?php require('modal/spiritualiste.php');?>
+<?php require('modal/systeme-de-choses.php');?>
+<?php require('modal/tabou.php');?>
+<?php require('modal/taches.php');?>
+<?php require('modal/temps.php');?>
 
 
 <?php require('modal/tranquille.php');?>
