@@ -20,14 +20,14 @@ Et la poursuite incessante de cela, dans le Dressage impitoyable des Enfants de 
 <p><b>Kant dit</b> : avant moi, on n’eut que des demi-civilisés, sur fond de sauvagerie.</p>
 <p><b>NOUS disons</b> : avant le Réalisme Vrai et le Comm-Anar, on n’eut que des demi-hommes, sur fond d’animalité. »</p>
 
-<p>Talib Freddy – 13 janvier 2008</p>
+
 
 
 <p>__________________________</p>
 
 		  </blockquote>
 
-		  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Nouvelle_Tete_ed.pdf" target="_blank">"Nouvelle Tête"</a> - 2008 - Editions de l'Evidence </p>
+		  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Nouvelle_Tete_ed.pdf" target="_blank">"Nouvelle Tête"</a> - Talib Freddy - 13 janvier 2008</p>
 	  <blockquote>
 
 		 	
