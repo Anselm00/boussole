@@ -271,8 +271,9 @@
 <?php require('modal/tout-nouveau-peuple.php');?>
 <?php require('modal/tradition.php');?>
 <?php require('modal/tranquille.php');?>
-
-
+<?php require('modal/travail-fecondite.php');?>
+<?php require('modal/union-planetaire.php');?>
+<?php require('modal/volontariat-gratuite.php');?>
 
 <?php require('footer.php');?>
     

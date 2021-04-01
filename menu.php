@@ -157,7 +157,7 @@
 <li><a class="modal-trigger" href="#tradition">Tradition</a></li>
 <li><a class="modal-trigger" href="#tranquille">Tranquille</a></li>
 <li><a class="modal-trigger" href="#travail-fecondite">Travail/Fécondité</a></li>
-<li><a class="modal-trigger" href="#union-planétaire">Union Planétaire</a></li>
+<li><a class="modal-trigger" href="#union-planetaire">Union Planétaire</a></li>
 <li><a class="modal-trigger" href="#volontariat-gratuite">Volontariat-Gratuité</a></li>
 <li><a class="modal-trigger" href="#voue">Voué</a></li>
 <li><a class="modal-trigger" href="#voues">Voués</a></li>
