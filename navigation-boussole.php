@@ -266,7 +266,8 @@
 <?php require('modal/terre-promise.php');?>
 <?php require('modal/territoires.php');?>
 <?php require('modal/theorie.php');?>
-
+<?php require('modal/tout-nouveau-peuple.php');?>
+<?php require('modal/tradition.php');?>
 <?php require('modal/tranquille.php');?>
 
 
