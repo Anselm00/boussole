@@ -42,8 +42,7 @@ on a : Substance = Forme/Matière ; Cause = Finale/Efficiente). »</p>
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Principe_de_Raison_ed.pdf" target="_blank"> "Le Principe de Raison"</a>, p.19 - 1999-2000 - Freddy Malot - Editions de l'Evidence - 2017</p>
 
-				  <p>__________________________</p>
-				  
+	
 				  			  
 
 

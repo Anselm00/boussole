@@ -158,6 +158,7 @@
 <?php require('modal/emanation-vitale.php');?>
 <?php require('modal/esclavage.php');?>
 <?php require('modal/espace.php');?>
+<?php require('modal/esprit.php');?>
 <?php require('modal/eternite.php');?>
 <?php require('modal/ethnies.php');?>
 <?php require('modal/etre.php');?>
@@ -247,15 +248,21 @@
 <?php require('modal/rites.php');?>
 <?php require('modal/sagesse.php');?>
 <?php require('modal/saint-bon-integre.php');?>
-
-
+<?php require('modal/salut.php');?>
+<?php require('modal/sang.php');?>
+<?php require('modal/sauvage.php');?>
+<?php require('modal/secret.php');?>
 <?php require('modal/science-du-neuf.php');?>
+<?php require('modal/sociable.php');?>
+
+
+<?php require('modal/societe-de-personnes.php');?>
 
 <?php require('modal/rites.php');?>
 
-<?php require('modal/salut.php');?>
 
-<?php require('modal/societe-de-personnes.php');?>
+
+
 
 <?php require('modal/tranquille.php');?>
 

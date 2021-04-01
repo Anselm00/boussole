@@ -68,7 +68,7 @@ qui motivait l’accusation.</p>
 <p>On pourra revenir à la charge et dire : Pourquoi y a-t-il la Réalité plutôt que rien ?
 Le mot “pourquoi” nous ramène dans l’horizon civilisé de Cause-Effet. Nous sommes,
 quant à nous dans l’« AutoGène » (cf. p. 6), ce que “frôla” Marx… et même Kant. Moi
-qui suis la Réalité au fin fond de moi, comment puis-je “douter” d’elle ?!  »</p>
+qui suis la Réalité au fin fond de moi, comment puis-je “douter” d’elle ?! »</p>
 
 <p>__________________________</p>
 
