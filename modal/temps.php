@@ -66,11 +66,13 @@ grossièrement pour “égaux” entre eux. Notre 4 était IV, décollait le pou
 <p>Ce n’est pourtant pas pour rien qu’on nommera Kant “<b>le Philosophe de la Révolution Française</b>” ! <b>Sieyès</b> aussi pensait que le Tiers-État au pouvoir aurait pour tâche d’éduquer la masse des Citoyens PASSIFS afin qu’ils deviennent ACTIFS. Et la <b>pensée</b> de Sieyès, avec celle de son contraire identique <b>Marat</b>, plane sur toute la Révolution (1789-1805), comme l’<b>action</b> de <b>Robespierre</b> et <b>Napoléon</b> domine cette Révolution. C’est ainsi que la Révolution fut fille de Kant… en désordre ! (l’histoire réelle ne se déroule pas comme dans un livre).</p>
 <p>Marx et Engels disent dans l’Anti-Dühring (1877) : “le système de Hegel fut un <b>colossal avortement</b>”. Ils ne prennent pas la chose d’assez haut ; c’est à propos de Kant qu’on doit le dire. C’est là qu’il y a du “<b>colossal</b>”, car après lui il n’y eut qu’un seul problème théorique qu’on ne parvint jamais à résoudre : comment dépasser Kant ? Ce fut d’ailleurs l’écueil immédiat de Fichte puis de Hegel, chacun ayant successivement (et en sens inverse : Sensualiste puis Spéculatif) cette prétention, et ne faisant que s’engouffrer dans l’<b>Hétérodoxie</b> panthéiste. Quant au côté “<b>avortement</b>”, il faut distinguer. Recevoir le titre de philosophe de la Révolution est un glorieux avortement. Avortement quand même, puisque la Révolution ne dura <b>que 16 ans</b>, et non la Moitié du Temps ; et parce que son esprit ne survécut pas à la période étroitement <b>Révolutionnaire</b>, alors qu’il se proposait pour une demi-perpétuité étroitement Réformatrice.</p>				
 
+
+<p>Note *: Hésiode, Socrate, Confucius, Bouddha, Jésus-Christ, Mahomet… ignoraient même l’existence des pôles, de l’Amérique et de l’Australie. “Cosmopolite”, par ce seul fait, s’en trouvait déjà très borné !</p>
 <p>__________________________</p>
 
 
 			
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Drame_Religion_Parfaite_ed.pdf" target="_blank"> "Le Drame de la Religion Pafaite?"</a>, p.4-5-6 - Freddy Malot - mars 2006 - Eglise Réaliste Mondiale - Editions de l'Evidence - 2010</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Drame_Religion_Parfaite_ed.pdf" target="_blank"> "Le Drame de la Religion Pafaite"</a>, p.4-5-6 - Freddy Malot - mars 2006 - Eglise Réaliste Mondiale - Editions de l'Evidence - 2010</p>
 
 
 

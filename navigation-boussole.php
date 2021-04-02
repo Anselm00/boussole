@@ -200,12 +200,13 @@
 <?php require('modal/loi.php');?>
 <?php require('modal/magie.php');?>
 <?php require('modal/maitre.php');?>
-<?php require('modal/matiere-esprit.php');?>
 <?php require('modal/marcottage.php');?>
 <?php require('modal/maritalat.php');?>
 <?php require('modal/masculin.php');?>
 <?php require('modal/masculinisme.php');?>
 <?php require('modal/materialiste.php');?>
+<?php require('modal/matiere-esprit.php');?>
+<?php require('modal/matriarcat.php');?>
 <?php require('modal/memoire.php');?>
 <?php require('modal/meneur.php');?>
 <?php require('modal/mere-fondamentale.php');?>
