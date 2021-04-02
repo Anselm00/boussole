@@ -2,7 +2,10 @@
 <div style="width: 425px;" id="credo" class="modal">
 			<div class="modal-content">
 			  <h4>Credo</h4>
+
 			 
+
+
 
 			  <p><span>1</span><b>H</b>ardi, camarades !</p>
 <p><b>C</b>’est le moment d’abattre le Colosse

@@ -43,6 +43,18 @@ aux besoins de la communauté générale, “hic et nunc” et “ad hoc”. »<
 
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/ERM-TNP_ed.pdf" target="_blank"> "ERM/TNP"</a>, Aîné de Dom Deschamps - eglise-realiste.org - 25 mars 2021</p>
 
+
+<p>__________________________</p>
+
+				  
+
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Manuel Programme du Comm-Anar"</a>, p.14 (34) - Talib Freddy - 18.12.2011</p>
+
+<p>__________________________</p>
+
+<img class="image" src="img/tnp.png"/>
+ 
+
 			</div>
 			<div class="modal-footer">
 			  <a href="#!" class="modal-close waves-effect waves-green btn-flat">Vu</a>
