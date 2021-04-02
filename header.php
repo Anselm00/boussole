@@ -36,13 +36,13 @@
     <body>
       <div class="fond"></div>
   <nav class="nav-wrapper transparent" data-target="blue" style="    position: fixed;    box-shadow: none;
-    z-index: 2;">
+    z-index: 2;color:black;">
     <div class="nav-wrapper transparent">
       <div>
       <div class="" style="    width: 350px;
     height: 64px;
     margin-left: 65px;float: left;">
-      <form>
+      <form style="color:black;">
       
         <div class="input-field">
         <input id="search" type="search" onkeyup="showHint(this.value)" required >
@@ -55,10 +55,10 @@
       <ul class="hints"><span id="txtHint"></span></ul>
 
       
-        <ul id="nav-mobile" class="right">
-        <li><a href="navigation-boussole.php">PolyRose</a></li>
-          <li><a href="sociabilite.php">Sociabilité</a></li>
-          <li><a href="electre.php">Electre</a></li>
+        <ul id="nav-mobile" class="right" style="color:black;">
+        <li><a class="black-text" href="navigation-boussole.php">PolyProse</a></li>
+          <li><a class="black-text" href="sociabilite.php">Sociabilité</a></li>
+          <li><a class="black-text" href="electre.php">Electre</a></li>
           
         </ul>
       </div>

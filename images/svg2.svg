@@ -18,10 +18,10 @@
   }
 
 
-	.st0{stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st0{stroke:#000;stroke-miterlimit:10;}
 	.st1{fill:none;}
 	.st2{fill:#FFE77F;}
-	.st3{fill:#FFFFFF;}
+	.st3{fill:#000;}
 	.st4{font-family:'Georgia';}
 	.st5{font-size:25px;}
 </style>

@@ -7,11 +7,11 @@
 <div id="top" class="scrollspy" style = "max-width:1200px;margin:auto;overflow: hidden;margin-top: 100px">
 
 <h1 style="    font-family: 'FrenchScriptMT';font-style: italic;
-	font-size: 180px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">P</span>olyRose d'<span style="    font-family: 'EdwardianScriptITC';font-style: initial;">H</span>ippase</h1>
+	font-size: 180px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">P</span>olyProse d'<span style="    font-family: 'EdwardianScriptITC';font-style: initial;">H</span>ippase</h1>
 
-	<h5 style="text-align:center;font-size: 45px; font-family: 'Georgia';" class="white-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'Histoire n'est pas le Temps’’</i>, </h5> 
+	<h5 style="text-align:center;font-size: 45px; font-family: 'Georgia';" class="black-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'Histoire n'est pas le Temps’’</i>, </h5> 
 
-<p style="font-family: 'Georgia';color:white;" >‘‘Métamorphose en prose’’, Polyrose est un jeu de société planétaire. <br>Le but du jeu est de s'approprier l'essence en utilisant les mots des boussoles.</p>
+<p style="font-family: 'Georgia';color:black;" >‘‘Métamorphose en prose’’, PolyProse est un jeu de société planétaire. <br>Le but du jeu est de s'approprier l'essence en utilisant les mots des boussoles.</p>
 
 <p style="margin-top: 200px;">
 		
@@ -28,8 +28,8 @@
 	</div>
 
 
-	<p style="margin-top: 400px;">
-	<p style="font-family: 'Georgia';color:white;" >
+	<p style="margin-top: 40px">
+	<p style="font-family: 'Georgia';color:black;" >
 	 Préhistoire, Histoire, Epoque Moderne et Contemporaine... Revisitez ces moments en jouant à <a href="regledujeu.php">PolyRose</a>...</p> 
 		
 
@@ -39,9 +39,9 @@
 
 
 	<hr>
-	<h5 style="    font-size: 55px; font-family: 'FrenchScriptMT';" class="white-text">‘‘On ne sait ni ne pouvons savoir pourquoi il y a un Monde... 
+	<h5 style="    font-size: 55px; font-family: 'FrenchScriptMT';" class="black-text">‘‘On ne sait ni ne pouvons savoir pourquoi il y a un Monde... 
 		mais il est évident qu'il existe... Immense et Eternel’’ </h5> 
-		<h6 style="    color: white;
+		<h6 style="    color: black;
     font-size: 25px;
     text-align: right;
     font-family: 'Georgia';">‘‘Réel Muet’’ - Aîné de Dom Deschamps - 18.11.2020<h6>

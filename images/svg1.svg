@@ -23,10 +23,10 @@
   .small-caps { font-variant:small-caps; }
 
 	.st0{display:none;}
-	.st1{display:inline;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{display:inline;stroke:#000;stroke-miterlimit:10;}
 	.st2{fill:none;}
 	.st3{fill:#FFE77F;}
-	.st4{fill:#FFFFFF;}
+	.st4{fill:#000;}
 	.st5{font-family:'Georgia';}
 	.st6{font-size:28px;}
 </style>
@@ -37,7 +37,7 @@
 <g id="Calque_2">
 	<path id="SVGID_x5F_1_x5F_" class="st2" d="M390.4,896.7c-224.5-43.9-370.9-261.4-327-485.9"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="28.324%">
-<tspan  class="st5 bold" style="fill:#fff; font-size:55px;">SOCIABLE</tspan>	</textPath>
+<tspan  class="st5 bold" style="fill:#000; font-size:55px;">SOCIABLE</tspan>	</textPath>
 </text>
 	<path class="st3" d="M354.1,909.7c-0.7,0.5-1.3,0.9-1.3,0.9S353.4,910.2,354.1,909.7s1.3-0.9,1.3-0.9S354.8,909.3,354.1,909.7z"/>
 	<path id="SVGID_x5F_2_x5F_" class="st2" d="M405.1,866.8c-207.3-40.5-342.5-241.4-302-448.7"/>
@@ -62,7 +62,7 @@
 	</g>
 	<path id="SVGID_x5F_6_x5F_" class="st2" d="M316.3,829.6C346.9,681.7,251.9,537,104,506.4"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_6_x5F_" startOffset="43.556%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">Théorie</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:18px;">Théorie</tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_7_x5F_" class="st2" d="M333.3,811.7c29.8-143.8-62.7-284.5-206.4-314.2"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_7_x5F_" startOffset="39.425%">
@@ -70,7 +70,7 @@
 </text>
 	<path id="SVGID_x5F_8_x5F_" class="st2" d="M350.6,786.5c26.8-129.6-64.4-268.6-194.1-295.5"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_8_x5F_" startOffset="36.377%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">Chose Pensante</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:18px;">Chose Pensante</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_9_x5F_" class="st2" d="M360.9,757.6C387.9,642.7,309.1,515,193.8,488"/>
@@ -81,7 +81,7 @@
 	<g>
 		<path id="SVGID_x5F_10_x5F_" class="st2" d="M375.9,742.2c27.5-117.3-45.3-234.6-162.5-262.1"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_10_x5F_" startOffset="30.713%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">PEUPLE HUMAIN</tspan>		</textPath>
+<tspan  class="st5" style="fill:#000; font-size:18px;">PEUPLE HUMAIN</tspan>		</textPath>
 </text>
 	</g>
 	<g>
@@ -92,11 +92,11 @@
 	</g>
 	<path id="SVGID_x5F_12_x5F_" class="st2" d="M466.6,604.6c-62.5-12.2-103.3-72.8-91.1-135.3"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_12_x5F_" startOffset="32.998%">
-<tspan  class="st5" style="fill:#fff; font-size:22px;">Bonheur</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:22px;">Bonheur</tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_13_x5F_" class="st2" d="M483.9,582.5c-57.3-11.2-94.7-66.8-83.5-124.1"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_13_x5F_" startOffset="25.0977%">
-<tspan  class="st5" style="fill:#fff; font-size:22px;">Commun</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:22px;">Commun</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_14_x5F_" class="st2" d="M519.7,532c-27.4,18.4-64.5,11.2-82.9-16.2s-11.2-64.5,16.2-82.9"/>
@@ -152,7 +152,7 @@
 	</g>
 	<path id="SVGID_x5F_23_x5F_" class="st2" d="M902,383.2c62.5,220-65.3,449-285.3,511.5"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_23_x5F_" startOffset="32.515%">
-<tspan  class="st5 bold" style="fill:#fff; font-size:55px;">MENEUR</tspan>	</textPath>
+<tspan  class="st5 bold" style="fill:#000; font-size:55px;">MENEUR</tspan>	</textPath>
 </text>
 	<path class="st3" d="M925.1,407.6c0.7,0.4,1.3,0.7,1.3,0.7S925.8,408,925.1,407.6c-0.7-0.4-1.3-0.7-1.3-0.7
 		S924.3,407.2,925.1,407.6z"/>
@@ -172,7 +172,7 @@
 	</g>
 	<path id="SVGID_x5F_27_x5F_" class="st2" d="M874.7,481.6c-145.7,39.6-231.7,189.9-192.1,335.6"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_27_x5F_" startOffset="40.57%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">Principe</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:18px;">Principe</tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_28_x5F_" class="st2" d="M851,474.5C709.3,513,625.7,659.1,664.2,800.8"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_28_x5F_" startOffset="35.059%">
@@ -180,7 +180,7 @@
 </text>
 	<path id="SVGID_x5F_29_x5F_" class="st2" d="M820.7,470.5c-127.7,34.7-210.4,179-175.7,306.8"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_29_x5F_" startOffset="36.377%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">Masculinisme</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:18px;">Masculinisme</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_30_x5F_" class="st2" d="M790.3,474.4c-114.7,28-192.8,156-164.8,271"/>
@@ -191,7 +191,7 @@
 	<g>
 		<path id="SVGID_x5F_31_x5F_" class="st2" d="M769.8,468c-117,28.5-188.7,146.5-160.2,263.5"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_31_x5F_" startOffset="37.555%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">Imagination</tspan>		</textPath>
+<tspan  class="st5" style="fill:#000; font-size:18px;">Imagination</tspan>		</textPath>
 </text>
 	</g>
 	<g>
@@ -202,11 +202,11 @@
 	</g>
 	<path id="SVGID_x5F_33_x5F_" class="st2" d="M600.8,452.1c17.4,61.3-18.2,125.1-79.5,142.5"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_33_x5F_" startOffset="35.156%">
-<tspan  class="st5" style="fill:#fff; font-size:22px;">Nation</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:22px;">Nation</tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_34_x5F_" class="st2" d="M577.3,439.5c16,56.2-16.7,114.7-72.9,130.6"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_34_x5F_" startOffset="41.632%">
-<tspan  class="st5" style="fill:#fff; font-size:22px;">Phare</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:22px;">Phare</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_35_x5F_" class="st2" d="M516.6,431.2c28.8,16.1,39.1,52.4,23.1,81.2c-16.1,28.8-52.4,39.1-81.2,23.1"/>
@@ -261,7 +261,7 @@
 		<rect x="529.8" y="562.7" transform="matrix(0.4871 -0.8733 0.8733 0.4871 -207.9328 785.7216)" class="st2" width="70.5" height="14.3"/>
 	<path id="SVGID_x5F_44_x5F_" class="st2" d="M175.9,195.8c149-173.5,410.5-193.4,584-44.3"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_44_x5F_" startOffset="38.916%">
-<tspan  class="st5 bold" style="fill:#fff; font-size:55px;">VOUÉ</tspan>	</textPath>
+<tspan  class="st5 bold" style="fill:#000; font-size:55px;">VOUÉ</tspan>	</textPath>
 </text>
 	<path class="st3" d="M186.3,147.4c0-0.8-0.1-1.5-0.1-1.5S186.2,146.5,186.3,147.4s0.1,1.5,0.1,1.5S186.3,148.2,186.3,147.4z"/>
 	<path id="SVGID_x5F_45_x5F_" class="st2" d="M194.6,223.4c137.6-160.2,379.1-178.6,539.3-41"/>
@@ -280,7 +280,7 @@
 	</g>
 	<path id="SVGID_x5F_48_x5F_" class="st2" d="M270.9,164.5c113.5,99.7,286.2,88.5,385.9-25"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_48_x5F_" startOffset="41.699%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">Précepte</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:18px;">Précepte</tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_49_x5F_" class="st2" d="M278,188.2c110.3,96.9,278.3,86,375.2-24.3"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_49_x5F_" startOffset="38.086%">
@@ -288,7 +288,7 @@
 </text>
 	<path id="SVGID_x5F_50_x5F_" class="st2" d="M291.4,215.6c99.4,87.3,265.4,76.7,352.8-22.8"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_50_x5F_" startOffset="38.51%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">Féminisme</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:18px;">Féminisme</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_51_x5F_" class="st2" d="M311.4,238.9c86.6,80.2,236.5,74.7,317-12.2"/>
@@ -299,7 +299,7 @@
 	<g>
 		<path id="SVGID_x5F_52_x5F_" class="st2" d="M317.4,259.5c88.4,81.8,226.4,76.5,308.2-11.8"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_52_x5F_" startOffset="40.527%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">Mémoire</tspan>		</textPath>
+<tspan  class="st5" style="fill:#000; font-size:18px;">Mémoire</tspan>		</textPath>
 </text>
 	</g>
 	<g>
@@ -310,11 +310,11 @@
 	</g>
 	<path id="SVGID_x5F_54_x5F_" class="st2" d="M401.9,406.5c41.5-48.3,114.3-53.9,162.7-12.4"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_54_x5F_" startOffset="35.458%">
-<tspan  class="st5" style="fill:#fff; font-size:22px;">Peuple</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:22px;">Peuple</tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_55_x5F_" class="st2" d="M412.1,432c38.1-44.3,104.8-49.4,149.1-11.3"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_55_x5F_" startOffset="37.106%">
-<tspan  class="st5" style="fill:#fff; font-size:22px;">Bijou</tspan>	</textPath>
+<tspan  class="st5" style="fill:#000; font-size:22px;">Bijou</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_56_x5F_" class="st2" d="M428.7,487c-2.5-32.9,22.1-61.6,55-64.1c32.9-2.5,61.6,22.1,64.1,55"/>
