@@ -158,8 +158,9 @@
 <li><a class="modal-trigger" href="#tranquille">Tranquille</a></li>
 <li><a class="modal-trigger" href="#travail-fecondite">Travail/Fécondité</a></li>
 <li><a class="modal-trigger" href="#union-planetaire">Union Planétaire</a></li>
+<li><a class="modal-trigger" href="#voiant">Voïant</a></li>
 <li><a class="modal-trigger" href="#volontariat-gratuite">Volontariat-Gratuité</a></li>
 <li><a class="modal-trigger" href="#voue">Voué</a></li>
 <li><a class="modal-trigger" href="#voues">Voués</a></li>
-<li><a class="modal-trigger" href="#voiant">Voïant</a></li>
+
 
