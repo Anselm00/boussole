@@ -12,7 +12,7 @@
 			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Etude_Abrege_ERM_ed.pdf" target="_blank"> "Etude de l'Abrégé de Kant"</a>, p.16 - Talib Freddy  - mai 2008 -  Eglise Réaliste Mondiale - Editions de l'Evidence - 2015</p>
 			  <p>__________________________</p>
 			    
-			  <p>La Raison n’est pas, comme le veut la pensée vulgaire (c’est-à-dire païenne), le
+			  <p>« La Raison n’est pas, comme le veut la pensée vulgaire (c’est-à-dire païenne), le
 simple “Entendement”, Entendement que les perroquets académiques qualifient
 “esprit cartésien” de manière imbécile. La Raison, base de la mentalité spiritualiste,
 est double : elle consiste dans le couple Intuition-Entendement. Et c’est de ce couple
