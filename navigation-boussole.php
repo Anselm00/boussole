@@ -219,6 +219,7 @@
 <?php require('modal/mythe.php');?>
 <?php require('modal/nation-phare.php');?>
 <?php require('modal/naturaliste.php');?>
+<?php require('modal/nature-humanite.php');?>
 <?php require('modal/neant1.php');?>
 <?php require('modal/neant2.php');?>
 <?php require('modal/necessite.php');?>

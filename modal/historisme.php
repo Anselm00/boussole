@@ -12,7 +12,14 @@
 				conserve à sa façon l’“humilité” de nos ancêtres, il reconnaît qu’il se trouve sous la
 				Ciscendance-Transcendance de la Réalité pure et simple ; avec le seul avantage de
 				saisir cette dernière de manière “transparente” pour la première fois avec, en prime,
-				la certitude d’une “immortalité” des Personnes partagée avec les Choses. »
+				la certitude d’une “immortalité” des Personnes partagée avec les Choses.</p>
+				<p>C’est la Théorie pure qui rend compte de la Réalité tout court. Avec cela le Monde,
+abordé selon l’Historisme Lucide, devient la matière de la Théorie ordinaire, qui fait
+sauter les anciennes Hégémonies, qui régnaient tant dans la Sorcellerie que dans la
+Science : hégémonie de la Magie sur la Divination dans le premier cas, de la Morale
+sur la Physique dans le second. Notre équipement mental, dans la Pratique, devient
+indissolublement <b>Sorcellerie-Science</b> (Osons !). »</p>
+
 
 				<p>__________________________</p>
 				

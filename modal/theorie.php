@@ -86,9 +86,13 @@ vraiment <b>merveilleuse</b> ! »</p>
 
 <p>__________________________</p>
 
+
+	
 				  
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Manuel Programme du Comm-Anar"</a>, p.14 (34) - Talib Freddy - 18.12.2011</p>
+
+
 
 
 			</div>
