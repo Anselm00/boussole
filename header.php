@@ -59,9 +59,10 @@
       
         <ul id="nav-mobile" class="right">
         <li><a href="navigation-boussole.php"><i class="material-icons">home</i></a></li>
+        <li><a href="#trepan">Trépan Cosmique</a></li>
           <li><a href="sociabilite.php">Sociabilité</a></li>
           <li><a href="#electre">Electre</a></li>
-          <li><a href="#trepan">Trépan Cosmique</a></li>
+          
         </ul>
       </div>
     </div>
