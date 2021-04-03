@@ -281,6 +281,7 @@
 <?php require('modal/voiant.php');?>
 <?php require('modal/volontariat-gratuite.php');?>
 <?php require('modal/voue.php');?>
+<?php require('modal/voues.php');?>
 
 <?php require('footer.php');?>
     
