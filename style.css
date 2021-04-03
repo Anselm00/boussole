@@ -110,21 +110,21 @@ h1 {
 
 .pos-voue {
     transform: rotate( 0deg );
-    transition-duration: 0.75s;
+    transition-duration: 2.75s;
 }
 
 .pos-sociable {
     transform: rotate( -238deg );
-    transition-duration: 0.75s;
+    transition-duration: 2.75s;
 }
-
+/* 
 .svg {
     transition-duration: 0.1s;
-}
+} */
 
 .pos-meneur {
     transform: rotate( -122deg );
-    transition-duration: 0.75s;
+    transition-duration: 2.75s;
 }
 
 
@@ -135,8 +135,8 @@ h1 {
    }
 
 nav #nav-mobile a {
-    font-family: 'FrenchScriptMT';
-    font-size: 1.5em !important;
+    /* font-family: 'FrenchScriptMT'; */
+    /* font-size: 1.5em !important; */
     /* font-family: "Georgia, Arial" !important; */
 }
 
@@ -200,7 +200,20 @@ div.modal span {
     background: url(img/fond.svg) 50% 50%;
     background-size: cover;
 }
+.truck .wheel {
+    border-radius: 500px;
+    border: thick double white;
+}
+.truck .wheel2 {
+    background: url(img/logo_home.png) no-repeat 50% 50%;
+    background-size: 6%;
+}
 
+.truck object {
+    -webkit-animation:spin 360s linear infinite;
+    -moz-animation:spin 360s linear infinite;
+    animation:spin 360s linear infinite;
+}
 
 .svg1 {
     background: url(img/logo_home.png) no-repeat 50% 50%;
