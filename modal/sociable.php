@@ -9,7 +9,7 @@
 
 				<p>__________________________</p>
 
-				<p>Voir<a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Documents.pdf" target="_blank"> "Manuel du Comm-Anar - Documents"</a>, p.48 (108) - Talib Freddy - Lyon - 2012
+				<p>Voir<a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Documents.pdf" target="_blank"> "Manuel du Comm-Anar - Documents"</a>, p.48 (108) - Talib Freddy - Lyon - 2012</p>
 				
 							
 			</div>
