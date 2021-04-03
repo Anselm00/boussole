@@ -57,6 +57,8 @@ des 2 versions rivales ; et les deux vont à la faillite quand leur perfection f
 
 			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Manuel Programme du Comm-Anar"</a>, p.42 (18) - Talib Freddy  - 30.12.2011 -  Editions de l'Evidence - 2012</p>
 
+			  
+			  
 			  <img class="image" src="img/realiste.png"/>
 
 
