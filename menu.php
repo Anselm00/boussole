@@ -55,7 +55,7 @@
 <li><a class="modal-trigger"electre href="#feminin">Féminin</a></li>
 <li><a class="modal-trigger"electre href="#feminisme">Féminisme</a></li>
 <li><a class="modal-trigger"electre href="#fidelite">Fidélité</a></li>
-<li><a class="modal-trigger"electre href="#fille-mere-nourrice">Fille-Mère-Nourrice</a></li>
+<li><a class="modal-trigger"electre href="#fille">Fille</a></li>
 <li><a class="modal-trigger"vmv href="#fin">Fin</a></li>
 <li><a class="modal-trigger"electre href="#foi">Foi</a></li>
 <li><a class="modal-trigger"electre href="#force-feconde">Force Féconde</a></li>
@@ -91,6 +91,7 @@
 <li><a class="modal-trigger"electre href="#matriarcat">Matriarcat</a></li>
 <li><a class="modal-trigger"vmv href="#memoire">Mémoire</a></li>
 <li><a class="modal-trigger"vmv href="#meneur">Meneur</a></li>
+<li><a class="modal-trigger"electre href="#mere">Mère</a></li>
 <li><a class="modal-trigger"electre href="#mere-fondamentale">Mère Fondamentale</a></li>
 <li><a class="modal-trigger"vmv href="#merite">Mérite</a></li>
 <li><a class="modal-trigger"electre href="#moeurs">Moeurs</a></li>
@@ -106,6 +107,7 @@
 <li><a class="modal-trigger"electre href="#neant1">Néant</a></li>
 <li><a class="modal-trigger"electre href="#neant2">Néant</a></li>
 <li><a class="modal-trigger"vmv href="#necessite">Nécessité</a></li>
+<li><a class="modal-trigger"electre href="#nourrice">nourrice</a></li>
 <li><a class="modal-trigger"electre href="#observance">Observance</a></li>
 <li><a class="modal-trigger"electre href="#organes-publics">Organes Publics</a></li>
 <li><a class="modal-trigger"electre href="#parents">Parents</a></li>

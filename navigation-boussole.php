@@ -172,7 +172,7 @@
 <?php require('modal/feminin.php');?>
 <?php require('modal/feminisme.php');?>
 <?php require('modal/fidelite.php');?>
-<?php require('modal/fille-mere-nourrice.php');?>
+<?php require('modal/fille.php');?>
 <?php require('modal/fin.php');?>
 <?php require('modal/foi.php');?>
 <?php require('modal/force-feconde.php');?>
@@ -209,6 +209,7 @@
 <?php require('modal/matriarcat.php');?>
 <?php require('modal/memoire.php');?>
 <?php require('modal/meneur.php');?>
+<?php require('modal/mere.php');?>
 <?php require('modal/mere-fondamentale.php');?>
 <?php require('modal/merite.php');?>
 <?php require('modal/moeurs.php');?>
@@ -220,6 +221,7 @@
 <?php require('modal/nation-phare.php');?>
 <?php require('modal/naturaliste.php');?>
 <?php require('modal/nature-humanite.php');?>
+<?php require('modal/nourrice.php');?>
 <?php require('modal/neant1.php');?>
 <?php require('modal/neant2.php');?>
 <?php require('modal/necessite.php');?>

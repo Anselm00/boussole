@@ -1,8 +1,14 @@
 <!-- Modal Structure -->
-<div id="fille-mere-nourrice" class="modal">
+<div id="mere" class="modal">
 			<div class="modal-content">
-			  <h4>Fille-Mère-Nourrice</h4>
+			  <h4>Mère</h4>
 			  
+			  <p>« Attachons-nous donc à ce fait : nous eûmes une Mère d’abord, et un Père ensuite. Ceci met de côté tout le fatras dominant plus ou moins érudit ou folklorique, étalé dans nos “histoires des religions”, qui ne contribue qu’à nous cadenasser dans la nuit spirituelle. À quoi sert de jaser à propos d’un “monothéisme originel”, auquel d’autres opposent des hordes de primitifs sans-Dieu ? Ensuite, on nous entraîne à la foire des ethnologues, sorte de marché aux puces des Expositions Coloniales où l’on découvre l’animisme, le totémisme, le fétichisme, la “religion naturaliste”, et j’en passe (mana, chamans... ). Ensuite, on nous sert une pseudo-histoire religieuse, qui part d’une vague crainte des “forces naturelles”, pour aboutir à l’apologie de l’agnosticisme païen actuel. Dans cette optique, tout le développement spirituel de l’humanité est l’histoire d’une Grande Superstition assaillie obstinément par la “Science”, ce qui force Dieu à s’abstraire et se concentrer toujours plus, jusqu’à ce qu’il laisse la place à la sage Religion du Doute des pontifes de la Laïcité. Ainsi voit-on défiler, après la Grande-Peur-du-Milieu ambiant hostile, ou Hénothéisme, le culte des Ancêtres, le “kathénothéisme” (plusieurs dieux), le Polythéisme (multitude de dieux), le Panthéisme et enfin le monothéisme (révélé) puis le Déisme (entendu comme religion sans révélation !). Alors on nous expose la dernière bataille mentale livrée par l’humanité : c’est la Religion écrasée par la “Philosophie”.</p>
+			  <p>(...)</p>
+			  <p>Le Matérialisme attaché à la croyance Superstitieuse en la Mère primitive, ne buta sur sa limite qu’une fois que l’idée de Matière active fut élevée à son état de pureté parfaite, en Égypte, Chaldée, et en Chine. C’est alors seulement que s’imposa la nécessité de basculer dans le substantialisme inverse, celui de l’Esprit, autrement dit de passer au Spiritualisme attaché à la croyance Religieuse au Père civilisé. »</p>
+			  <p>__________________________</p>
+			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Mère_Fondamentale_ed.pdf" target="_blank"> "La Mère Fondamentale"</a> - Freddy Malot - septembre 1999 - Editions de l'Evidence - 2010</p>
+			  <p>__________________________</p>
 			  <p>« Chez nous, il est un maître incontournable du judaïsme : Ernest GUGENHEIM (1916-1977), 
 				  qui fut directeur du Séminaire israélite de France. En 1961, il publie “Le judaïsme dans la vie quotidienne” 
 				  (toujours réédité), préfacé par le Grand Rabbin Kaplan. En 1982, on édite un deuxième volume à titre posthume 

@@ -6,8 +6,8 @@
 			 
 			 
 			 
-			  <p>« Chez les Primitifs, la Parenté proprement dite de la Race humaine entière,
-- ne se concevait que dans l’Abîme, c’est-à-dire aux abords de la <b>MATRICE</b> chthonienne de la Mère émanatrice, au séjour des spectres des ancêtres (Schéol, Hadès) ;
+			  <p>« Chez les Primitifs, la Parenté proprement dite de la Race humaine entière,</p>
+- ne se concevait que dans l’Abîme, c’est-à-dire aux abords de la <b>MATRICE</b> chthonienne de la Mère émanatrice, au séjour des spectres des ancêtres (Schéol, Hadès) ;</p>
 - et dans cette obscure contrée, la Communauté des Justes (à l’exclusion des Maudits), incessamment réincarnée et toujours plus prolifique, tendrait à se dilater jusqu’à l’Unité pleine du <b>Foetus-Fille</b> Immense (OBJET absolu). »</p>
 <p>__________________________</p>
 
