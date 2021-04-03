@@ -26,7 +26,7 @@ deux choses sont déterminantes : Dieu et l’Âme des hommes. »<p>
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Societe_Politique_ed.pdf" target="_blank"> "La Société Politique"</a>, p.3 - 2005 - Talib Freddy - Editions de l'Evidence
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Societe_Politique_ed.pdf" target="_blank"> "La Société Politique"</a>, p.3 - Talib Freddy - 2005 - Editions de l'Evidence</p>
 			  
 				  <p>__________________________</p>
 
@@ -37,10 +37,16 @@ deux choses sont déterminantes : Dieu et l’Âme des hommes. »<p>
 				  <img class="image" src="img/kepler2.png"/>
 				  <p>__________________________</p>
 
+				 
 				  <img class="image" src="img/paiens-clericaux.png"/>
-
 				  
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Societe_Politique_ed.pdf" target="_blank"> "La Société Politique"</a>, p.3 - Talib Freddy - 2005 - Editions de l'Evidence</p>
 
+				  <p>__________________________</p>
+
+		<img class="image" src="img/civilisation.jpg"/>		  
+		<p>__________________________</p>
+		<p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Documents.pdf" target="_blank"> "Manuel Programme du Comm-Anar, II - Documents"</a>, p.57(126) - Talib Freddy - 2006
 
 			</div>
 			<div class="modal-footer">
