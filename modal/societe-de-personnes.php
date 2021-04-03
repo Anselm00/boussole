@@ -2,7 +2,20 @@
 <div id="societe-de-personnes" class="modal">
 			<div class="modal-content">
 			  <h4>Société de Personnes</h4>
-			  
+
+			  <p>« La <b>Personne</b> se connaît pleinement libre et responsable dans le Chef de ménage légal ; et chacun des membres physiques de la cellule, parvenu à l’âge de raison, découvre que <b>son Âme</b> commande fondamentalement à son corps ; que la <b>Spontanéité</b> pure de sa conscience accompagne invariablement ses diverses idées, et que sa <b>Volonté</b> lui permet de faire prévaloir l’impératif du Bien sur le penchant au Mal.</p>
+			  <p>La Personne qui reconnaît ainsi en elle-même l’Âme comme sa vraie substance a immédiatement foi dans le fait qu’il lui faut aspirer à la condition de vrai Sujet dans une autre vie, dans la vraie vie en vérité, où l’Âme revêtue d’un corps glorieux exercera une hégémonie sans entrave sur ce dernier, de sorte que l’existence du Sujet sera immortelle.</p>
+<p>D’ailleurs, la même personne <b>Rationnelle</b>, conduite à admettre que son Âme constitue son vrai “Moi”, fait une autre expérience la décidant pour la religion en tant qu’<b>Éclairée</b> socialement : c’est celle des <b>Grands Hommes</b>. Qui peut nier l’apparition, dans la Civilisation, des Génies, des Hommes Providentiels, tels Rousseau et Robespierre, Helvétius et Napoléon ?</p>
+<p>Que sont donc ces personnes, qu’on dit “nées sous une bonne étoile”, qui semblent données à point nommé à la société civilisée comme le <b>Modèle attendu</b> de l’exécration du <b>Mal</b> et du mépris de la <b>Mort</b> ; qui ne paraissent liées à un Ménage que pour exalter l’Individu, et attachées à une Nation que pour glorifier le Genre humain ? Celles-ci, sans aucun doute, attestent la destinée céleste du Croyant. Et c’est bien pourquoi, l’Assemblée Constituante décréta en avril 1791 que le <b>Panthéon</b> serait le Temple où seraient reçues les cendres des Grands Hommes*.</p>
+
+<p>_____</p>
+</p>Note* : Oui, hâtons l’heure où le Panthéon cessera d’être souillé par l’intrusion des païens tels Hugo et Zola, et où y seront enfin intronisés les fervents tels Helvétius, Lamennais, Marx, Malcolm X… »</p>
+
+<p>__________________________</p>
+
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Mentalite_Religieuse_ed.pdf" target="_blank"> "La Mentalité Religieuse"</a>, p.6 - Talib Freddy - mars 2004 - Eglise Réaliste Mondiale - Editions de l'Evidence - 2010</p>
+
+<p>__________________________</p>
 		 <p>« • L’Humanité, l’Homme (Individu-Genre humain), c’est le titre que se donnent les êtres pensants religieux, organisés en <b>Société de Personnes</b>.</p>
 <p>La société de personnes est posée comme régie par la Liberté. Un intellectualisme spécial préside à cette vision : le <b>MORALISME</b> (cf. “Vies Parallèles” de Plutarque). Donc : Dogmatisme > Intellectualisme > Moralisme (cf. supra).</p>
 <p>La méthode adoptée par le Moralisme, jugée garante de la vérité, est la <b>Déduction</b> – expérience intime et méditation spéculative – (cf. Rousseau).</p>
@@ -12,7 +25,7 @@
 <p>• On peut comprendre aisément que l’argument moral de la Liberté humaine figure comme preuve éminente, déterminante, de <b>l’existence de Dieu et de l’Âme</b> (appuyée sur la solide “raison pratique” de Kant). C’est l’appel au Bien Suprême voulant que la vertu mène au Bonheur.</p>
 <p>• Le vrai Croyant ne peut se concevoir autrement que comme vrai fils d’Adam, membre d’un <b>Genre humain</b> unique à travers les pays et époques ; et toutes les âmes étant égales devant Dieu. »</p>
 <p>C’est en tant qu’affilié à <b>l’Église invisible</b>, corps même du Créateur, que le croyant témoigne essentiellement de sa Foi. D’où l’obligation <b>Missionnaire</b>, de prosélytisme, expression fondamentale de “l’amour du Prochain”. (Newton : “la Vertu est un vain mot sans la <b>CHARITÉ</b>”). Étant religieuse, la société de Personnes ne se trouve comme “vraie Nation” qu’au Ciel. C’est tout au long du Temps discret (discontinu) d’ici-bas, que les âmes prédestinées à la vie perpétuelle sont sélectionnées pour former enfin <b>l’assemblée Complète</b> des agréés ; et à ce moment même, “passera la scène de notre monde”. Dès lors, les croyants ayant remporté la palme de la Félicité formeront le <b>Choeur des Élus</b> animé d’un seul mouvement spontané : la communion par la vision de Dieu au fond de l’âme ; c’est ce dont sont privés les Réprouvés, condamnés à la peine du Dam, c’est-à-dire à la mort perpétuelle (cf. Augustin et Thomas).</p>
-<p>• De tout cela vient la fascination exercée dans la société religieuse par les <p>Surhommes</p> suscités par la Providence : Hercule, Enée et Socrate ; Confucius, Bouddha et Mahomet ; Saint Paul, Boniface et Luther. »</p>
+<p>• De tout cela vient la fascination exercée dans la société religieuse par les <b>Surhommes</b> suscités par la Providence : Hercule, Enée et Socrate ; Confucius, Bouddha et Mahomet ; Saint Paul, Boniface et Luther. »</p>
 
 <p>__________________________</p>
 

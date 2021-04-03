@@ -31,7 +31,7 @@ se <b>supprime l’ARMEMENT</b> ! (Les Communards renversent la colonne Vendôme
 <p style="text-align:center;">_________________________________________________________________</p>
 
 <p style="text-align:center;"><b>• EN VRAC •</b></p>
-<p>• Le Nouveau Peuple, lui, réussira <b>l’OEcuménisme</b> ! Et il sera même total : fusion du Matérialisme
+<p>• Le Nouveau Peuple, lui, réussira <b>l’Œcuménisme</b> ! Et il sera même total : fusion du Matérialisme
 Parental et du Spiritualisme Bourgeois…</p>
 <p>• Le Comm-Anar est le parfait “<b>Contrat Social</b>” : Tribal-Civique.</p>
 <p>• Pas de Comm-Anar sans détruire <b>Argent-Armement</b> ! Et sans commencer tout de suite !

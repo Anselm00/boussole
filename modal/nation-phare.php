@@ -3,6 +3,14 @@
 			<div class="modal-content">
 			  <h4>Nation Phare</h4>
 			  
+			  <p>« Il est vrai que <b>pratiquement</b>, dans la civilisation, l’humain particulier ne s’affirme qu’au travers de la <b>Cellule</b> civile qu’est le Ménage, et que l’humanité générale ne s’exprime que par le biais du <b>Corps</b> politique qu’est la Nation ; mais ces limites ne viennent que des contraintes matérielles particulières que nous connaissons ici-bas. Ainsi s’explique la combinaison qui nous est imposée : de <b>Liberté</b> par la procréation Domestique et la production par l’Entreprise privée, et de <b>Monopole</b> par la souveraineté dans la Patrie commune et par l’Administration publique. »</p>
+			  <p>__________________________</p>
+
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Mentalite_Religieuse_ed.pdf" target="_blank"> "La Mentalité Religieuse"</a>, p.5 - Talib Freddy - mars 2004 - Eglise Réaliste Mondiale - Editions de l'Evidence - 2010</p>
+			  
+<p>__________________________</p>
+
+
 			  <p><b>« Finalement s’établirent les Nations solidement constituées, c’est-à-dire
 un Marché cohérent, que limitent seulement des Frontières dites
 “naturelles”, en fait de simples bornes géographiques qui sont l’occasion
