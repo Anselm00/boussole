@@ -95,6 +95,9 @@ _____________
 			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Societe_Politique_ed.pdf" target="_blank"> "La Société Politique"</a>, p.32 à 34 - Talib Freddy  - avril 2005 -  Editions de l'Evidence - 2010</p>
 
 
+
+			  <img class="image" src="img/religion.png"/>
+
 			</div>
 			<div class="modal-footer">
 			  <a href="#!" class="modal-close waves-effect waves-green btn-flat">Vu</a>

@@ -55,6 +55,11 @@ perdent la raison ! »</p>
 
 			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Principe_de_Raison_ed.pdf" target="_blank"> "Le Principe de Raison"</a>, p.9,11 - Freddy Malot  - 1999-2000 -  Editions de l'Evidence - 2017</p>
 
+			  <p>__________________________</p>
+
+			  <img class="image" src="img/foi-raison2.png"/>
+
+			  
 
 			</div>
 			<div class="modal-footer">
