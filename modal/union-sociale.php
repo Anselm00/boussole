@@ -22,9 +22,15 @@ aïeux. »</p>
 				  
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Manuel Programme du Comm-Anar"</a>, p.8 (22) - Talib Freddy - 8.10.2011</p>
+				  <p>__________________________</p>
 
+				  « La Science globale refondue, le Comm-Anar apportera l’<b>Union</b> humaine
+planétaire que jamais on ne connut ; et avec cela la <b>Communion</b> humaine avec nos
+prédécesseurs gentilices-bourgeois dont nous séparaient le préjugé et l’ingratitude (et
+avec cela, nous déroulons le tapis de l’unisson pour nos successeurs). »</p>
+<p>__________________________</p>		  
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Se_Transformer_ed.pdf" target="_blank"> "Se Transformer"</a>, p.11 - Talib Freddy - 29.11.2011</p>
 
-				  
 
 			</div>
 			<div class="modal-footer">
