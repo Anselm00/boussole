@@ -15,8 +15,18 @@ Il fallait sortir du sein de la matière pour trouver l’être un et l’être 
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Contradiction_Eglise_ed.pdf" target="_blank"> "La Contradiction de l'Eglise"</a>, p.13 - juin 2004 - Freddy Malot - Eglise Réaliste Mondiale</p>
 
+				  <p>__________________________</p>
 
-				  
+				  <p>« L’Ordre des Voyants, fondé en 1771, se proposa de propager
+la Foi Rieniste. Mais le 19 avril 1774, la santé ruinée par l’étude, DOM DESCHAMPS
+meurt au prieuré de Montreuil-Bellay. L’Ordre ne lui survit pas. En 1775 son disciple
+DOM MAZET, bibliothécaire de l’abbaye de St Germain des Prés, transcrit les
+manuscrits. »</p>				  
+
+<p>__________________________</p>
+
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Dom_Deschamps_bio_ed.pdf" target="_blank"> "Dom Deschamps"</a>, p.3 - 1989? - Talib Freddy</p>
+
 
 			</div>
 			<div class="modal-footer">
