@@ -3,8 +3,27 @@
 			<div class="modal-content">
 			  <h4>Policée</h4>
 			  
-			  <p>« Alors, en quoi <b>le Pur est le Pire</b> en matière de Préjugé – Privilège. Je prends
-l’exemple Civilisé. Au sommet Moderne (1760-1805), les “Lumières” (les vraies, pas
+			  <p>« Nous vivons le dernier quart d’heure d’une “<b>fin d’un monde</b>”. Il s’agit rien
+moins que de la “consommation des siècles” de la <b>Préhistoire Sociale</b>.</p>
+<p>Précisons. Ce qui nous arrive cumule 2 événements géants :</p>
+<p>1/ <b><u>La “Chute de la Civilisation”</u></b>. C’est bel et bien la ruine irrémédiable de la
+société des <u>BOURGEOIS</u>, qui remonte au grec Hésiode (625 A.C.) et au chinois
+Confucius (550 A.C.). Je parle du système <b>Spiritualiste-Policé-Marital</b>. Cet
+effondrement de la Civilisation en tant que telle, et d’envergure planétaire, est donc
+tout autre chose que les Krachs étroitement localisés et simples crises de croissance,
+que furent la chute de l’Empire romain (après Auguste – 14 P.C.) et celle du
+St Empire (après Philippe le Bel – 1314 P.C.).</p>
+<p>2/ <b><u>La “Chute de la Tradition”</u></b>. Ceci désigne l’autre société Vivante – identique
+et contraire de la Civilisation –, la société des <u>PARENTS</u>, <b>Matérialiste-Communiste-Matriarcale</b>, au bout du rouleau en occident vers 850 A.C. (cf.
+Ourartou). (Duby situe Homère vers 825 A.C.). »</p>
+
+<p>__________________________</p>
+
+			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Contre-Societe_ed.pdf" target="_blank"> "Contre Société"</a>, p.1 - 19.07.2011 - Eglise Réaliste Mondiale - Talib Freddy</p>
+
+			  <p>__________________________</p>
+
+			  <p>« Au sommet Moderne (1760-1805), les “Lumières” (les vraies, pas
 celles des Laïcs du Grand-Orient en particulier) ont pour mot d’ordre ABOLITION du
 Préjugé/Privilège. Ils se dupent eux-mêmes et le doivent, car il n’est pas d’autre
 moyen en Préhistoire de promouvoir la société vivante. Ce qu’ils veulent dire, se
