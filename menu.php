@@ -115,6 +115,7 @@
 <li><a class="modal-trigger"electre href="#pere-supreme">Père Suprême</a></li>
 <li><a class="modal-trigger"electre href="#personnalisme">Personnalisme</a></li>
 <li><a class="modal-trigger"vmv href="#peuple-bijou">Peuple Bijou</a></li>
+<li><a class="modal-trigger"vmv href="#peuple-humain">Peuple Humain</a></li>
 <li><a class="modal-trigger"vmv href="#plan">Plan</a></li>
 <li><a class="modal-trigger"vmv href="#planete">Planète</a></li>
 <li><a class="modal-trigger"electre href="#policee">Policée</a></li>
@@ -157,7 +158,7 @@
 <li><a class="modal-trigger"electre href="#tradition">Tradition</a></li>
 <li><a class="modal-trigger"electre href="#tranquille">Tranquille</a></li>
 <li><a class="modal-trigger"vmv href="#travail-fecondite">Travail/Fécondité</a></li>
-<li><a class="modal-trigger"vmv href="#union-planetaire">Union Planétaire</a></li>
+<li><a class="modal-trigger"vmv href="#union-sociale">Union Sociale</a></li>
 <li><a class="modal-trigger"vmv href="#voiant">Voïant</a></li>
 <li><a class="modal-trigger"electre href="#volontariat-gratuite">Volontariat-Gratuité</a></li>
 <li><a class="modal-trigger"vmv href="#voue">Voué</a></li>

@@ -232,6 +232,7 @@
 <?php require('modal/pere-supreme.php');?>
 <?php require('modal/personnalisme.php');?>
 <?php require('modal/peuple-bijou.php');?>
+<?php require('modal/peuple-humain.php');?>
 <?php require('modal/plan.php');?>
 <?php require('modal/planete.php');?>
 <?php require('modal/policee.php');?>
@@ -274,7 +275,7 @@
 <?php require('modal/tradition.php');?>
 <?php require('modal/tranquille.php');?>
 <?php require('modal/travail-fecondite.php');?>
-<?php require('modal/union-planetaire.php');?>
+<?php require('modal/union-sociale.php');?>
 <?php require('modal/voiant.php');?>
 <?php require('modal/volontariat-gratuite.php');?>
 <?php require('modal/voue.php');?>

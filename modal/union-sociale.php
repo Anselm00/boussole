@@ -1,7 +1,7 @@
 <!-- Modal Structure -->
-<div id="union-planetaire" class="modal">
+<div id="union-sociale" class="modal">
 			<div class="modal-content">
-			  <h4>Union Planétaire</h4>
+			  <h4>Union sociale</h4>
 			  
 			  <p>« <b><u>Le “but final”</u></b> détermine la “tâche immédiate”. Ce vieux principe philosophique est de première
 importance. Et l’E.R.M. lui donne une puissance Impartiale toute nouvelle1.</p>
