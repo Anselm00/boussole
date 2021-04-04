@@ -1,3 +1,18 @@
+body {
+background: #000;
+
+}
+
+#slide-out div {
+    font-family: 'Georgia';
+    font-size: 1.5em;
+    margin-left: 32px;
+    font-weight: bolder;
+}
+
+#slide-out li a {
+    font-family: 'Georgia';
+}
 
 #svg1, #svg2{
     height: 100vh;
@@ -63,7 +78,6 @@ h1 {
     z-index: 1;
  font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2em;
-    margin-top:100px;
     margin-left: 20px;
     color:white;
    }
@@ -79,7 +93,7 @@ h1 {
     height:100%;
     position: fixed;
     z-index:-1;
-    filter: blur(2px)  brightness(0.5);;
+    filter: brightness(0.5);;
 }
 
 .background {

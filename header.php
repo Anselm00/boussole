@@ -35,8 +35,6 @@
 
     <body>
 
-    <div class="fond"></div>
-
   <nav class="nav-wrapper transparent" data-target="blue" style="    position: fixed;    box-shadow: none;
     z-index: 2;">
     <div class="nav-wrapper transparent">
@@ -77,4 +75,4 @@
     
   </ul>
 
-  <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+  <a href="#" id="menu-parallele" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>

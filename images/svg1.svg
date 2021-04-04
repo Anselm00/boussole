@@ -3,6 +3,21 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 977.1 973.3" style="enable-background:new 0 0 977.1 973.3;" xml:space="preserve">
 <style type="text/css">
+
+ @font-face {
+    font-family: 'EdwardianScriptITC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../font/ITCEDSCR.woff2) format('woff2');
+  }
+
+  @font-face {
+    font-family: 'FrenchScriptMT';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../font/FrenchScriptMT.woff2) format('woff2');
+  }
+
 	.st0{display:none;}
 	.st1{display:inline;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st2{fill:none;}
@@ -81,12 +96,12 @@
 </text>
 	<g>
 		<path id="SVGID_x5F_14_x5F_" class="st2" d="M519.7,532c-27.4,18.4-64.5,11.2-82.9-16.2s-11.2-64.5,16.2-82.9"/>
-		<text>		<textPath  xlink:href="#SVGID_x5F_14_x5F_" startOffset="22.085%">
-<tspan  class="st4 st5" style="font-size:16px;">Union planétaire</tspan>		</textPath>
+		<text>		<textPath  xlink:href="#SVGID_x5F_14_x5F_" startOffset="29.19%">
+<tspan  class="st4 st5" style="font-size:16px;">Union sociale</tspan>		</textPath>
 </text>
 	</g>
 	<g>
-		<text transform="matrix(2.000000e-05 -1 1 2.000000e-05 473.2565 951.1017)" class="st4 st5 st6">Nécessité</text>
+		<text transform="matrix(2.000000e-05 -1 1 2.000000e-05 473.2565 951.1017)" class="st4 st5 st6">Mouvement</text>
 	</g>
 	<path id="SVGID_x5F_15_x5F_" class="st2" d="M654.5,869.9c-183,105.5-416.8,42.6-522.3-140.4"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_15_x5F_" startOffset="40.514%">
@@ -94,7 +109,7 @@
 </text>
 	<path id="SVGID_x5F_16_x5F_" class="st2" d="M652.9,828.9c-165.6,95.5-377.3,38.6-472.8-127.1"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_16_x5F_" startOffset="41.333%">
-<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:34px;">Attentif</tspan>	</textPath>
+<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:50px;">Attentif</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_17_x5F_" class="st2" d="M618.5,783.1C473.7,866.5,288.7,816.8,205.2,672"/>
@@ -116,8 +131,8 @@
 <tspan  class="st4" style="font-family:'FrenchScriptMT'; font-size:36px;">Plan</tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_20_x5F_" class="st2" d="M149.7,659.8C45.5,499.5,90.9,285.1,251.2,180.9"/>
-	<text>	<textPath  xlink:href="#SVGID_x5F_20_x5F_" startOffset="47.71%">
-<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:34px;">Précis</tspan>	</textPath>
+	<text>	<textPath  xlink:href="#SVGID_x5F_20_x5F_" startOffset="44.3115%">
+<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:50px;">Précis</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_21_x5F_" class="st2" d="M184.9,639.8c-91.1-140.1-51.4-327.6,88.7-418.7"/>
@@ -204,7 +219,7 @@
 </text>
 	<path id="SVGID_x5F_37_x5F_" class="st2" d="M705.9,174C866,278.5,911.1,493,806.5,653.1"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_37_x5F_" startOffset="41.333%">
-<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:34px;">Mystère</tspan>	</textPath>
+<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:50px;">Mystère</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_38_x5F_" class="st2" d="M681.5,227.4c140,91.4,179.3,278.9,88,418.9"/>
@@ -223,8 +238,8 @@
 <tspan  class="st4" style="font-family:'FrenchScriptMT'; font-size:36px;">Libre Arbitre</tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_41_x5F_" class="st2" d="M796.7,701.2c-94.6,166.2-305.9,224.2-472.1,129.6"/>
-	<text>	<textPath  xlink:href="#SVGID_x5F_41_x5F_" startOffset="45.925%">
-<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:34px;">Salut</tspan>	</textPath>
+	<text>	<textPath  xlink:href="#SVGID_x5F_41_x5F_" startOffset="41.7775%">
+<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:50px;">Salut</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_42_x5F_" class="st2" d="M749.6,678.2C665.8,822.9,480.7,872.3,336,788.6"/>
@@ -309,7 +324,7 @@
 </text>
 	<path id="SVGID_x5F_58_x5F_" class="st2" d="M106.2,438.5c4.6-191.1,163.3-342.3,354.5-337.7"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_58_x5F_" startOffset="41.333%">
-<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:34px;">Secret</tspan>	</textPath>
+<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:50px;">Secret</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_59_x5F_" class="st2" d="M154.2,442.4c6.3-167,146.8-297.3,313.8-291"/>
@@ -328,8 +343,8 @@
 <tspan  class="st4" style="font-family:'FrenchScriptMT'; font-size:36px;">Destin</tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_62_x5F_" class="st2" d="M444.3,114c188-34.9,368.6,89.2,403.5,277.2"/>
-	<text>	<textPath  xlink:href="#SVGID_x5F_62_x5F_" startOffset="54.248%">
-<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:34px;">Alliance</tspan>	</textPath>
+	<text>	<textPath  xlink:href="#SVGID_x5F_62_x5F_" startOffset="46.8986%">
+<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:50px;">Alliance</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_63_x5F_" class="st2" d="M455.8,148.1C622,129.7,771.6,249.4,790,415.5"/>
@@ -339,7 +354,7 @@
 	</g>
 	<g>
 		<path id="SVGID_x5F_64_x5F_" class="st2" d="M470.2,191.4C602.8,180,719.5,278.2,731,410.9"/>
-		<text>		<textPath  xlink:href="#SVGID_x5F_64_x5F_" startOffset="48.6366%">
+		<text>		<textPath  xlink:href="#SVGID_x5F_64_x5F_" startOffset="48.637%">
 <tspan  class="st4 st5" style="font-size:25px;">Tabou</tspan>		</textPath>
 </text>
 	</g>
@@ -349,7 +364,7 @@
 		<text transform="matrix(0.8751 -0.484 0.484 0.8751 671.0739 362.8636)" class="st4 st5 st6">Cerveau Collectif</text>
 	</g>
 	<g>
-		<text transform="matrix(-0.8663 -0.4995 0.4995 -0.8663 224.4717 343.4778)" class="st4 st5 st6">Mouvement</text>
+		<text transform="matrix(-0.8663 -0.4995 0.4995 -0.8663 193.6739 328.0286)" class="st4 st5 st6">Nécessité</text>
 	</g>
 	<g>
 		<text transform="matrix(2.760000e-03 1 -1 2.760000e-03 499.8367 728.2473)" class="st4 st5 st6">Imperatif Moral</text>

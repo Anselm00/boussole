@@ -4,20 +4,23 @@
 
 	
 		
-<div id="top" class="scrollspy" style = "max-width:1000px;margin:auto;overflow: hidden;margin-top: 100px">
+<div id="top" class="scrollspy" style = "max-width:1200px;margin:auto;overflow: hidden;margin-top: 100px">
 
-<h1 style="    font-family: 'FrenchScriptMT';
-	font-size: 220px;">Trixit</h1>
-	<h5 style="    font-size: 55px; font-family: 'FrenchScriptMT';margin-bottom:100px;" class="white-text">"On ne sait ni ne pouvons savoir pourquoi il y a un Monde... 
-		mais il est évident qu'il existe... Immense et Eternel" - 
-		Réel Muet -Aîné de Dom Deschamps -18-11-2020</h5>
+<h1 style="    font-family: 'EdwardianScriptITC';
+	font-size: 220px;">Se Transformer</h1>
+	<hr>
+	<h5 style="    font-size: 55px; font-family: 'FrenchScriptMT';" class="white-text">"On ne sait ni ne pouvons savoir pourquoi il y a un Monde... 
+		mais il est évident qu'il existe... Immense et Eternel" </h5> 
+		<h6 style="    color: white;
+    font-size: 25px;
+    text-align: right;
+    font-family: 'Georgia';">"Réel Muet" -Aîné de Dom Deschamps -18-11-2020<h6>
 
 
-<object data="images/trepan.svg" type="image/svg+xml"  width="100%" height="100%"></object>
 
 <hr>
 		
-	<div class="truck" style = "margin-top: 35px;width:1000px;">
+	<div class="truck" style = "margin-top: 35px;width:1200px;">
 		<div class="row">
 			
 			<div class="col s6"><div class="wheel"><div class="wheel2">

@@ -3,6 +3,21 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 970.8 969.7" style="enable-background:new 0 0 970.8 969.7;" xml:space="preserve">
 <style type="text/css">
+
+ @font-face {
+    font-family: 'EdwardianScriptITC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../font/ITCEDSCR.woff2) format('woff2');
+  }
+
+  @font-face {
+    font-family: 'FrenchScriptMT';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../font/FrenchScriptMT.woff2) format('woff2');
+  }
+
 	.st0{display:none;}
 	.st1{display:inline;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st2{fill:none;}
