@@ -39,7 +39,7 @@
     z-index: 2;">
     <div class="nav-wrapper transparent">
       <div>
-      <div class="indigo" style="    width: 350px;
+      <div class="" style="    width: 350px;
     height: 64px;
     margin-left: 65px;float: left;">
       <form>
@@ -56,10 +56,9 @@
 
       
         <ul id="nav-mobile" class="right">
-        <li><a href="navigation-boussole.php"><i class="material-icons">home</i></a></li>
-        <li><a href="#trepan">Trépan Cosmique</a></li>
+        <li><a href="navigation-boussole.php">Se Transformer</a></li>
           <li><a href="sociabilite.php">Sociabilité</a></li>
-          <li><a href="#electre">Electre</a></li>
+          <li><a href="electre.php">Electre</a></li>
           
         </ul>
       </div>

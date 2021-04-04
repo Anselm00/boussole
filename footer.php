@@ -39,7 +39,7 @@
     $('.sidenav').sidenav();
 	
   });
-  
+   
   
   $(document).ready(function(){
     $('.modal').modal();

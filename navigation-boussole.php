@@ -9,12 +9,7 @@
 <h1 style="    font-family: 'EdwardianScriptITC';
 	font-size: 220px;">Se Transformer</h1>
 	<hr>
-	<h5 style="    font-size: 55px; font-family: 'FrenchScriptMT';" class="white-text">"On ne sait ni ne pouvons savoir pourquoi il y a un Monde... 
-		mais il est évident qu'il existe... Immense et Eternel" </h5> 
-		<h6 style="    color: white;
-    font-size: 25px;
-    text-align: right;
-    font-family: 'Georgia';">"Réel Muet" -Aîné de Dom Deschamps -18-11-2020<h6>
+	<h5 style="text-align:center;font-size: 55px; font-family: 'FrenchScriptMT';" class="white-text">S'initier en s'amusant </h5> 
 
 
 
@@ -31,6 +26,29 @@
 			</div></div></div>
 		</div>
 	</div>
+
+
+	<hr>
+	<h5 style="    font-size: 55px; font-family: 'FrenchScriptMT';" class="white-text">
+	 Préhistoire, Histoire, Epoque Moderne et Contemporaine... Revisitez ces moments en jouant à <a href="regledujeu.php">Tripoly...</a></h5> 
+		
+
+
+
+<hr>
+
+
+	<hr>
+	<h5 style="    font-size: 55px; font-family: 'FrenchScriptMT';" class="white-text">"On ne sait ni ne pouvons savoir pourquoi il y a un Monde... 
+		mais il est évident qu'il existe... Immense et Eternel" </h5> 
+		<h6 style="    color: white;
+    font-size: 25px;
+    text-align: right;
+    font-family: 'Georgia';">"Réel Muet" -Aîné de Dom Deschamps -18-11-2020<h6>
+
+
+
+<hr>
 
 </div>
 

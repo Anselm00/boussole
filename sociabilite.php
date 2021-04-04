@@ -1,6 +1,7 @@
 <!DOCTYPE html>
   <html>
     <head>
+
       <!--Import Google Icon Font-->
       <link href="font/font.css" rel="stylesheet">
        <!--Import materialize.css-->
@@ -13,32 +14,25 @@
 
     <body>
 
-    <div class="fond"></div>
-
-  <nav class="nav-wrapper transparent" data-target="blue" style="    position: fixed;    box-shadow: none;
+  <nav class="nav-wrapper transparent" data-target="blue" style="    position: absolute;    box-shadow: none;
     z-index: 2;">
     <div class="nav-wrapper transparent">
-      <div>
-      <div class="" style="    width: 350px;
-    height: 64px;
-    margin-left: 65px;float: left;">
- 
-    
-      <a class="voue" href="#"><img style="width: 27px;" src="images/fecondite.png"/></a>
-      <a class="meneur" href="#"><img style="width: 59px;" src="images/epee.png"/></a>
+	
+
+      <a style="    margin-left: 50px;" class="voue" href="#"><img style="width: 27px;" src="images/fecondite.png"/></a>
+      <a class="meneur" href="#"><img style="width: 44px;
+    vertical-align: top;
+    margin-top: 13px;" src="images/epee.png"/></a>
       <a class="sociable" href="#"><img style="width: 35px;" src="images/anar.png"/></a>
-    
 
-      </div>
 
-      <ul class="hints"><span id="txtHint"></span></ul>
+
 
       
         <ul id="nav-mobile" class="right">
-        <li><a href="navigation-boussole.php"><i class="material-icons">home</i></a></li>
+        <li><a href="navigation-boussole.php">Se Transformer</a></li>
           <li><a href="sociabilite.php">Sociabilité</a></li>
           <li><a href="#electre">Electre</a></li>
-          <li><a href="trepancosmique.php">Trépan Cosmique</a></li>
         </ul>
       </div>
     </div>
@@ -55,7 +49,7 @@
 
   <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
 
-  <div class=""> 
+  <div class="compass-background"> 
       <div style = "max-width:1000px;margin:auto;width:100%;">
           <div class="compass">
               <div class="compass1">
