@@ -14,6 +14,7 @@
 <li><a class="modal-trigger vmv" href="#bonheur-commun">Bonheur Commun</a></li>
 <li><a class="modal-trigger electre" href="#bourgeois">Bourgeois</a></li>
 <li><a class="modal-trigger vmv" href="#brave">Brave</a></li>
+<div>C</div>
 <li><a class="modal-trigger vmv" href="#camarade">Camarade</a></li>
 <li><a class="modal-trigger vmv" href="#capacites">Capacités</a></li>
 <li><a class="modal-trigger electre" href="#cellules-privees">Cellules Privées</a></li>
@@ -32,6 +33,7 @@
 <li><a class="modal-trigger electre" href="#critique">Critique</a></li>
 <li><a class="modal-trigger vmv" href="#croyant">Croyant</a></li>
 <li><a class="modal-trigger vmv" href="#curieux">Curieux</a></li>
+<div>D</div>
 <li><a class="modal-trigger vmv" href="#democratie-centralisee">Démocratie-centralisée</a></li>
 <li><a class="modal-trigger vmv" href="#destin">Destin</a></li>
 <li><a class="modal-trigger electre" href="#dialectique-totale">Dialectique totale</a></li>
@@ -39,6 +41,7 @@
 <li><a class="modal-trigger electre" href="#dogme">Dogme</a></li>
 <li><a class="modal-trigger electre" href="#don">Don</a></li>
 <li><a class="modal-trigger vmv" href="#dons-vivants">Dons Vivants</a></li>
+<div>E</div>
 <li><a class="modal-trigger vmv" href="#economie-politique">Economie Politique</a></li>
 <li><a class="modal-trigger electre" href="#egalite-liberte">Egalité-Liberté</a></li>
 <li><a class="modal-trigger electre" href="#egalite-reactionnaire">Egalité Réactionnaire</a></li>
@@ -52,6 +55,7 @@
 <li><a class="modal-trigger electre" href="#etre">Etre</a></li>
 <li><a class="modal-trigger electre" href="#evidence">Evidence</a></li>
 <li><a class="modal-trigger electre" href="#existence">Existence</a></li>
+<div>F</div>
 <li><a class="modal-trigger electre" href="#famille-planetaire">Famille Planétaire</a></li>
 <li><a class="modal-trigger vmv" href="#fecondite-travail">Fécondité/Travail</a></li>
 <li><a class="modal-trigger electre" href="#feminin">Féminin</a></li>
@@ -62,15 +66,18 @@
 <li><a class="modal-trigger electre" href="#foi">Foi</a></li>
 <li><a class="modal-trigger electre" href="#force-feconde">Force Féconde</a></li>
 <li><a class="modal-trigger vmv" href="#frere">Frère</a></li>
+<div>G</div>
 <li><a class="modal-trigger vmv" href="#gens">Gens</a></li>
 <li><a class="modal-trigger electre" href="#geographie">Géographie</a></li>
 <li><a class="modal-trigger vmv" href="#grace">Grâce</a></li>
+<div>H</div>
 <li><a class="modal-trigger electre" href="#histoire">Histoire</a></li>
 <li><a class="modal-trigger vmv" href="#historisme">Historisme</a></li>
 <li><a class="modal-trigger vmv" href="#homme-complet">Homme Complet</a></li>
 <li><a class="modal-trigger vmv" href="#honneur">Honneur</a></li>
 <li><a class="modal-trigger electre" href="#humaniste">Humaniste</a></li>
 <li><a class="modal-trigger"  href="#humanite">Humanité</a></li>
+<div>I</div>
 <li><a class="modal-trigger electre" href="#ideal-anarchiste">Idéal Anarchiste</a></li>
 <li><a class="modal-trigger vmv" href="#idolatre">Idolâtre</a></li>
 <li><a class="modal-trigger vmv" href="#imagination">Imagination</a></li>
@@ -78,10 +85,13 @@
 <li><a class="modal-trigger electre" href="#inities">Initiés</a></li>
 <li><a class="modal-trigger electre" href="#intello">Intello</a></li>
 <li><a class="modal-trigger electre" href="#inventif">Inventif</a></li>
+<div>J</div>
 <li><a class="modal-trigger vmv" href="#jugement">Jugement</a></li>
+<div>L</div>
 <li><a class="modal-trigger electre" href="#liberte-revolutionnaire">Liberté Révolutionnaire</a></li>
 <li><a class="modal-trigger vmv" href="#libre-arbitre">Libre Arbitre</a></li>
 <li><a class="modal-trigger electre" href="#loi">Loi</a></li>
+<div>M</div>
 <li><a class="modal-trigger vmv" href="#maitre">Maître</a></li>
 <li><a class="modal-trigger vmv" href="#magie">Magie</a></li>
 <li><a class="modal-trigger vmv" href="#marcottage">Marcottage</a></li>
@@ -102,6 +112,7 @@
 <li><a class="modal-trigger vmv" href="#moyen">Moyen</a></li>
 <li><a class="modal-trigger vmv" href="#mystere">Mystère</a></li>
 <li><a class="modal-trigger electre" href="#mythe">Mythe</a></li>
+<div>N</div>
 <li><a class="modal-trigger vmv" href="#nation-phare">Nation Phare</a></li>
 <li><a class="modal-trigger electre" href="#naturaliste">Naturaliste</a></li>
 <li><a class="modal-trigger"  href="#nature">Nature</a></li>
@@ -110,8 +121,10 @@
 <li><a class="modal-trigger electre" href="#neant2">Néant</a></li>
 <li><a class="modal-trigger vmv" href="#necessite">Nécessité</a></li>
 <li><a class="modal-trigger electre" href="#nourrice">nourrice</a></li>
+<div>O</div>
 <li><a class="modal-trigger electre" href="#observance">Observance</a></li>
 <li><a class="modal-trigger electre" href="#organes-publics">Organes Publics</a></li>
+<div>P</div>
 <li><a class="modal-trigger electre" href="#parents">Parents</a></li>
 <li><a class="modal-trigger electre" href="#patience">Patience</a></li>
 <li><a class="modal-trigger vmv" href="#patrie-celeste">Patrie Céleste</a></li>
@@ -133,12 +146,14 @@
 <li><a class="modal-trigger electre" href="#prudence">Prudence</a></li>
 <li><a class="modal-trigger vmv" href="#puissances">Puissances</a></li>
 <li><a class="modal-trigger vmv" href="#pur-impur">Pur-Impur</a></li>
+<div>R</div>
 <li><a class="modal-trigger electre" href="#raison">Raison</a></li>
 <li><a class="modal-trigger electre" href="#realiste">Réaliste</a></li>
 <li><a class="modal-trigger electre" href="#religion">Religion</a></li>
 <li><a class="modal-trigger electre" href="#responsable">Responsable</a></li>
 <li><a class="modal-trigger electre" href="#reve-communiste">Rêve Communiste</a></li>
 <li><a class="modal-trigger electre" href="#rites">Rites</a></li>
+<div>S</div>
 <li><a class="modal-trigger vmv" href="#sagesse">Sagesse</a></li>
 <li><a class="modal-trigger vmv" href="#saint-bon-integre">Saint-Bon-Intègre</a></li>
 <li><a class="modal-trigger vmv" href="#salut">Salut</a></li>
@@ -152,6 +167,7 @@
 <li><a class="modal-trigger electre" href="#sorciers">Sorciers</a></li>
 <li><a class="modal-trigger electre" href="#spiritualiste">Spiritualiste</a></li>
 <li><a class="modal-trigger electre" href="#systeme-de-choses">Système de choses</a></li>
+<div>T</div>
 <li><a class="modal-trigger vmv" href="#tabou">Tabou</a></li>
 <li><a class="modal-trigger vmv" href="#taches">Tâches</a></li>
 <li><a class="modal-trigger electre" href="#temps">Temps</a></li>
@@ -162,7 +178,9 @@
 <li><a class="modal-trigger electre" href="#tradition">Tradition</a></li>
 <li><a class="modal-trigger electre" href="#tranquille">Tranquille</a></li>
 <li><a class="modal-trigger vmv" href="#travail-fecondite">Travail/Fécondité</a></li>
+<div>U</div>
 <li><a class="modal-trigger vmv" href="#union-sociale">Union Sociale</a></li>
+<div>V</div>
 <li><a class="modal-trigger vmv" href="#voiant">Voïant</a></li>
 <li><a class="modal-trigger electre" href="#volontariat-gratuite">Volontariat-Gratuité</a></li>
 <li><a class="modal-trigger vmv" href="#voue">Voué</a></li>
