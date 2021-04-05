@@ -80,89 +80,89 @@
 	<path class="st3" d="M354.1,909.7c-0.7,0.5-1.3,0.9-1.3,0.9S353.4,910.2,354.1,909.7s1.3-0.9,1.3-0.9S354.8,909.3,354.1,909.7z"/>
 	<path id="SVGID_x5F_2_x5F_" class="st2" d="M405.1,866.8c-207.3-40.5-342.5-241.4-302-448.7"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_2_x5F_" startOffset="22.88%">
-<tspan  class="st4 st5" style="font-size:32px;"><a class="modal-trigger vmv" href="#frere">Frère</a> . Ami . Camarade</tspan>	</textPath>
+<tspan  class="st4 st5" style="font-size:32px;"><a class="modal-trigger vmv" href="#frere">Frère</a> . <a class="modal-trigger vmv" href="#ami">Ami</a> . <a class="modal-trigger vmv" href="#camarade">Camarade</a></tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_3_x5F_" class="st2" d="M409.8,831.3c-187.6-36.7-310-218.5-273.4-406.1"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_3_x5F_" startOffset="41.806%">
-<tspan  class="st4 st5 st6">‘‘Voïant’’</tspan><tspan  class="st4 st5 st6">	</tspan>	</textPath>
+<tspan  class="st4 st5 st6"><a class="modal-trigger vmv" href="#voiant">‘‘Voïant’’</a></tspan><tspan  class="st4 st5 st6">	</tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_4_x5F_" class="st2" d="M407,790.2c-164-32.1-271-191-239-355.1"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_4_x5F_" startOffset="35.842%">
-<tspan  class="st4 st5 st6">Marcottage</tspan>		</textPath>
+<tspan  class="st4 st5 st6"><a class="modal-trigger vmv" href="#marcottage">Marcottage</a></tspan>		</textPath>
 </text>
 	</g>
 	<g>
 		<path id="SVGID_x5F_5_x5F_" class="st2" d="M395,745.5c-130.6-25.5-215.8-152.1-190.3-282.8"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_5_x5F_" startOffset="23.926%">
-<tspan  class="st4 st5" style="font-size:25px;">Capacités . Besoins</tspan>		</textPath>
+<tspan  class="st4 st5" style="font-size:25px;"><a class="modal-trigger vmv" href="#capacites">Capacités</a> . <a class="modal-trigger vmv" href="#besoins">Besoins</a></tspan>		</textPath>
 </text>
 	</g>
 	<path id="SVGID_x5F_6_x5F_" class="st2" d="M316.3,829.6C346.9,681.7,251.9,537,104,506.4"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_6_x5F_" startOffset="43.556%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">Théorie</tspan>	</textPath>
+<tspan  class="st5" style="fill:#fff; font-size:18px;"><a class="modal-trigger vmv" href="#theorie">Théorie</a></tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_7_x5F_" class="st2" d="M333.3,811.7c29.8-143.8-62.7-284.5-206.4-314.2"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_7_x5F_" startOffset="39.425%">
-<tspan  class="st4 st5" style="font-size:18px;">Historisme</tspan>	</textPath>
+<tspan  class="st4 st5" style="font-size:18px;"><a class="modal-trigger vmv" href="#historisme">Historisme</a></tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_8_x5F_" class="st2" d="M350.6,786.5c26.8-129.6-64.4-268.6-194.1-295.5"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_8_x5F_" startOffset="36.377%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">Chose Pensante</tspan>	</textPath>
+<tspan  class="st5" style="fill:#fff; font-size:18px;"><a class="modal-trigger vmv" href="#chose-pensante">Chose Pensante</a></tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_9_x5F_" class="st2" d="M360.9,757.6C387.9,642.7,309.1,515,193.8,488"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_9_x5F_" startOffset="27.069%">
-<tspan  class="st4 st5" style="font-size:18px;">Démocratie centralisée</tspan>		</textPath>
+<tspan  class="st4 st5" style="font-size:18px;"><a class="modal-trigger vmv" href="#democratie-centralisee">Démocratie centralisée</a></tspan>		</textPath>
 </text>
 	</g>
 	<g>
 		<path id="SVGID_x5F_10_x5F_" class="st2" d="M375.9,742.2c27.5-117.3-45.3-234.6-162.5-262.1"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_10_x5F_" startOffset="30.713%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;">PEUPLE HUMAIN</tspan>		</textPath>
+<tspan  class="st5" style="fill:#fff; font-size:18px;"><a class="modal-trigger vmv" href="peuple-humain">PEUPLE HUMAIN</a></tspan>		</textPath>
 </text>
 	</g>
 	<g>
 		<path id="SVGID_x5F_11_x5F_" class="st2" d="M394,718.9c24.5-104.6-47.9-221.9-152.8-246.5"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_11_x5F_" startOffset="13.831%">
-<tspan  class="st4 st5" style="font-size:18px;">Curieux . Autodidacte . Assumé</tspan>		</textPath>
+<tspan  class="st4 st5" style="font-size:18px;"><a class="modal-trigger vmv" href="#curieux">Curieux</a> . <a class="modal-trigger vmv" href="#autodidacte">Autodidacte</a> . <a class="modal-trigger vmv" href="#assume">Assumé</a></tspan>		</textPath>
 </text>
 	</g>
 	<path id="SVGID_x5F_12_x5F_" class="st2" d="M466.6,604.6c-62.5-12.2-103.3-72.8-91.1-135.3"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_12_x5F_" startOffset="32.998%">
-<tspan  class="st5" style="fill:#fff; font-size:22px;">Bonheur</tspan>	</textPath>
+<tspan  class="st5" style="fill:#fff; font-size:22px;"><a class="modal-trigger vmv" href="#bonheur-commun">Bonheur</a></tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_13_x5F_" class="st2" d="M483.9,582.5c-57.3-11.2-94.7-66.8-83.5-124.1"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_13_x5F_" startOffset="32.325%">
-<tspan  class="st5" style="fill:#fff; font-size:22px;">Commun</tspan>	</textPath>
+<tspan  class="st5" style="fill:#fff; font-size:22px;"><a class="modal-trigger vmv" href="#bonheur-commun">Commun</a></tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_14_x5F_" class="st2" d="M519.7,532c-27.4,18.4-64.5,11.2-82.9-16.2s-11.2-64.5,16.2-82.9"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_14_x5F_" startOffset="29.19%">
-<tspan  class="st4 st5" style="font-size:16px;">Union sociale</tspan>		</textPath>
+<tspan  class="st4 st5" style="font-size:16px;"><a class="modal-trigger vmv" href="#union-sociale">Union sociale</a></tspan>		</textPath>
 </text>
 	</g>
 	<g>
-		<text transform="matrix(2.000000e-05 -1 1 2.000000e-05 473.2565 951.1017)" class="st4 st5 st6">Mouvement</text>
+		<text transform="matrix(2.000000e-05 -1 1 2.000000e-05 473.2565 951.1017)" class="st4 st5 st6"><a class="modal-trigger vmv" href="#mouvement">Mouvement</a></text>
 	</g>
 	<path id="SVGID_x5F_15_x5F_" class="st2" d="M654.5,869.9c-183,105.5-416.8,42.6-522.3-140.4"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_15_x5F_" startOffset="40.514%">
-<tspan  class="st4" style="font-family:'FrenchScriptMT'; font-size:36px;">Planète</tspan>	</textPath>
+<tspan  class="st4" style="font-family:'FrenchScriptMT'; font-size:36px;"><a class="modal-trigger vmv" href="#planete">Planète</a></tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_16_x5F_" class="st2" d="M652.9,828.9c-165.6,95.5-377.3,38.6-472.8-127.1"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_16_x5F_" startOffset="41.333%">
-<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:50px;">Attentif</tspan>	</textPath>
+<tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:50px;"><a class="modal-trigger vmv" href="#attentif">Attentif</a></tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_17_x5F_" class="st2" d="M618.5,783.1C473.7,866.5,288.7,816.8,205.2,672"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_17_x5F_" startOffset="40.649%">
-<tspan  class="st4 st5" style="font-size:25px;">Fin</tspan>		</textPath>
+<tspan  class="st4 st5" style="font-size:25px;"><a class="modal-trigger vmv" href="#fin">Fin</a></tspan>		</textPath>
 </text>
 	</g>
 	<g>
 		<path id="SVGID_x5F_18_x5F_" class="st2" d="M584.3,736.9c-115.3,66.5-262.7,26.8-329.2-88.5"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_18_x5F_" startOffset="38.818%">
-<tspan  class="st4 st5" style="font-size:25px;">Tâches</tspan>		</textPath>
+<tspan  class="st4 st5" style="font-size:25px;"><a class="modal-trigger vmv" href="#taches">Tâches</a></tspan>		</textPath>
 </text>
 	</g>
 	<g>
@@ -253,7 +253,7 @@
 </text>
 	</g>
 	<g>
-		<text transform="matrix(-0.8675 0.4975 -0.4975 -0.8675 895.707 259.4154)" class="st4 st5 st6">Ame Personnelle</text>
+		<text transform="matrix(-0.8675 0.4975 -0.4975 -0.8675 895.707 259.4154)" class="st4 st5 st6">Âme Personnelle</text>
 	</g>
 	<path id="SVGID_x5F_36_x5F_" class="st2" d="M726.6,142c184.1,103.5,249.5,336.6,146.1,520.7"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_36_x5F_" startOffset="40.514%">

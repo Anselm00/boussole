@@ -1,7 +1,7 @@
 <!-- Modal Structure -->
 <div id="fin" class="modal">
 			<div class="modal-content">
-			  <h4>fin</h4>
+			  <h4>Fin</h4>
 			  
 			  <p>« L’objection courante que “le communisme, nous ne le verrons pas” est des plus puériles. 
 				  Avoir un “but final” est une chose, l’histoire des “lendemains qui chantent” en est une autre. L’avenir appartient incontestablement au Communisme civilisé, au genre humain réuni en une seule famille, où il n’y aura place ni pour l’argent ni pour la police.</p>
