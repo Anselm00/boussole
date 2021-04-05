@@ -74,13 +74,13 @@
 </g>
 <g id="Calque_2">
 	<path id="SVGID_x5F_1_x5F_" class="st2" d="M390.4,896.7c-224.5-43.9-370.9-261.4-327-485.9"/>
-	<text>	<textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="28.324%">
+	<a class="modal-trigger vmv" href="#sociable"><text>	<textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="28.324%">
 <tspan  class="st5" style="fill:#fff; font-size:55px;">SOCIABLE</tspan>	</textPath>
-</text>
+</text></a>
 	<path class="st3" d="M354.1,909.7c-0.7,0.5-1.3,0.9-1.3,0.9S353.4,910.2,354.1,909.7s1.3-0.9,1.3-0.9S354.8,909.3,354.1,909.7z"/>
 	<path id="SVGID_x5F_2_x5F_" class="st2" d="M405.1,866.8c-207.3-40.5-342.5-241.4-302-448.7"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_2_x5F_" startOffset="22.88%">
-<tspan  class="st4 st5" style="font-size:32px;">Frère . Ami . Camarade</tspan>	</textPath>
+<tspan  class="st4 st5" style="font-size:32px;"><a class="modal-trigger vmv" href="#frere">Frère</a> . Ami . Camarade</tspan>	</textPath>
 </text>
 	<path id="SVGID_x5F_3_x5F_" class="st2" d="M409.8,831.3c-187.6-36.7-310-218.5-273.4-406.1"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_3_x5F_" startOffset="41.806%">
@@ -95,7 +95,7 @@
 	<g>
 		<path id="SVGID_x5F_5_x5F_" class="st2" d="M395,745.5c-130.6-25.5-215.8-152.1-190.3-282.8"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_5_x5F_" startOffset="23.926%">
-<tspan  class="st4 st5" style="font-size:25px;">Capacité . Besoin</tspan>		</textPath>
+<tspan  class="st4 st5" style="font-size:25px;">Capacités . Besoins</tspan>		</textPath>
 </text>
 	</g>
 	<path id="SVGID_x5F_6_x5F_" class="st2" d="M316.3,829.6C346.9,681.7,251.9,537,104,506.4"/>

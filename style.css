@@ -3,6 +3,10 @@ background: #000;
 
 }
 
+svg a { fill:white;
+
+}
+
 #slide-out div {
     font-family: 'Georgia';
     font-size: 1.5em;
