@@ -24,28 +24,23 @@ rencontre ces difficultés. »
 
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Societe_Politique_ed.pdf" target="_blank">"La Société Politique"</a>, p.6 - Talib Freddy - avril 2005 - Editions de l'Evidence - 2010</p>	  
 
-<p>__________________________</p>
 
-	  <p>« Le Croyant est perturbé par l’existence d’hommes Naturels.</p>
-<p>Nous sommes dans un Présent pris dans le Temps, et IL Y A des “peuples sans lois”,
-comme si nous étions, soit au Début du monde, soit à la Fin du monde ! Lors des Invasions Barbares,
-autour de 400, le chrétien Prudence dit : “Comme l’homme est supérieur aux animaux, de même les Romains
-chrétiens sont supérieurs aux Barbares idolâtres”. Et Synésius : les Germains sont rebelles à toute
-assimilation civilisée. Devant le danger barbare, Jérôme dit : “Ce sont nos péchés qui font la force des Barbares.
-Nous déplaisons tant à Dieu que la rage des Barbares est l’instrument de sa colère à notre endroit”.
-Après le passage de la vague Vandale en Espagne, Orose dit : Dieu a toléré les invasions pour mettre
-ces peuples au contact du monde catholique qui les convertira. Et Augustin, qui inclinait à croire à la fin de Rome
-et du monde quelques années plus tôt, dit alors : l’un des signes de la fin du monde annoncée par l’Évangile
-est loin d’être encore réalisé : la conversion des barbares au Christ. La menace est devenue une chance, la crainte espérance. »</p>
+<p>__________________________</p>
+<p style="text-align:center;"><b>Créer</b></p>
+<p>« Dans la Liturgie Latine, on donne “Créateur” pour traduire <b>CONDITOR</b>.</p>
+<p>En y regardant de plus près, on voit que ce mot se rattache au verbe CON-DERE qui veut dire “<b>mettre ensemble</b>”. Ceci nous met très loin de l’idée de créer à partir du Néant. En effet, on utilise Condere pour dire : fonder (une ville), établir (une entreprise), bâtir (un rempart), produire (un poème). Dans tous les cas, c’est le fait de “<b>réunir les éléments</b>” de quelque chose.</p>
+<p>- Cela passe, pour l’expression catholique médiévale, faisant ressortir le caractère inconséquent, “impur” comme dit Kant, du christianisme historique.</p>
+<p>- Mais ce n’est plus tolérable pour la religion Moderne.</p>
+<p>- Quant au Cléricalisme Barbare, il fait son beurre de l’imperfection Latine, et s’y accroche pour déverser sa Bondieuserie.</p>
+<p>La rigueur intellectuelle s’impose en Métaphysique. On a pas le droit de laisser patauger “Créer” dans la soupe où se trouve : faire, produire, former, façonner, susciter, modeler, faire croître, faire vivre, ouvrer, opérer, constituer, inventer, etc.</p>
+<p>Pourquoi pas, dans ce cas, dire que Dieu “pond” le monde comme une poule, ou qu’il le “prestidigite” comme un escamoteur bohémien ?… »</p>			 	
 
 
 <p>__________________________</p>
 
-<p>Voir <a href="https://www.eglise-realiste.org/pdf/Mentalite_Religieuse_ed.pdf" target="_blank">"Mentalité Religieuse"</a>, p.56 - Talib Freddy - Mars 2004 - Editions de l'Evidence</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Christ_Sauveur_ed.pdf" target="_blank">"Christ-Sauveur"</a>, p.11 - Freddy Malot - Mars 2007 - Editions de l'Evidence - 2010</p>
 
 
-				 	
-	
 	</div>
 		<div class="modal-footer">
   			<a href="#!" class="modal-close waves-effect waves-green btn-flat">Vu</a>

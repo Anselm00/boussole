@@ -15,6 +15,20 @@
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Egypte_et_Grece_ed.pdf" target="_blank"> "Egypte et Grêce"</a>, p.2 - août 1999 - Freddy Malot - Editions de l'Evidence</p>
 			  
+				  <p>__________________________</p>
+				  <p>« Plus la chasse s’affirme comme activité revenant à l’homme, plus se stabilise la
+<b>division naturelle du travail</b>, selon le sexe et l’âge.</p>
+<p>Simultanément, <b>l’organisation de la tribu</b> sur la base de la différence de sexes se
+perfectionne, tandis que l’on connaît les <b>mariages collectifs</b> entre groupes définis par
+des usages qui tendent à limiter peu à peu les relations matrimoniales entre consanguins :
+d’abord entre parents et enfants collectifs, puis entre frères et soeurs d’une même mère et
+enfin plus éloignés.</p>
+<p>À mesure que les hommes augmentent leur expérience de la production collective et
+organisent leurs liens sociaux selon des coutumes complexes, de véritables langues se
+forment et le savoir des hommes s’enrichit, tels ces aborigènes australiens qui connaissent
+plus de 300 espèces de plantes comestibles. »</p>
+<p>__________________________</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Production_de_la_Comm_ed.pdf" target="_blank"> "Le Mode de production de la commune primitive"</a>, p.7 - août 1999 - Cercle d'Etude Maoïste - 27 octobre 1973</p>
 
 			</div>
 			<div class="modal-footer">

@@ -60,6 +60,13 @@ des 2 versions rivales ; et les deux vont à la faillite quand leur perfection f
 			  
 			  
 			  <img class="image" src="img/realiste.png"/>
+			  <p>__________________________</p>
+			  <img class="image" src="img/realite.png"/>
+
+			  <p>__________________________</p>
+
+
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Principe_de_Raison_ed.pdf" target="_blank"> "Le Principe de Raison"</a>, p.25 - Freddy Malot  - 1999-2000 -  Editions de l'Evidence - 2017</p>
 
 
 			</div>
