@@ -3,29 +3,24 @@
 			<div class="modal-content">
 			  <h4>Fidélité</h4>
 			  
-			  <p>« La Bible baigne dans une atmosphère qui <b>appartient à la Tradition</b>, 
-				  à l’ère primitive de l’histoire humaine. Font foi de cela les notions clefs 
-				  du judaïsme : celle de “peuple-élu”, celle de “Loi” (politique et civile à la fois), 
-				  et celle du “Temple” (centre de l’empire théocratique).</p>
-<p>D’où l’incompatibilité profonde de la “fidélité” juive à l’Alliance, avec la “conversion” religieuse, 
-	entendue au sens civilisé. En lieu et place d’une Foi – subjective et universaliste –, nous avons des critères d’“adoption” :</p>
-<p>• La “<b>descendance</b> d’Abraham”, attestée par la circoncision ;</p>
-<p>• L’incorporation nécessaire en une “<b>communauté</b>”, gage du respect des observances.</p> 
-Ceci présente une parenté étroite avec le brahmanisme faisant corps avec les castes.</p>
-	Une conséquence en est aussi le phénomène des “prosélytes de la Porte”.
-<p>En ce qui concerne la “lignée” d’Abraham, c’est évidemment une plaisanterie ; 
-	mais une plaisanterie scabreuse, comme toute plaisanterie raciale. En ce domaine, 
-	n’importent vraiment que deux choses :</p>
-	<p>• Le repliement sur soi, plus ou moins prolongé et plus ou moins contraint, de certaines communautés régionales. Les conséquences exclusivistes de cela ne devinrent véritablement néfastes que dans les conditions des Temps Modernes.</p>
-<p>• Le trait saillant et bien connu de l’opposition entre juifs “orientaux” et “occidentaux”. On parle, à ce propos, de Séphardim (littéralement : espagnols) et d’Ashkenazim (littéralement : allemands).</p>
-<p>Le caractère traditionnel du judaïsme entraîne une série de particularités : la fameuse “haie” des prescriptions rituelles, illustrée par les “613 Commandements” ; le rôle décisif du “sang”, des “impuretés abominables”, des interdits alimentaires, des empêchements “matrimoniaux”, la “médecine” juive, etc.</p>
-<p>Nous laissons de côté d’autres vestiges, proprement tribaux, emplissant la Bible, qui datent de la période précédant la Captivité et la révolution d’Ezéchias et Josias : culte des “images”, cérémonies sur les “hauts lieux”, adoration d’objets sacrés : pierres (béthels, guilgals), arbres, etc. (cf. E. Ferrière – 1884). »</p>
+			  <p>« La pensée asiate se trouve concentrée dans la notion de “<b>Fidélité</b>” juive à l’Alliance entre Yaweh et son peuple exclusif des Hébreux. Une telle notion est complètement étrangère à celle de “Foi” subjective, telle que l’entend le spiritualisme civilisé. Par suite, en lieu et place d’une “conversion” éventuelle à une confession civilisée, nous avons des critères d’“adoption” primitifs, fondés sur la parenté. Ces critères sont :</p>
+<p>• La “descendance d’Abraham”, attestée par la circoncision ;</p>
+<p>• L’incorporation nécessaire en une “communauté”, gage du respect des observances rituelles.</p>
+<p>Nous observons ces traits bien ailleurs que chez les Juifs, par exemple dans le brahmanisme, inséparable des castes. Chez les Juifs, cela donna lieu au phénomène particulier des “prosélytes de la Porte”.</p>
+<p>En ce qui concerne la “lignée” d’Abraham, ce ne peut être qu’une plaisanterie dans les conditions civilisées ; mais c’est une plaisanterie scabreuse, comme toute plaisanterie raciale.</p>
+<p>L’ambiguïté ne cessa pas, cependant, d’être entretenue, entre “peuple” hébreu et “religion” juive. Elle se réduit finalement à deux choses :</p>
+<p>• Le repliement sur soi, plus ou moins prolongé et plus ou moins contraint, de certaines communautés régionales. Les conséquences exclusivistes du phénomène ne devinrent véritablement néfastes que dans les conditions des Temps Modernes, et plus encore depuis la crise de l’Occident (1850).</p>
+<p>• Le trait saillant reste, néanmoins, celui de l’opposition entre juifs “orientaux” et “occidentaux”. On parle, à ce propos, de Séphardim (littéralement : espagnols) et Ashkénazim (littéralement : allemands).</p>
+<p>Le caractère traditionnel-asiate du judaïsme entraîne une série de particularités : la fameuse “Haie” des prescriptions rituelles, illustrée par les “613 commandements” ; le rôle décisif du “sang”, des “impuretés” abominables, des interdits alimentaires (boucherie Kasher), des empêchements “matrimoniaux”, la “médecine” juive, etc.</p>
+<p>Signalons, pour mémoire, quelques-uns des vestiges proprement tribaux qui emplissent les parties archaïques de la Bible, et qui balancent les traits opposés, à caractère philosophique, qui dominent dans les parties récentes. Ces aspects datent de la période précédant la Captivité et la révolution d’Ezéchias et Josias. Citons : le culte des “images”, les cérémonies sur les “hauts lieux”, l’adoration d’objets sacrés (pierres : béthels, guilgals ; arbres ; etc.). (cf. E. Ferrière 1884). »</p>
 <p>__________________________</p>
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Judaisme_et_Sionisme_ed.pdf" target="_blank"> "Judaïsme et Sionisme"</a>, p.2,3 - 1991 - Freddy Malot - Editions de l'Evidence - 2010</p>
-			  
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Judaisme_et_Sionisme_ed.pdf" target="_blank"> "Judaïsme et Sionisme"</a>, p.9 - 1991 - Freddy Malot - Editions de l'Evidence - 2010</p>
+				 
+
+			  			  
 
 			</div>
 			<div class="modal-footer">
