@@ -34,7 +34,7 @@
     </head>
 
     <body>
-
+      <div class="fond"></div>
   <nav class="nav-wrapper transparent" data-target="blue" style="    position: fixed;    box-shadow: none;
     z-index: 2;">
     <div class="nav-wrapper transparent">
@@ -56,7 +56,7 @@
 
       
         <ul id="nav-mobile" class="right">
-        <li><a href="navigation-boussole.php">Se Transformer</a></li>
+        <li><a href="navigation-boussole.php">PolyRose</a></li>
           <li><a href="sociabilite.php">Sociabilité</a></li>
           <li><a href="electre.php">Electre</a></li>
           
@@ -74,4 +74,4 @@
     
   </ul>
 
-  <a href="#" id="menu-parallele" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+  <a href="#" id="menu-parallele" data-target="slide-out" class="sidenav-trigger"><img style="width: 44px;" src="img/logo_home.png"/></a>

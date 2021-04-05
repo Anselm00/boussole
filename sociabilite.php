@@ -14,25 +14,26 @@
 
     <body>
 
+	<div class="fond"></div>
+
   <nav class="nav-wrapper transparent" data-target="blue" style="    position: absolute;    box-shadow: none;
     z-index: 2;">
     <div class="nav-wrapper transparent">
 	
 
-      <a style="    margin-left: 50px;" class="voue" href="#"><img style="width: 27px;" src="images/fecondite.png"/></a>
+      <a style="    margin-left: 50px;" class="voue" href="#"><img style="width: 44px;" src="images/fecondite.png"/></a>
       <a class="meneur" href="#"><img style="width: 44px;
-    vertical-align: top;
     margin-top: 13px;" src="images/epee.png"/></a>
-      <a class="sociable" href="#"><img style="width: 35px;" src="images/anar.png"/></a>
+      <a class="sociable" href="#"><img style="width: 44px;" src="images/anar.png"/></a>
 
 
 
 
       
         <ul id="nav-mobile" class="right">
-        <li><a href="navigation-boussole.php">Se Transformer</a></li>
+        <li><a href="navigation-boussole.php">PolyRose</a></li>
           <li><a href="sociabilite.php">Sociabilité</a></li>
-          <li><a href="#electre">Electre</a></li>
+          <li><a href="electre.php">Electre</a></li>
         </ul>
       </div>
     </div>
@@ -47,7 +48,7 @@
     
   </ul>
 
-  <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+  <a href="#" data-target="slide-out" class="sidenav-trigger"><img style="width: 44px;" src="img/logo_home.png"/></a>
 
   <div class="compass-background"> 
       <div style = "max-width:1000px;margin:auto;width:100%;">
@@ -58,20 +59,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 977.1 973.3" style="enable-background:new 0 0 977.1 973.3;" xml:space="preserve">
 <style type="text/css">
-
- @font-face {
-    font-family: 'EdwardianScriptITC';
-    font-style: normal;
-    font-weight: 400;
-    src: url(../font/ITCEDSCR.woff2) format('woff2');
-  }
-
-  @font-face {
-    font-family: 'FrenchScriptMT';
-    font-style: normal;
-    font-weight: 400;
-    src: url(../font/FrenchScriptMT.woff2) format('woff2');
-  }
 
 	.st0{display:none;}
 	.st1{display:inline;stroke:#FFFFFF;stroke-miterlimit:10;}
@@ -447,15 +434,7 @@
               
   </div></div></div></div>
   
-  <section class="indigo">
-  <div style = "max-width:1000px;margin:auto;width:100%;">
-  <form action="#">
-    <p class="range-field">
-      <input type="range" id="test5" min="0" max="100" value="0"/>
-    </p>
-  </form>
-  </div>
-</section>
+  
 
 
 
