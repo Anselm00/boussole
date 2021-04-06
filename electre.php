@@ -64,6 +64,9 @@
 			  <?xml version="1.0" encoding="utf-8"?>
 			  <?xml version="1.0" encoding="utf-8"?>
 			  <?xml version="1.0" encoding="utf-8"?>
+			  <?xml version="1.0" encoding="utf-8"?>
+			  <?xml version="1.0" encoding="utf-8"?>
+			  <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 970.8 969.7" style="enable-background:new 0 0 970.8 969.7;" xml:space="preserve">
@@ -137,11 +140,11 @@
 <tspan  class="st4 st5" style="font-size:18px;">Critique . Inventif. Responsable</tspan>		</textPath>
 </text>
 	</g>
-	<path id="SVGID_x5F_12_x5F_" class="st2" d="M458.6,595.6c-61.9-15-99.9-77.4-84.9-139.3"/>
+	<path id="SVGID_x5F_12_x5F_" class="st2" d="M464.1,596.6c-62.7-11.3-104.4-71.2-93.2-133.9"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_12_x5F_" startOffset="13.672%">
 <tspan  class="st4 st5" style="font-size:22px;">Egalité  Liberté</tspan>	</textPath>
 </text>
-	<path id="SVGID_x5F_13_x5F_" class="st2" d="M476.7,573.9c-56.8-13.8-91.6-71-77.8-127.7"/>
+	<path id="SVGID_x5F_13_x5F_" class="st2" d="M487.4,572.2c-57.9-7.5-98.8-60.5-91.4-118.4"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_13_x5F_" startOffset="23.08%">
 <tspan  class="st4 st5" style="font-size:22px;">Tranquille</tspan>	</textPath>
 </text>
@@ -233,11 +236,11 @@
 	<g>
 		<path id="SVGID_x5F_30_x5F_" class="st2" d="M766.6,479.1c-118.2,23.2-195.2,137.8-172,256"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_30_x5F_" startOffset="10.479%">
-<tspan  class="st4 st5" style="font-size:18px;">Cellules privées . Org. publiques</tspan>		</textPath>
+<tspan  class="st4 st5" style="font-size:18px;">Cellules privées . Organes publics</tspan>		</textPath>
 </text>
 	</g>
 	<g>
-		<path id="SVGID_x5F_31_x5F_" class="st2" d="M737.9,472.1c-105.4,20.7-182.5,134.9-161.7,240.7"/>
+		<path id="SVGID_x5F_31_x5F_" class="st2" d="M712,477.3c-102.9,30.8-168.6,151.9-137.7,255.2"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_31_x5F_" startOffset="13.831%">
 <tspan  class="st4 st5" style="font-size:18px;">Dogme . Intello . Morale</tspan>		</textPath>
 </text>
@@ -366,16 +369,16 @@
 <tspan  class="st4 st5" style="font-size:14px;">Rêve Communiste</tspan>		</textPath>
 </text>
 	</g>
-	<path id="SVGID_x5F_56_x5F_" class="st2" d="M82,418.8C86,207.7,260.4,39.7,471.6,43.7"/>
+	<path id="SVGID_x5F_56_x5F_" class="st2" d="M75.2,425c4-211.2,178.4-379.1,389.6-375.2"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_56_x5F_" startOffset="40.514%">
 <tspan  class="st4" style="font-family:'FrenchScriptMT'; font-size:43px;">Existence</tspan>	</textPath>
 </text>
-	<path id="SVGID_x5F_57_x5F_" class="st2" d="M110.1,428.8c13.3-190.7,178.7-334.5,369.4-321.2"/>
+	<path id="SVGID_x5F_57_x5F_" class="st2" d="M103.2,435c13.3-190.7,178.7-334.5,369.4-321.2"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_57_x5F_" startOffset="41.333%">
 <tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:40px;">Don</tspan>	</textPath>
 </text>
 	<g>
-		<path id="SVGID_x5F_58_x5F_" class="st2" d="M160.5,430.7c11.6-166.7,156.2-292.5,323-280.8"/>
+		<path id="SVGID_x5F_58_x5F_" class="st2" d="M157.6,436.3c11.6-166.7,156.2-292.5,323-280.8"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_58_x5F_" startOffset="40.649%">
 <tspan  class="st4 st5" style="font-size:25px;">Fidélité</tspan>		</textPath>
 </text>
@@ -386,7 +389,7 @@
 <tspan  class="st4 st5" style="font-size:25px;">Voués</tspan>		</textPath>
 </text>
 	</g>
-	<path id="SVGID_x5F_60_x5F_" class="st2" d="M523.7,59.1C734.9,62.5,903.4,236.4,900,447.6"/>
+	<path id="SVGID_x5F_60_x5F_" class="st2" d="M531,68.9c211.2,3.3,379.7,177.3,376.3,388.4"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_60_x5F_" startOffset="45.801%">
 <tspan  class="st4" style="font-family:'FrenchScriptMT'; font-size:43px;">Néant</tspan>	</textPath>
 </text>
@@ -395,13 +398,13 @@
 <tspan  class="st4" style="font-family:'EdwardianScriptITC'; font-size:40px;">Force Féconde</tspan>	</textPath>
 </text>
 	<g>
-		<path id="SVGID_x5F_62_x5F_" class="st2" d="M519.3,150.2c167.1,2.6,300.5,140.3,297.8,307.4"/>
+		<path id="SVGID_x5F_62_x5F_" class="st2" d="M532.4,156.9c166.8,10.4,293.7,154,283.3,320.8"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_62_x5F_" startOffset="37.085%">
 <tspan  class="st4 st5" style="font-size:25px;">Tradition</tspan>		</textPath>
 </text>
 	</g>
 	<g>
-		<path id="SVGID_x5F_63_x5F_" class="st2" d="M602.6,203.9c127.5,38.2,199.9,172.5,161.7,300"/>
+		<path id="SVGID_x5F_63_x5F_" class="st2" d="M592.2,210.9C718,254.3,784.9,391.5,741.5,517.3"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_63_x5F_" startOffset="10.087%">
 <tspan  class="st4 st5" style="font-size:18px;">Système de choses</tspan>		</textPath>
 </text>
@@ -433,6 +436,9 @@
 	</g>
 </g>
 </svg>
+
+
+
 
 
 
