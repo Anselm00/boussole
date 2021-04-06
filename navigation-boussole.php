@@ -103,6 +103,7 @@
 <?php require('modal/esclavage.php');?>
 <?php require('modal/espace.php');?>
 <?php require('modal/esprit.php');?>
+<?php require('modal/etat.php');?>
 <?php require('modal/eternite.php');?>
 <?php require('modal/ethnies.php');?>
 <?php require('modal/etre.php');?>
@@ -141,6 +142,7 @@
 <?php require('modal/loi.php');?>
 <?php require('modal/magie.php');?>
 <?php require('modal/maitre.php');?>
+<?php require('modal/marche.php');?>
 <?php require('modal/marcottage.php');?>
 <?php require('modal/maritalat.php');?>
 <?php require('modal/masculin.php');?>

@@ -44,7 +44,8 @@ deux choses sont déterminantes : Dieu et l’Âme des hommes. »<p>
 
 				  <p>__________________________</p>
 
-		<img class="image" src="img/civilisation.jpg"/>		  
+		<img class="image" src="img/civilisation.jpg"/>
+		<img class="image" src="img/civilisation-2.png"/>		  
 		<p>__________________________</p>
 		<p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Documents.pdf" target="_blank"> "Manuel Programme du Comm-Anar, II - Documents"</a>, p.57(126) - Talib Freddy - 2006
 

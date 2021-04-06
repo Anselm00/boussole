@@ -16,7 +16,7 @@ Communauté comprend un Troupeau ACTIF (oui !), qui se donne un Pasteur PASSIF
 contre-partie. Le Pasteur est un peu comme la Reine d’une ruche d’abeilles, que les
 Anciens disaient « Roi sans aiguillon ». Comment le Troupeau peut-il être actif ?
 C’est qu’il n’est qu’un seul « corps ». C’est ce que se voulut toujours Israël. Quant au
-Voué juif, on le voit dans le NAZIR1, désigné avant sa naissance et à vie ; tels sont
+Voué juif, on le voit dans le NAZIR, désigné avant sa naissance et à vie ; tels sont
 Samuel, Jean-Baptiste, et… Marie ! Mais c’est dans le Grand-Prêtre (COHEN HAGADOL)
 qu’on le voit au sommet, et sa fonction brille pleinement au Jour de Pardon
 (YOM KIPPUR).</p>

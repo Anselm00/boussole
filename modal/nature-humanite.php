@@ -13,7 +13,7 @@
 <p>__________________________</p>
 
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Mere_Fondamentale_ed.pdf" target="_blank"> "La Mère Fondamentale"</a>, p.14 - Freddy Malot - septembre 1999 - Editions de l'Evidence - 2010</p>
-			  
+<p>__________________________</p>			  
 
 <p>« Dans le Monde, donc, Matière et Esprit se trouvent comme “en décalage”. Il ne
 faut pas comprendre cela comme s’il y avait la Matière d’un côté et l’Esprit de l’autre.

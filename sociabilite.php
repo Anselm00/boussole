@@ -414,13 +414,13 @@
 	<g>
 		<path id="SVGID_x5F_65_x5F_" class="st2" d="M305.8,271c87.7-100.1,240-110.2,340.1-22.5"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_65_x5F_" startOffset="35.714%">
-<tspan  class="st4 st5" style="font-size:25px;"><a class="modal-trigger vmv" href="#fecondite">Fécondité</a></tspan>		</textPath>
+<tspan  class="st4 st5" style="font-size:25px;"><a class="modal-trigger vmv" href="#fecondite-travail">Fécondité</a></tspan>		</textPath>
 </text>
 	</g>
 	<g>
 		<path id="SVGID_x5F_66_x5F_" class="st2" d="M769,454.6c29.7,129.8-51.4,259-181.2,288.7"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_66_x5F_" startOffset="37.317%">
-<tspan  class="st4 st5" style="font-size:25px;"><a class="modal-trigger vmv" href="#travail">Travail</a></tspan>		</textPath>
+<tspan  class="st4 st5" style="font-size:25px;"><a class="modal-trigger vmv" href="#travail-fecondite">Travail</a></tspan>		</textPath>
 </text>
 	</g>
 	
@@ -438,7 +438,7 @@
 
 
 
-  <?php require('modal/adequation.php');?> 
+<?php require('modal/adequation.php');?> 
 <?php require('modal/alliance.php');?>
 <?php require('modal/ame-personnelle.php');?>  
 <?php require('modal/ami.php');?>   
@@ -486,6 +486,7 @@
 <?php require('modal/esclavage.php');?>
 <?php require('modal/espace.php');?>
 <?php require('modal/esprit.php');?>
+<?php require('modal/etat.php');?>
 <?php require('modal/eternite.php');?>
 <?php require('modal/ethnies.php');?>
 <?php require('modal/etre.php');?>
@@ -524,6 +525,7 @@
 <?php require('modal/loi.php');?>
 <?php require('modal/magie.php');?>
 <?php require('modal/maitre.php');?>
+<?php require('modal/marche.php');?>
 <?php require('modal/marcottage.php');?>
 <?php require('modal/maritalat.php');?>
 <?php require('modal/masculin.php');?>

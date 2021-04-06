@@ -50,6 +50,7 @@
 <li><a class="modal-trigger vmv" href="#esclavage">Esclavage</a></li>
 <li><a class="modal-trigger electre" href="#espace">Espace</a></li>
 <li><a class="modal-trigger"  href="#esprit">Esprit</a></li>
+<li><a class="modal-trigger"  href="#etat">Etat</a></li>
 <li><a class="modal-trigger"  href="#eternite">Eternité</a></li>
 <li><a class="modal-trigger electre" href="#ethnies">Ethnies</a></li>
 <li><a class="modal-trigger electre" href="#etre">Etre</a></li>
@@ -94,6 +95,7 @@
 <div>M</div>
 <li><a class="modal-trigger vmv" href="#maitre">Maître</a></li>
 <li><a class="modal-trigger vmv" href="#magie">Magie</a></li>
+<li><a class="modal-trigger vmv" href="#marche">Marché</a></li>
 <li><a class="modal-trigger vmv" href="#marcottage">Marcottage</a></li>
 <li><a class="modal-trigger electre" href="#maritalat">Maritalat</a></li>
 <li><a class="modal-trigger electre" href="#masculin">Masculin</a></li>
