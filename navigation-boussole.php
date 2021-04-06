@@ -7,15 +7,15 @@
 <div id="top" class="scrollspy" style = "max-width:1200px;margin:auto;overflow: hidden;margin-top: 100px">
 
 <h1 style="    font-family: 'FrenchScriptMT';font-style: italic;
-	font-size: 180px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">P</span>olyRose d'H</span>ippase</h1>
+	font-size: 180px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">P</span>olyRose d'<span style="    font-family: 'EdwardianScriptITC';font-style: initial;">H</span>ippase</h1>
 
-	<h5 style="text-align:center;font-size: 45px; font-family: 'Georgia';" class="white-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'histoire n'est pas le temps’’</i>, </h5> 
+	<h5 style="text-align:center;font-size: 45px; font-family: 'Georgia';" class="white-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'Histoire n'est pas le Temps’’</i>, </h5> 
 
 <p style="font-family: 'Georgia';color:white;" >‘‘Métamorphose en prose’’, Polyrose est un jeu de société planétaire. <br>Le but du jeu est de s'approprier l'essence en utilisant les mots des boussoles.</p>
 
-<hr style="margin-top: 200px;">
+<p style="margin-top: 200px;">
 		
-	<div class="truck" style = "margin-top: 35px;width:1200px;">
+	<div class="truck" style = "margin-top: 25px;width:1200px;">
 		<div class="row">
 			
 			<div class="col s6"><div class="wheel"><div class="wheel2">
@@ -28,7 +28,7 @@
 	</div>
 
 
-	<hr>
+	<p style="margin-top: 400px;">
 	<p style="font-family: 'Georgia';color:white;" >
 	 Préhistoire, Histoire, Epoque Moderne et Contemporaine... Revisitez ces moments en jouant à <a href="regledujeu.php">PolyRose</a>...</p> 
 		
