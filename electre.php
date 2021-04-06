@@ -225,7 +225,7 @@
 </text>
 	<path id="SVGID_x5F_28_x5F_" class="st2" d="M831.7,503.7c-129.2,28.9-218.3,169.2-189.4,298.5"/>
 	<text>	<textPath  xlink:href="#SVGID_x5F_28_x5F_" startOffset="36.377%">
-<tspan  class="st4 st5" style="font-size:18px;"><a class="modal-trigger vmv" href="#raison">Contrat</a> . <a class="modal-trigger vmv" href="#loi">Loi</a></tspan>	</textPath>
+<tspan  class="st4 st5" style="font-size:18px;"><a class="modal-trigger vmv" href="#contrat">Contrat</a> . <a class="modal-trigger vmv" href="#loi">Loi</a></tspan>	</textPath>
 </text>
 	<g>
 		<path id="SVGID_x5F_29_x5F_" class="st2" d="M786.7,486.4C670.9,509.1,587,633.5,609.8,749.7"/>

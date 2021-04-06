@@ -7,13 +7,13 @@
 <div id="top" class="scrollspy" style = "max-width:1200px;margin:auto;overflow: hidden;margin-top: 100px">
 
 <h1 style="    font-family: 'FrenchScriptMT';font-style: italic;
-	font-size: 220px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">P</span>olyRose</h1>
+	font-size: 180px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">P</span>olyRose d'H</span>ippase</h1>
 
-	<h5 style="text-align:center;font-size: 55px; font-family: 'Georgia';" class="white-text">‘‘Le pur et le pire’’,<br>‘‘L'histoire n'est pas le temps’’ </h5> 
+	<h5 style="text-align:center;font-size: 45px; font-family: 'Georgia';" class="white-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'histoire n'est pas le temps’’</i>, </h5> 
 
-<p style="font-family: 'Georgia';color:white;" >‘‘Métamorphose en prose’’, Polyrose est un jeu de société français. <br>Le but du jeu est est de monopoliser l'attention de vos adversaire en utilisant les mots du plateau de jeu.</p>
+<p style="font-family: 'Georgia';color:white;" >‘‘Métamorphose en prose’’, Polyrose est un jeu de société planétaire. <br>Le but du jeu est de s'approprier l'essence en utilisant les mots des boussoles.</p>
 
-<hr style="margin-top: 35px;">
+<hr style="margin-top: 200px;">
 		
 	<div class="truck" style = "margin-top: 35px;width:1200px;">
 		<div class="row">
