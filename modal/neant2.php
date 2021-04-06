@@ -1,7 +1,7 @@
 <!-- Modal Structure -->
 <div id="neant2" class="modal">
 			<div class="modal-content">
-			  <h4>Néant 2</h4>
+			  <h4>Néant</h4>
 			  
 		 <p>« selon la mentalité civilisée, tout ce qui peut “manquer” d’esprit, à
 un titre ou degré quelconque, est non-être ou néant, c’est-à-dire relève de la matière
