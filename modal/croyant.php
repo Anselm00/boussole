@@ -77,7 +77,7 @@ Divination ! Les Cyniques crient : vive la Razzia ! le Potlatch, le Pillage et l
 
 <p>__________________________</p>
 
-<p>Voir <a href="https://www.eglise-realiste.org/pdf/Mentalite_Religieuse_ed.pdf" target="_blank">"Mentalité Religieuse"</a>, p.56 - Talib Freddy - Mars 2004 - Editions de l'Evidence</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Mentalite_Religieuse_ed.pdf" target="_blank">"Deux Révolutions Totales"</a>, p.56 - Talib Freddy - Mars 2004 - Editions de l'Evidence</p>
 <p>__________________________</p>
 
 				 	
