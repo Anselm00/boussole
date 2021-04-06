@@ -39,12 +39,12 @@
 
 
 	<hr>
-	<h5 style="    font-size: 55px; font-family: 'FrenchScriptMT';" class="white-text">"On ne sait ni ne pouvons savoir pourquoi il y a un Monde... 
-		mais il est évident qu'il existe... Immense et Eternel" </h5> 
+	<h5 style="    font-size: 55px; font-family: 'FrenchScriptMT';" class="white-text">‘‘On ne sait ni ne pouvons savoir pourquoi il y a un Monde... 
+		mais il est évident qu'il existe... Immense et Eternel’’ </h5> 
 		<h6 style="    color: white;
     font-size: 25px;
     text-align: right;
-    font-family: 'Georgia';">"Réel Muet" -Aîné de Dom Deschamps -18-11-2020<h6>
+    font-family: 'Georgia';">‘‘Réel Muet’’ - Aîné de Dom Deschamps - 18.11.2020<h6>
 
 
 
