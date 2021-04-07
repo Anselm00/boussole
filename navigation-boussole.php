@@ -7,7 +7,7 @@
 <div id="top" class="scrollspy" style = "max-width:1200px;margin:auto;overflow: hidden;margin-top: 100px">
 
 <h1 style="    font-family: 'FrenchScriptMT';font-style: italic;
-	font-size: 180px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">P</span>olyProse d'<span style="    font-family: 'EdwardianScriptITC';font-style: initial;">H</span>ippase</h1>
+	font-size: 250px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">P</span>oly Prose</h1>
 
 	<h5 style="text-align:center;font-size: 45px; font-family: 'Georgia';" class="black-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'Histoire n'est pas le Temps’’</i>, </h5> 
 
