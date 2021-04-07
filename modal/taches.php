@@ -2,7 +2,26 @@
 <div id="taches" class="modal">
 			<div class="modal-content">
 			  <h4>Tâches</h4>
-			  
+
+			  <p>« Tuer la société de Mort ne fait pas proprement dit partie des Tâches du Comm-Anar ; ceci se fait “tout seul”, va de soi. »</p>
+
+			  <p>__________________________</p>
+
+
+			
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Pas_lutte_des_classes_ed.pdf" target="_blank"> "Pas de “luttes des classes”"</a>, Talib Freddy - décembre 2007</p>
+<p>__________________________</p>
+<p>« Il est “naturellement” à prévoir que les <b>Femmes</b> pèseront plus que les Hommes dans la Chambre
+des Territoires, avec le rapport inverse dans la Chambre des Tâches. D’autres particularités
+“physiques” auront bien sûr leurs avocats dans le nouveau Sénat : la prime enfance, les vieux perclus,
+les handicapés, accidentés et malades. »</p>
+<p>__________________________</p>
+
+
+			
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform_ed.pdf" target="_blank"> "Manuel du Comm-Anar"</a>, p.86 (40) Talib Freddy - 10.02.2012</p>
+
+<p>__________________________</p>
 			 <p>"Notre Epoque et nos Tâches"</p>
 			  <img class="image" src="img/taches.png"/>
 
