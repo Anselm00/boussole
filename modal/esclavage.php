@@ -21,7 +21,9 @@
 				  
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Esclavage_Egalit_Despot_ed.pdf" target="_blank"> "Esclavage et Démocratie"</a>, p.1,2 - août 2005 - Talib Freddy - Editions de l'Evidence</p>
-			  
+				  <p>__________________________</p>
+		<img class="image" src="img/esclaves-serfs-salaries.png"/>
+	  
 
 			</div>
 			<div class="modal-footer">

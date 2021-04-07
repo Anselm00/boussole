@@ -1,7 +1,7 @@
 <!-- Modal Structure -->
 <div id="moyen" class="modal">
 			<div class="modal-content">
-			  <h4>Moyen</h4>
+			  <h4>Moyens</h4>
 			  
 			  <p>« L’Économie du Comm-Anar ne ressemble à rien de ce que connut la Préhistoire ; 
 				  c’est celle de la 3ème espèce de la Race humaine, celle qu’entreprend immédiatement la République Syndicale.</p>
