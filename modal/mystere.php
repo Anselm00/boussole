@@ -48,7 +48,7 @@ l’hommage que nous devons rendre à Dieu. Ici on expose comment le Mérite et 
 <p>- Du fait que les actes mêmes des meilleurs croyants ne sauraient produire un seul
 Saint en Ce-monde, il nous faut supposer le Secours divin dans notre Conduite.</p>
 <p>- N’empêche que ce que Dieu veut et peut faire pour notre Salut nous est
-complètement caché (􀂀 chap. VI).</p>
+complètement caché (chap. VI).</p>
 
 <p>__________________________</p>
 
