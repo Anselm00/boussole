@@ -34,7 +34,7 @@ drapeau du Comm-Anar : d’un côté ça convient, et de l’autre côté ça co
 <p>________</p>
 <p>NOTE: Et Dogmatiques ou Mythiques, ils ne se comprenaient pas eux-mêmes réellement, étaient
 “une force qui marche” – “aveugle” au fond – poussée par l’Histoire (dominant leur Temps ou leur
-Mémoire), amenés à la violence.</p>
+Mémoire), amenés à la violence. »</p>
 <p>__________________________</p>
 
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Trois_Humanites_ed.pdf" target="_blank"> "Les Trois Humanités"</a>, p.17 - Talib Freddy - 17 janvier 2007 - Talib Freddy - Editions de l'Evidence</p>

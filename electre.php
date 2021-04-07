@@ -258,7 +258,7 @@
 	<g>
 		<path id="SVGID_x5F_34_x5F_" class="st2" d="M515.5,431.5c28.8,17.8,37.7,55.6,19.9,84.3c-17.8,28.8-55.6,37.7-84.3,19.9"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_34_x5F_" startOffset="23.5455%">
-<tspan  class="st4 st5" style="font-size:14px;"><a class="modal-trigger vmv" href="#ideal-anarchiste">Ideal Anarchiste</a></tspan>		</textPath>
+<tspan  class="st4 st5" style="font-size:14px;"><a class="modal-trigger vmv" href="#ideal-anarchiste">Idéal Anarchiste</a></tspan>		</textPath>
 </text>
 	</g>
 	<g>
