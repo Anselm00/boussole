@@ -61,10 +61,10 @@
 <style type="text/css">
 
 	.st0{display:none;}
-	.st1{display:inline;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{display:inline;stroke:#000;stroke-miterlimit:10;}
 	.st2{fill:none;}
 	.st3{fill:#FFE77F;}
-	.st4{fill:#FFFFFF;}
+	.st4{fill:#000;}
 	.st5{font-family:'Georgia';}
 	.st6{font-size:28px;}
 </style>
@@ -75,7 +75,7 @@
 <g id="Calque_2">
 	<path id="SVGID_x5F_1_x5F_" class="st2" d="M390.4,896.7c-224.5-43.9-370.9-261.4-327-485.9"/>
 	<a class="modal-trigger vmv" href="#sociable"><text>	<textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="28.324%">
-<tspan  class="st5" style="fill:#fff; font-size:55px;">SOCIABLE</tspan>	</textPath>
+<tspan  class="st5" style="font-size:55px;">SOCIABLE</tspan>	</textPath>
 </text></a>
 	<path class="st3" d="M354.1,909.7c-0.7,0.5-1.3,0.9-1.3,0.9S353.4,910.2,354.1,909.7s1.3-0.9,1.3-0.9S354.8,909.3,354.1,909.7z"/>
 	<path id="SVGID_x5F_2_x5F_" class="st2" d="M405.1,866.8c-207.3-40.5-342.5-241.4-302-448.7"/>
