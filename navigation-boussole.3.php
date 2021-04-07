@@ -111,7 +111,7 @@
   </section>
 
 
-  <?php require('modal/adequation.php');?> 
+<?php require('modal/adequation.php');?> 
 <?php require('modal/alliance.php');?>
 <?php require('modal/ame-personnelle.php');?>  
 <?php require('modal/ami.php');?>   
@@ -159,6 +159,7 @@
 <?php require('modal/esclavage.php');?>
 <?php require('modal/espace.php');?>
 <?php require('modal/esprit.php');?>
+<?php require('modal/etat.php');?>
 <?php require('modal/eternite.php');?>
 <?php require('modal/ethnies.php');?>
 <?php require('modal/etre.php');?>
@@ -169,7 +170,7 @@
 <?php require('modal/feminin.php');?>
 <?php require('modal/feminisme.php');?>
 <?php require('modal/fidelite.php');?>
-<?php require('modal/fille-mere-nourrice.php');?>
+<?php require('modal/fille.php');?>
 <?php require('modal/fin.php');?>
 <?php require('modal/foi.php');?>
 <?php require('modal/force-feconde.php');?>
@@ -197,6 +198,7 @@
 <?php require('modal/loi.php');?>
 <?php require('modal/magie.php');?>
 <?php require('modal/maitre.php');?>
+<?php require('modal/marche.php');?>
 <?php require('modal/marcottage.php');?>
 <?php require('modal/maritalat.php');?>
 <?php require('modal/masculin.php');?>
@@ -206,6 +208,7 @@
 <?php require('modal/matriarcat.php');?>
 <?php require('modal/memoire.php');?>
 <?php require('modal/meneur.php');?>
+<?php require('modal/mere.php');?>
 <?php require('modal/mere-fondamentale.php');?>
 <?php require('modal/merite.php');?>
 <?php require('modal/moeurs.php');?>
@@ -217,6 +220,7 @@
 <?php require('modal/nation-phare.php');?>
 <?php require('modal/naturaliste.php');?>
 <?php require('modal/nature-humanite.php');?>
+<?php require('modal/nourrice.php');?>
 <?php require('modal/neant1.php');?>
 <?php require('modal/neant2.php');?>
 <?php require('modal/necessite.php');?>
@@ -229,6 +233,7 @@
 <?php require('modal/pere-supreme.php');?>
 <?php require('modal/personnalisme.php');?>
 <?php require('modal/peuple-bijou.php');?>
+<?php require('modal/peuple-humain.php');?>
 <?php require('modal/plan.php');?>
 <?php require('modal/planete.php');?>
 <?php require('modal/policee.php');?>
@@ -271,9 +276,11 @@
 <?php require('modal/tradition.php');?>
 <?php require('modal/tranquille.php');?>
 <?php require('modal/travail-fecondite.php');?>
-<?php require('modal/union-planetaire.php');?>
+<?php require('modal/union-sociale.php');?>
 <?php require('modal/voiant.php');?>
 <?php require('modal/volontariat-gratuite.php');?>
 <?php require('modal/voue.php');?>
+<?php require('modal/voues.php');?>
 
 <?php require('footer.php');?>
+    
