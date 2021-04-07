@@ -3,7 +3,14 @@
 			<div class="modal-content">
 			  <h4>Travail/Fécondité</h4>
 			  
-			  
+
+			  <p>« C’est en effet dans le cadre de l’exaltation générale du Travail que toute la société Politique se soutient. Que dit <b>Turgot</b> en 1776 pour attaquer les Corporations et préparer la “Liberté du Travail” de 1789 ? Ceci : “Dieu, en donnant à l’homme des besoins, lui rendit nécessaire la ressource du Travail, et fit donc du droit de travailler librement la propriété de tout homme, cette première et la plus sacrée des propriétés”. De fait, le Salarié est bien propriétaire de sa force de travail. »</p>
+			  <p>__________________________</p>
+
+				<p>Voir<a href="https://www.eglise-realiste.org/pdf/Utilite_Valeur_ed.pdf" target="_blank"> "Utilité-Valeur"</a>, p.29 - Talib Freddy- octobre 2005</p>
+				
+				<p>__________________________</p>
+
 				<img class="image" src="img/travail-fecondite.png"/>
 				<p>__________________________</p>
 
