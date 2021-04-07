@@ -119,7 +119,7 @@
 	<g>
 		<path id="SVGID_x5F_10_x5F_" class="st2" d="M375.9,742.2c27.5-117.3-45.3-234.6-162.5-262.1"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_10_x5F_" startOffset="30.713%">
-<tspan  class="st5" style="fill:#fff; font-size:18px;"><a class="modal-trigger vmv" href="peuple-humain">PEUPLE HUMAIN</a></tspan>		</textPath>
+<tspan  class="st5" style="fill:#fff; font-size:18px;"><a class="modal-trigger vmv" href="#peuple-humain">PEUPLE HUMAIN</a></tspan>		</textPath>
 </text>
 	</g>
 	<g>
