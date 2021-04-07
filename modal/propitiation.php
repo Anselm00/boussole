@@ -17,9 +17,15 @@
 
 <p>__________________________</p>
 
-			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Saint_Paul_Bon_depot_ed.pdf" target="_blank"> "Le Bon Dépôt"</a> - Freddy Malot - décembre 2000</p>
+			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Producteur_Libre_ed.pdf" target="_blank"> "Producteur de Dons"</a>, p.9 - Talib Freddy - 27 novembre 2005</p>
+			  <p>__________________________</p>
 
-			    
+			<img class="image" src="img/propitiation.png"/>
+			<img class="image" src="img/propitiation2.png"/>
+			<p>__________________________</p>
+
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Revanche_de_Sauvages_ed.pdf" target="_blank"> "Revanche des Sauvages"</a>, p.74 - Talib Freddy - 30.10.2011</p>
+
 
 
 
