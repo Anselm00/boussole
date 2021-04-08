@@ -3,6 +3,23 @@
 			<div class="modal-content">
 			  <h4>Liberté Révolutionnaire</h4>
 			  
+
+			  <p>« <b>La Liberté fut cultivée par la Civilisation</b> comme absolument exclusive de
+l’Égalité. L’Égalité “devant la Loi” proclamée en 1789 ne doit pas nous tromper : elle
+radicalise l’hégémonie de la Liberté. Si l’Égalité traditionnelle était <b>Totalitaire</b> (Totalitaire fait penser à absence de liberté CIVILE.),
+excluait tout “individualisme”, la Liberté civilisée était <b>Esclavagiste</b> (Esclavagiste fait penser à absence d’égalité POLITIQUE.), ceci étant la
+simple conséquence de l’Intellectualisme dominant : les tâches manuelles, les
+“travaux méchaniques”, ne sont pas dignes des “décideurs”. Ceci est une réalité
+historique, à laquelle il ne faut pas donner un sens péjoratif démagogique. Pas de
+civilisation sans esclaves, c’est tout. Et le Salariat, cet <b>esclavage libre</b>, est le plus
+systématique, scientifique, rigoureux qui fut. Remarquons bien “qui fut”, car cela fait
+175 ans que le Salarié civilisé a laissé la place à l’Indigène-salarié, tout comme le
+patron Responsable a laissé la place à l’employeur Parasite. »</p>
+
+<p>__________________________</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Trois_Humanites_ed.pdf" target="_blank"> "Les Trois Humanités"</a>, p.8 - Talib Freddy - janvier 2007 - Editions de l'Evidence - 2010</p>
+<p>__________________________</p>
+
 			 <p><b><i>“La liberté veut être conquise, jamais elle n’est concédée volontairement. Les prolétaires (les salariés) sont ceux qui, ne possédant rien, vivent uniquement de leur travail. Le plus grand nombre des prolétaires subsiste d’un travail corporel. Le prolétariat a pour terme correspondant le salaire, la rétribution accordée par le capitaliste.</i></b></p>
 			 <p><b><i>Le prolétaire a sur l’esclave antique un avantage immense, quand on le considère abstractivement : il s’appartient. Mais la volonté du prolétaire, exempte de contrainte directe, est soumise à une contrainte morale absolue. La liberté du prolétaire est fictive : son corps n’est pas esclave mais sa volonté l’est. Les chaînes et les verges de l’esclavage moderne, c’est la faim.</i></b></p>
 			 <p><b><i>L’esclave antique était assuré de la nourriture, du vêtement, d’un abri, de soins dans la maladie, de ne pas être accablé sous le poids d’un travail excessif ; à cause de l’intérêt que son maître avait de le conserver.</i></b></p>
@@ -10,7 +27,7 @@
 			 <p><b><i>La maxime d’égalité devant la loi n’est qu’une vaine fiction, imaginée pour tromper la conscience publique. Des multitudes de lois, au contraire, émanent d’un principe évident d’inégalité.</i></b></p>
 			 <p><b><i>Le prolétaire est-ce un homme !</i></b></p>
 			 <p><b><i>Peuple, Peuple, réveille-toi enfin ! Esclaves, levez-vous, rompez vos fers ! Voulez-vous qu’un jour vos enfants disent : nos pères ont été plus lâches que les esclaves romains ; parmi eux il ne s’est pas rencontré un Spartacus ?</i></b></p>
-			 <p><b><i>Il s’en rencontrera, et plus d’un, n’en doutons pas !”</i></b></p>
+			 <p><b><i>Il s’en rencontrera, et plus d’un, n’en doutons pas !”</i></b> Félicité de Lammenais</p>
 			 <p><b><i>Vos âmes, Citoyens !</i></b></p>
 			  
 			 <p>__________________________</p>
