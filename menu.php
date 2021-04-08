@@ -122,7 +122,7 @@
 <li><a class="modal-trigger electre" href="#neant1">Néant</a></li>
 <li><a class="modal-trigger electre" href="#neant2">Néant</a></li>
 <li><a class="modal-trigger vmv" href="#necessite">Nécessité</a></li>
-<li><a class="modal-trigger electre" href="#nourrice">nourrice</a></li>
+<li><a class="modal-trigger electre" href="#nourrice">Nourrice</a></li>
 <div>O</div>
 <li><a class="modal-trigger electre" href="#observance">Observance</a></li>
 <li><a class="modal-trigger electre" href="#organes-publics">Organes Publics</a></li>

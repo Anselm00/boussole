@@ -21,8 +21,8 @@ comme l’unité organique des deux couples antagoniques que forment
 Familles-État et Humanité-Individus, et les relations mutuelles
 qu’entretiennent ces deux couples. »</b></p>
 
-•••
-Le contenu de la souveraineté civilisée – la relation Famille-État – constitue son
+<p>•••</p>
+<p>Le contenu de la souveraineté civilisée – la relation Famille-État – constitue son
 dynamisme interne. Cette facette de la Souveraineté est la chose la plus connue.
 Cependant, la pensée décadente Contemporaine s’interdit de voir dans le
 développement du couple Familles-État la simple expression sociale du devenir de la
