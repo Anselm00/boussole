@@ -11,7 +11,7 @@
 
 	<h5 style="text-align:center;font-size: 45px; font-family: 'Georgia';" class="black-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'Histoire n'est pas le Temps’’</i>, </h5> 
 
-<p style="font-family: 'Georgia';color:black;" >‘‘Mots Bijou de Dédé’’ est une Polie-Prose philosophico-politique engagée. <br>Le but du jeu est de mener une causerie fraternelle-amicale sur la Victoire de l'Histoire.</p>
+<p style="font-family: 'Georgia';color:black;" >‘‘Mots Bijoux de Dédé’’ est une Poly-Prose philosophico-politique engagée. <br>Le but du jeu est de mener une causerie fraternelle-amicale sur la Victoire de l'Histoire.</p>
 
 <p style="margin-top: 200px;">
 		
@@ -30,7 +30,7 @@
 
 	<p style="margin-top: 40px">
 	<p style="font-family: 'Georgia';color:black;" >
-	 Préhistoire, Histoire, Epoque Moderne et Contemporaine... Revisitez ces moments en jouant à <a href="regledujeu.php">PolyRose</a>...</p> 
+	 Préhistoire, Histoire, Epoque Moderne et Contemporaine... Revisitez ces moments en jouant à <a href="regledujeu.php">Mots Bijoux</a>...</p> 
 		
 
 

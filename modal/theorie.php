@@ -24,7 +24,7 @@ Rapport, il y a Adéquation totale du “mot” et de la “chose”.</p>
 <p>2/ <b><u>Réalité pour-Nous.</u></b></p>
 <p>Notre action a une incidence “prochaine” (directe) sur la Réalité pour-Nous ; non plus absolue
 mais simplement générale. Cette dernière est faite d’un tissu de réalités à minuscule (particulières).
-Il s’agit de faits 1 événements, “à la limite” <b>Indiscernables</b> (espace) et en même temps <b>Inédits</b>
+Il s’agit de faits <=> événements, “à la limite” <b>Indiscernables</b> (espace) et en même temps <b>Inédits</b>
 (temps). Car un endroit peut tendre vers le point (sans dimension), et un moment peut tendre
 vers l’instant (sans durée). Bref, qualité-quantité et continu-discret sont des paires de contraires
 identiques en dernière analyse.</p>
