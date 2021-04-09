@@ -39,7 +39,7 @@ précisément, comment Foi et Raison coopèrent dans le Dogme. À ce propos,
 disons ceci :</p>
 <p>- Du fait de l’Impératif Moral en nous, notre Raison peut postuler sans problème l’existence de Dieu.</p>
 <p>- N’empêche que le pourquoi et le comment de Dieu lui-même nous sont
-complètement cachés en Ce-monde (􀂀 chap. V).</p>
+complètement cachés en Ce-monde (chap. V).</p>
 
 <p style="text-align:center;"><b>§ 166</b></p>
 <p>Le mystère réapparaît ouvertement dans le Culte, c’est-à-dire dans la question de
