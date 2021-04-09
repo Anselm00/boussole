@@ -7,11 +7,11 @@
 <div id="top" class="scrollspy" style = "max-width:1200px;margin:auto;overflow: hidden;margin-top: 100px">
 
 <h1 style="    font-family: 'FrenchScriptMT';font-style: italic;
-	font-size: 300px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Mots</span> Bijoux</h1>
+	font-size: 180px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Mots</span> Bijoux</h1>
 
-	<h5 style="text-align:center;font-size: 45px; font-family: 'Georgia';" class="black-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'Histoire n'est pas le Temps’’</i>, </h5> 
+	<h5 style="text-align:center;font-size: 30px; font-family: 'Georgia';" class="black-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'Histoire n'est pas le Temps’’</i>, </h5> 
 
-<p style="font-family: 'Georgia';color:black;" >‘‘Mots Bijoux de Dédé’’ est une Poly-Prose philosophico-politique engagée. <br>Le but du jeu est de mener une causerie fraternelle-amicale sur la Victoire de l'Histoire.</p>
+<p style="font-family: 'Georgia';color:black;" >‘‘Mots Bijoux de Dédé’’ est une Poly-Prose philosophico-politique engagée. <br>Le but du jeu est de naviguer dans la causerie fraternelle-amicale... à l'aide de boussoles indiquant : la Victoire de l'Histoire.</p>
 
 <p style="margin-top: 200px;">
 		
