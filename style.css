@@ -279,7 +279,7 @@ div.modal span {
 }
 
 svg a:hover {
-    font-weight:bolder;
+    text-decoration: underline;
     transition: font-weight 1s;
 }
 

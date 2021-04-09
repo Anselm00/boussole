@@ -24,9 +24,9 @@
     margin-left: 65px;float: left;">
  
     
-      <a class="voue" href="#"><img style="width: 27px;" src="images/fecondite.png"/></a>
-      <a class="meneur" href="#"><img style="width: 59px;" src="images/epee.png"/></a>
-      <a class="sociable" href="#"><img style="width: 35px;" src="images/anar.png"/></a>
+      <a class="voue" href="#"><img style="width: 44px;" src="images/fecondite.png"/></a>
+      <a class="meneur" href="#"><img style="width: 44px;margin-top: 13px;" src="images/epee.png"/></a>
+      <a class="sociable" href="#"><img style="width: 44px;" src="images/anar.png"/></a>
     
 
       </div>
@@ -52,8 +52,8 @@
     
   </ul>
 
-  <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-
+  <a href="#" data-target="slide-out" class="sidenav-trigger"><img style="width: 44px;" src="img/logo_home.png"/></a>
+  
   <div class=""> 
       <div style = "max-width:1000px;margin:auto;width:100%;">
           <div class="compass">
