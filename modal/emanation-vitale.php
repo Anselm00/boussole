@@ -35,7 +35,7 @@ le “royaume des ombres” même. »</p>
 <p>__________________________</p>
 
 
-<p>Voir <a href="https://www.eglise-realiste.org/pdf/Theorie_Generale_ed.pdf" target="_blank"> "Livret"</a>, p.38 - Freddy Malot - juillet 2000 - augmenté en mai 2004 - Editions de l'Evidence - 2012</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Documents.pdf" target="_blank"> "Réalité"</a>, p.20 (4) - Freddy Malot, Eglise Réaliste Mondiale - décembre 1999 </p>
 
 			</div>
 			<div class="modal-footer">

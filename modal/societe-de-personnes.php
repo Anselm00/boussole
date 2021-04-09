@@ -2,6 +2,32 @@
 <div id="societe-de-personnes" class="modal">
 			<div class="modal-content">
 			  <h4>Société de Personnes</h4>
+			  
+			  <p>« L’arbre social du travail réel plongeait ses racines dans la terre nourricière confiée en usufruit à la famille humaine
+par Dieu, et il se trouvait couronné par la fleur du Génie des Grands Hommes dont le
+parfum s’élevait jusqu’au ciel. Par les deux extrémités, la création visible parvenait
+ainsi à se reposer dans la grâce divine.</p>
+<p>La civilisation, en effet, n’appréhendait les Personnes en tant que telles – non pas
+les pères de famille prosaïque, mais les Individus purs et simples – qu’au travers des
+Grands Hommes, ceux dignes de devenir des Immortels de l’Académie, ou d’être
+inhumés au Panthéon. Ces bienfaiteurs de la civilisation, auxquels “l’humanité
+reconnaissante” rendait hommage, étaient censés mériter le titre d’initiateurs mêmes
+du corps social au travail intéressé. Eux-mêmes, en qualité d’hommes exceptionnels,
+étaient jugés comme affranchis en principe de la contrainte sociale, ne devant leur
+position qu’à des “dons” spéciaux qu’ils mettaient en oeuvre “librement”. Tels étaient,
+selon les départements du travail social, les pionniers de l’économie, les grands
+législateurs de la politique, les maîtres de la science et les sages de la métaphysique.</p>
+<p>La foule civilisée pouvait cependant communier avec ces Grands Hommes en
+s’adonnant, dans la mesure des dons de chacun, aux activités “gratuites” que sont
+l’Art et la Mystique. Par l’Art s’opérait la culture du “sublime”, activité proprement
+personnelle et gratuite s’offrant à l’homme “extérieur” ; et par la Mystique se cultivait
+l’activité gratuite suprême, portant sur le “sacré” résidant dans “l’homme intérieur”.</p>
+
+<p>__________________________</p>
+
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Orientation_RSU_ed.pdf" target="_blank"> "Orientation de la République Sociale Universelle"</a>, p.11 - Font Social du Salut - Freddy Malot - octobre 1992 - Editions de l'Evidence - 2010</p>
+
+<p>__________________________</p>
 
 			  <p>« La <b>Personne</b> se connaît pleinement libre et responsable dans le Chef de ménage légal ; et chacun des membres physiques de la cellule, parvenu à l’âge de raison, découvre que <b>son Âme</b> commande fondamentalement à son corps ; que la <b>Spontanéité</b> pure de sa conscience accompagne invariablement ses diverses idées, et que sa <b>Volonté</b> lui permet de faire prévaloir l’impératif du Bien sur le penchant au Mal.</p>
 			  <p>La Personne qui reconnaît ainsi en elle-même l’Âme comme sa vraie substance a immédiatement foi dans le fait qu’il lui faut aspirer à la condition de vrai Sujet dans une autre vie, dans la vraie vie en vérité, où l’Âme revêtue d’un corps glorieux exercera une hégémonie sans entrave sur ce dernier, de sorte que l’existence du Sujet sera immortelle.</p>
@@ -16,6 +42,7 @@
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Mentalite_Religieuse_ed.pdf" target="_blank"> "La Mentalité Religieuse"</a>, p.6 - Talib Freddy - mars 2004 - Eglise Réaliste Mondiale - Editions de l'Evidence - 2010</p>
 
 <p>__________________________</p>
+
 		 <p>« • L’Humanité, l’Homme (Individu-Genre humain), c’est le titre que se donnent les êtres pensants religieux, organisés en <b>Société de Personnes</b>.</p>
 <p>La société de personnes est posée comme régie par la Liberté. Un intellectualisme spécial préside à cette vision : le <b>MORALISME</b> (cf. “Vies Parallèles” de Plutarque). Donc : Dogmatisme > Intellectualisme > Moralisme (cf. supra).</p>
 <p>La méthode adoptée par le Moralisme, jugée garante de la vérité, est la <b>Déduction</b> – expérience intime et méditation spéculative – (cf. Rousseau).</p>
@@ -30,7 +57,7 @@
 <p>__________________________</p>
 
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Societe_Politique_ed.pdf" target="_blank"> "La Société Politique"</a>, p.9,10 - Talib Freddy - avril 2005 - Editions de l'Evidence - 2010</p>
-			  
+
 
 
 
