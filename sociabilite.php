@@ -31,9 +31,9 @@
 
       
         <ul id="nav-mobile" class="right">
-        <li><a href="navigation-boussole.php">PolyRose</a></li>
-          <li><a href="sociabilite.php">Sociabilité</a></li>
-          <li><a href="electre.php">Electre</a></li>
+        <li><a class="black-text" href="navigation-boussole.php">PolyProse</a></li>
+		<li><a class="black-text" href="sociabilite.php">Sociabilité</a></li>
+		<li><a class="black-text" href="electre.php">Electre</a></li>
         </ul>
       </div>
     </div>

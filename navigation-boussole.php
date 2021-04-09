@@ -15,7 +15,7 @@
 
 <p style="margin-top: 200px;">
 		
-	<div class="truck" style = "margin-top: 25px;width:1200px;">
+	<div class="truck" style = "margin-top: 25px;max-width:1200px;">
 		<div class="row">
 			
 			<div class="col s6"><div class="wheel"><div class="wheel2">
