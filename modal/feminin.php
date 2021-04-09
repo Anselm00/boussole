@@ -39,12 +39,14 @@ la carte.</p>
 (W.F.L.).
 • M.L.F. = Women’s Lib. : 1968. Valérie Solanas : 1936-1988. 1967 : Manifeste SCUM (Taillage
 des ♂ : Society to Cut Up Men).»</p>
-<p>__________________________</p>
+<p>_________</p>
 <p>Notes, cf. document original
 				  
-
+<p>__________________________</p>
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Question de la Femme (Manuel-Programme)"</a>, p.68 (31) - 22.01.2012 - Talib Freddy - Editions de l'Evidence</p>
-			  
+				  <p>__________________________</p>
+				  <p>Voir aussi <a href="https://www.eglise-realiste.org/pdf/Menage_Prive_ed.pdf" target="_blank"> "Ménage Privé"</a>, et <a href="https://www.eglise-realiste.org/pdf/Putain_Pouliniere_ed.pdf" target="_blank"> "Putain & Poulinière"</a></p>
+
 
 			</div>
 			<div class="modal-footer">
