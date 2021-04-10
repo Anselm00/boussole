@@ -3,7 +3,18 @@
 			<div class="modal-content">
 			  <h4>Eternité</h4>
 			  
-			  <p>« TOUT existe pourtant, et je suis bien tenté<br>
+			  <p>« DANS l’abîme des tems quand mon Esprit se plonge,<br>
+Tout confond ma raison, tout me paroît un songe ;<br>
+Je croirois volontiers, sans m’y trop arrêter,<br>
+Que rien dans l’Univers ne devroit exister,<br>
+Ni Cieux, ni Mouvement, ni Mondes, ni Matière,<br>
+Pas un atôme enfin de la Nature entière.<br>
+Et d’où ces vieux objets peuvent-ils provenir ?<br>
+Qui les a pu créer ? qui les a fait sortir<br>
+Du Néant supposé qui devançoit la terre ?<br>
+Un Dieu même de Rien n’eût jamais pu rien faire.<br>
+
+			  <p>TOUT existe pourtant, et je suis bien tenté<br>
 De croire que tout est de toute éternité.<br>
 Si la Création est un acte impossible,<br>
 Tout dit à la raison que l’Air irrésistible<br>

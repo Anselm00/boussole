@@ -3,10 +3,8 @@
     <div class="modal-content">
       <h4><b>Ami</b></h4>
 	  		
-		<p>« Sous le Matriarcat Parental, on exaltait <b>l’Égalité Fraternelle</b> (“Adelphique”, en grec, englobe
-soeurs et frères… car Adolphe est frère UTÉRIN ! Delphys – δελФυς = matrice) ; mais au prix de
-ravaler la Liberté.</p>
-<p>Sous le Maritalat Bourgeois, on exaltait la <b>Liberté Amicale</b> (“Philique” – PHILĒÔ : plaire,
+		
+	  <p>« Sous le Maritalat Bourgeois, on exaltait la <b>Liberté Amicale</b> (“Philique” – PHILĒÔ : plaire,
 désirer, de façon extra-parentale = Φιλέω) ; mais en ravalant l’Égalité. »</p>
 
 <p>__________________________</p>
