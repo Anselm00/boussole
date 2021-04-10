@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Religion</h4>
 			  
-			  <p style="text-align:center;"><b>Les Trois Religions Monothéistes : le dire imbécile!*</b></p>
+			  <p style="text-align:center;font-size: 30px;"><b>Les Trois Religions Monothéistes : le dire imbécile!*</b></p>
 <p><b>1-</b> Que peut bien vouloir dire “religions <b>monothéistes</b>” ?</p>
 <p>C’est une tautologie ! Religion signifie Dieu, et si Dieu il y a, où a-t-on vu qu’il puisse y en avoir plusieurs !</p>
 <p>On nous bafouille donc simplement : religion-religion, monothéisme-monothéisme. Quelle science !</p>
@@ -27,10 +27,10 @@
 <p>L’Agnosticisme***** Laïc veut dire : “Guerre à Métaphysique”, donc guerre à notre civilisation passée, des Grecs jusques à Kant, guerre à l’intelligence populaire. Guerre au Zevsisme, au Christianisme Impérial greco-slave, au Christianisme Latin et aux croyants Modernes (Évangélistes, Jansénistes, Puritains, Gallicans, Oratoriens, Sulpiciens, Franc-Maçons et Théistes).</p>
 <p>Évidemment, il en est de même pour les disciples Orientaux de Confucius, Bouddha et Mahomet ! Et pour le vrai Judaïsme matérialiste...</p>
 <p>Alors ne laissons plus les “spécialistes” de l’Obscurantisme Inquisitorial Laïc nous rouler dans la farine !</p>
-<p style="text-align:center;"><i><b>Dissidence Morale !</b></i></p>
+<p style="text-align:center;font-size: 40px;"><i><b>Dissidence Morale !</b></i></p>
 <p>La Religion doit sauver sa peau ! et la masse populaire doit imposer son droit à penser à la manière civilisée, c’est-à-dire selon Foi-Raison, pour donner naissance à la Nouvelle Religion honorant ainsi l’ancienne.</p>
 <p>En fraternité avec l’humanité matérialiste Traditionnelle ressuscitée, la branche spiritualiste sauvée, nous pourrons ensemble proclamer la fin de</p>
-<p style="text-align:center;"><b>L’infâme Laïcité et de ses Funestes Acquis Sociaux !</b></p>			 
+<p style="text-align:center;font-size: 30px;"><b>L’infâme Laïcité et de ses Funestes Acquis Sociaux !</b></p>			 
 _____________
 <p>* Rappelons que l’imbécile se distingue de l’idiot par l’absence de stigmate physique et la présence de certaines aptitudes mentales malheureusement inutilisables. Le dire de notre faible d’esprit est donc le suivant : Judaïsme, Christianisme et Islam sont les trois religions monothéistes ; autrement dites “les trois religions du Livre” : la Torah, l’Évangile et le Coran ; et désignant encore trois extra-terrestres : Moïse, Jésus-Christ et Mahomet.</p>
 <p>** cf. Benoît XVI et son discours à Ratisbonne.</p>
@@ -52,7 +52,7 @@ _____________
 <p>__________________________</p>
 
 
-			  <p><b>« Qu’est-ce que la Religion ?</b></p>
+<p style="text-align:center;font-size: 30px;"><b> Qu’est-ce que la Religion ?</b></p>
 <p>Les maîtres à penser de notre époque – qu’ils se disent Croyants ou pas – ne s’emploient qu’à organiser la confusion sur cette question. Or, être clair sur cette question est de première importance !</p>
 <p>Pour cela, quelques points décisifs sont à souligner :</p>
 <p><b>1-</b> La Religion est par-dessus tout une <b>MENTALITÉ SOCIALE</b>, et même à prétention nécessairement universelle.</p>
@@ -94,6 +94,25 @@ _____________
 
 			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Societe_Politique_ed.pdf" target="_blank"> "La Société Politique"</a>, p.32 à 34 - Talib Freddy  - avril 2005 -  Editions de l'Evidence - 2010</p>
 
+			  <p>__________________________</p>
+
+
+			  <p style="text-align:center;font-size: 45px;"><b>Napoléon Bonaparte</b>
+			  <p style="text-align:center;"><b>J’aime mieux la religion de Mahomet.</b>
+			  <p style="text-align:center;"><b>Elle est moins ridicule que la nôtre.</b>
+			  <p style="text-align:center;"><b>________</b>
+			  <p style="text-align:center;"><b>Il n’y a qu’un Dieu. C’était le message de l’Islam.</b>
+			  <p style="text-align:center;"><b>L’Islam est la vraie religion.</b>
+			  <p style="text-align:center;"><b>Plus les gens liront et deviendront intelligents,</b>
+			  <p style="text-align:center;"><b>plus ils se familiariseront avec</b>
+			  <p style="text-align:center;"><b>la logique et le raisonnement.</b>
+			  <p style="text-align:center;"><b>Ils abandonneront les idoles ou les rituels</b>
+			  <p style="text-align:center;"><b>qui supportent polythéisme,</b>
+			  <p style="text-align:center;"><b>et ils reconnaîtront qu’il n’y a qu’Un Dieu.</b>
+			  <p style="text-align:center;"><b>Par conséquent, j’espère que le moment ne tardera pas où</b>
+			  <p style="text-align:center;"><b>l’Islam prédominera dans le monde.</b>
+
+<p>__________________________</p>
 
 
 			  <img class="image" src="img/religion.png"/>
