@@ -321,7 +321,7 @@
 	<g>
 		<path id="SVGID_x5F_46_x5F_" class="st2" d="M267.6,253.4c115.8-120.5,307.4-124.3,427.9-8.4"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_46_x5F_" startOffset="37.866%">
-<tspan  class="st4 st5 st6"><a class="modal-trigger vmv" href="#sauvage">‘‘Sauvage’</a>’</tspan>		</textPath>
+<tspan  class="st4 st5 st6"><a class="modal-trigger vmv" href="#sauvage">‘‘Sauvage’’</a>’</tspan>		</textPath>
 </text>
 	</g>
 	<path id="SVGID_x5F_47_x5F_" class="st2" d="M289.6,149.9c105.6,108,278.7,109.9,386.7,4.3"/>
