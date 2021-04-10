@@ -1,7 +1,7 @@
 <div>A</div>
 <li><a class="modal-trigger vmv" href="#adequation">Adéquation</a></li>
 <li><a class="modal-trigger vmv" href="#alliance">Alliance</a></li>
-<li><a class="modal-trigger vmv" href="#ame-personnelle">Ame Personnelle</a></li>
+<li><a class="modal-trigger vmv" href="#ame-personnelle">Âme Personnelle</a></li>
 <li><a class="modal-trigger vmv" href="#ami">Ami</a></li>
 <li><a class="modal-trigger vmv" href="#ancestral">Ancestral</a></li>
 <li><a class="modal-trigger vmv" href="#assume">Assumé</a></li>
