@@ -10,7 +10,7 @@
 	</div>
 
 
-	<div style = "max-width:1000px;margin:auto;overflow: hidden;">
+	<div style = "max-width:1000px;margin:30px;overflow: hidden;">
 			<div id="sociable" class="svg1 ">
 				<object data="images/svg1.svg" type="image/svg+xml"  width="100%" height="100%" ></object>
 			</div>

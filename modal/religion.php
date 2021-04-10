@@ -52,7 +52,7 @@ _____________
 <p>__________________________</p>
 
 
-<p style="text-align:center;font-size: 30px;"><b> Qu’est-ce que la Religion ?</b></p>
+<p style="text-align:center;font-size: 30px;"><b>Qu’est-ce que la Religion ?</b></p>
 <p>Les maîtres à penser de notre époque – qu’ils se disent Croyants ou pas – ne s’emploient qu’à organiser la confusion sur cette question. Or, être clair sur cette question est de première importance !</p>
 <p>Pour cela, quelques points décisifs sont à souligner :</p>
 <p><b>1-</b> La Religion est par-dessus tout une <b>MENTALITÉ SOCIALE</b>, et même à prétention nécessairement universelle.</p>
@@ -111,6 +111,8 @@ _____________
 			  <p style="text-align:center;"><b>et ils reconnaîtront qu’il n’y a qu’Un Dieu.</b>
 			  <p style="text-align:center;"><b>Par conséquent, j’espère que le moment ne tardera pas où</b>
 			  <p style="text-align:center;"><b>l’Islam prédominera dans le monde.</b>
+			  <p style="text-align:center;"><b>________</b>
+			  <p style="text-align:right;">Talib Freddy - 28 novembre 2015</p> 
 
 <p>__________________________</p>
 
