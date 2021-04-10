@@ -215,7 +215,7 @@ div.modal span {
 background: none;
 }
 div.modal {
-    border: 4px solid black;
+    border: 6px solid rgb(107, 114, 5);
 }
 .compass {
     background: url(img/compass2.png) no-repeat 50% 54%;
