@@ -2,7 +2,7 @@
 <div id="jugement" class="modal  modal-fixed-footer">
 			<div class="modal-content">
 			<img class="img-on-text" src="img/divinite.png"/>
-			  <h4>jugement</h4>
+			  <h4>Jugement</h4>
 			  
 			  <p><b>I - J U G E M E N T S</b>
 <p><b>1 - Quantité des jugements.</b></p>
