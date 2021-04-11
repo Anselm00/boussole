@@ -1,6 +1,7 @@
 <!-- Modal Structure -->
-<div id="jugement" class="modal">
+<div id="jugement" class="modal  modal-fixed-footer">
 			<div class="modal-content">
+			<img class="img-on-text" src="img/divinite.png"/>
 			  <h4>jugement</h4>
 			  
 			  <p><b>I - J U G E M E N T S</b>
@@ -30,7 +31,8 @@
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Etude_Abrege_ERM-Kant_ed.pdf" target="_blank"> "Etude de l'Abrégé de la Religion de Kant"</a>, p.13 - mai 2008 - Talib Freddy - Eglise Réaliste Mondiale - Editions de l'Evidence - 2015</p>
 <p>__________________________</p>
 
-				  <p>Omar (que Dieu soit satisfait de lui) a dit encore :</p>
+				
+			<img class="img-in-text-left" src="img/croissant.png"/> <p>Omar (que Dieu soit satisfait de lui) a dit encore :</p>
 <p>Un jour, nous étions assis en conférence chez l’Envoyé de Dieu (à lui bénédiction et salut), et voici que se présenta à nous un homme vêtu d’habits d’une blancheur resplendissante, et aux cheveux très noirs. On ne pouvait distinguer sur lui une trace de voyage, alors que personne d’entre nous ne le connaissait.</p>
 <p>Il prit alors place en face du Prophète (à lui bénédiction et salut). Il plaça ses genoux contre les siens, et posa les paumes de ses mains sur les cuisses de celui-ci, et lui dit :</p>
 <p>“O Moh’ammed, fais-moi connaître l’Islam”. L’Envoyé de Dieu (à lui bénédiction et salut) dit alors :</p>
@@ -56,6 +58,7 @@
 			<div class="modal-footer">
 			  <a href="#!" class="modal-close waves-effect waves-green btn-flat">Vu</a>
 			</div>
+
 		  </div>
 
 

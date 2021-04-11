@@ -217,6 +217,7 @@ background: none;
 div.modal {
     border: 6px solid rgb(107, 114, 5);
 }
+
 .compass {
     background: url(img/compass2.png) no-repeat 50% 54%;
     background-size: 100%;
@@ -393,6 +394,32 @@ z-index:1;
 
 #slide-out a span {
 color:black !important;
+}
+
+/* utils for tony */
+
+.img-in-text-left {
+    float:left;
+    margin:20px;
+    max-width: 150px;
+}
+
+.img-in-text-right {
+    float:right;
+    margin:20px;
+    max-width: 150px;
+}
+
+.img-in-text-right-bigger {
+    float:right;
+    margin:20px;
+    max-width: 250px;
+}
+
+.img-on-text {
+    position: absolute;
+    right:0px;
+    max-width: 175px;
 }
 
 

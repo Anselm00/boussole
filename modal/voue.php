@@ -29,12 +29,12 @@ pire, c’est que nous utilisons formellement la langue civilisée, sans nous re
 compte qu’elle ne convient plus du tout dans notre civilisation à l’agonie depuis 175
 ans !</p>
 <p>Je veux bien que la Communauté Parentale nous semble étrangère. Mais il faut
-nous défaire de cette infirmité mentale, et c’est possible. Prenons l’exemple des
+nous défaire de cette infirmité mentale, et c’est possible. Prenons l’exemple des<img class="img-in-text-right" src="img/vercingetorix.png"/>
 français. Les Gaulois sont bien leurs grands-parents, et ce n’étaient ni des animaux ni
 des marsiens, mais des hommes. Et ce qui vaut pour le celte Vercingétorix vaut tout autant pour Markomir, l’aïeul de Clovis qui vivait encore outre-rhin. Il n’est pas
 permis de ne pas comprendre nos ancêtres. Le problème est inverse en ce qui
 concerne la Cité policée, par exemple la France de Robespierre et Napoléon : nous
-avons l’illusion de la comprendre, alors que nous vivons au milieu de ses ruines
+avons l’illusion de la comprendre, alors que nous vivons au milieu de ses ruines<img class="img-in-text-right" src="img/clovis.png"/>
 depuis 1835, et qu’il nous faut à tout prix la découvrir aussi étrangère que la société
 qui l’a précédée. Lucidité et Responsabilité ne veulent rien dire sans procéder à cette
 révolution mentale. Que furent les guerres mondiales, et les guerres d’Algérie, du

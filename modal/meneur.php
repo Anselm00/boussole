@@ -1,6 +1,7 @@
 <!-- Modal Structure -->
 <div id="meneur" class="modal">
 			<div class="modal-content">
+			<img class="img-in-text-right-bigger" src="img/sieyes.png"/>
 			  <h4>Meneur</h4>
 			  
 			  <p>« Les émeutiers de la Bastille ont pour meneur <b>Sieyès</b> qui, 
