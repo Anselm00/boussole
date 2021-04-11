@@ -17,7 +17,7 @@ contre-partie. Le Pasteur est un peu comme la Reine d’une ruche d’abeilles, 
 Anciens disaient « Roi sans aiguillon ». Comment le Troupeau peut-il être actif ?
 C’est qu’il n’est qu’un seul « corps ». C’est ce que se voulut toujours Israël. Quant au
 Voué juif, on le voit dans le NAZIR, désigné avant sa naissance et à vie ; tels sont
-Samuel, Jean-Baptiste, et… Marie ! Mais c’est dans le Grand-Prêtre (COHEN HAGADOL)
+Samuel, Jean-Baptiste,</p><img class="img-in-text-gauche" src="img/jean-baptiste.png"/> et… Marie ! Mais c’est dans le Grand-Prêtre (COHEN HAGADOL)
 qu’on le voit au sommet, et sa fonction brille pleinement au Jour de Pardon
 (YOM KIPPUR).</p>
 
@@ -27,19 +27,19 @@ sans en faire une montagne. Savons-nous nous faire une tête d’enfant en bas �
 homme sait-il se faire sans problème une tête de femme (et réciproquement) ? Le
 pire, c’est que nous utilisons formellement la langue civilisée, sans nous rendre
 compte qu’elle ne convient plus du tout dans notre civilisation à l’agonie depuis 175
-ans !</p>
+ans !</p><img class="img-in-text-right" src="img/vercingetorix.png"/>
 <p>Je veux bien que la Communauté Parentale nous semble étrangère. Mais il faut
-nous défaire de cette infirmité mentale, et c’est possible. Prenons l’exemple des<img class="img-in-text-right" src="img/vercingetorix.png"/>
+nous défaire de cette infirmité mentale, et c’est possible. Prenons l’exemple des
 français. Les Gaulois sont bien leurs grands-parents, et ce n’étaient ni des animaux ni
 des marsiens, mais des hommes. Et ce qui vaut pour le celte Vercingétorix vaut tout autant pour Markomir, l’aïeul de Clovis qui vivait encore outre-rhin. Il n’est pas
-permis de ne pas comprendre nos ancêtres. Le problème est inverse en ce qui
+permis de ne pas comprendre nos ancêtres. Le problème est inverse en ce qui<img class="img-in-text-right" src="img/clovis.png"/>
 concerne la Cité policée, par exemple la France de Robespierre et Napoléon : nous
-avons l’illusion de la comprendre, alors que nous vivons au milieu de ses ruines<img class="img-in-text-right" src="img/clovis.png"/>
-depuis 1835, et qu’il nous faut à tout prix la découvrir aussi étrangère que la société
+avons l’illusion de la comprendre, alors que nous vivons au milieu de ses ruines
+<img class="img-in-text-left" src="img/robespierre.png"/>depuis 1835, et qu’il nous faut à tout prix la découvrir aussi étrangère que la société
 qui l’a précédée. Lucidité et Responsabilité ne veulent rien dire sans procéder à cette
 révolution mentale. Que furent les guerres mondiales, et les guerres d’Algérie, du
 Vietnam ? C’est autrement plus monstrueux que ce que le neveu de Sénèque (Lucain :
-39-65) raconte des gaulois : au fond du bois sacré près de Marseille, les autels et les
+<img class="img-in-text-left" src="img/napoleon.png"/>39-65) raconte des gaulois : au fond du bois sacré près de Marseille, les autels et les
 arbres dégoûtaient du sang des humains sacrifiés par les druides. »</p>
 <p>__________________________</p>
 
