@@ -3,6 +3,18 @@
 			<div class="modal-content">
 			  <h4>Naturaliste</h4>
 			  
+
+			  <p>« Chez les <b>PRIMITIFS</b>, la Persistance est la forme prise par la durée. La Persistance convient à l’humanité <b>Matérialiste</b>, à la société Communautaire-Vétérancielle, <b>Parentale</b>. Ce monde d’<b>Égalité</b> est Naturaliste, Conformiste-Ritualiste-Grégaire ; il est aussi Traditionaliste, c’est-à-dire Sacrificiel-Réactionnaire. La mentalité primitive ne connaît que des “<b>existants</b>” sains-malsains : un Cousinage humain ayant à traiter avec les Rameaux actifs de la nature ; l’ensemble ayant pour racine la Puissance fondamentale, l’Objet absolu (<b>Émanateur</b> et Secret). C’est dans ce contexte qu’on a la <b>Persistance</b>, essentiellement Continue-Discrète, <b>Circulaire</b> (subsistance-réitération)(1). La pensée qui correspond à cette persistance est Mythique-Symbolique-Opérative.</p>
+<p>On comprend de cette façon pourquoi les civilisés glorifient l’<b>Âme</b>, et les primitifs la <b>Vie</b> ; pourquoi “concevoir” est entendu par les civilisés au sens Cérébral-paternel, et chez les Primitifs au sens Utérin-maternel(2) (Dois-je rappeler que nous ne sommes PLUS en Civilisation ? !).</p>
+
+<p>Notes:</p>
+<p>(1) Chez les Primitifs, au-delà de la 3ème génération (donc de ce qui peut être “contemporain”), les événements tombent dans l’Oubli ; et si des Héros communautaires échappent à cet oubli (comme Hénoch ou David), c’est qu’ils se sont “absentés”, et sont prêts à “réapparaître” à tout instant.</p>
+<p>(2) 2 Cf. Sagesse Traditionnelle ; Mère Fondamentale ; Ménage Privé (textes disponibles aux Éditions de l’Évidence). »</p>
+<p>__________________________</p>
+
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Hebreux_ed.pdf" target="_blank"> "Les Hébreux, Peuple de l'échec?"</a>, p.10 - Talib Freddy - Eglise Réaliste Mondiale - octobre 2003 - Editions de l'Evidence - 2010</p>
+<p>__________________________</p>
+
 		 <p>« L’histoire d’Ève trompée prouve justement que la Vulve 
 			  est déterminante dans le Naturalisme parental. 
 			  Seulement, en passant du stade “sauvage” au stade “barbare” 

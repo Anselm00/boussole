@@ -21,12 +21,12 @@
 			  <p>__________________________</p>
 
 			<img class="image" src="img/propitiation.png"/>
-			<img class="image" src="img/propitiation2.png"/>
+			
 			<p>__________________________</p>
 
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Revanche_de_Sauvages_ed.pdf" target="_blank"> "Revanche des Sauvages"</a>, p.74 - Talib Freddy - 30.10.2011</p>
-
-
+<p>__________________________</p>
+<img class="image" src="img/propitiation2.png"/>
 
 
 
