@@ -32,8 +32,8 @@ d’exploiteurs et familles privées d’exploités. »</p>
 			  le mot “cellule” en ce sens d’Atome civil de la société, mais rigoureusement au sens biologique, et la cellule
 			  en laquelle l’individu primitif est pris est placée sous le signe de la Matière et de la Fécondité.</p> 
 			  <p> - L’individu primitif de l’apogée est d’abord une Cellule d’un Organe qui la domine, cette cellule étant la Caste.
-			  Il se trouve appartenir à sa caste de manière entièrement déterminée par ses “vies” antérieures, par son Karma.
-			  La caste procure à l’“individu” un “confort” maternel total, puisque toute sa conduite y est préétablie</p><img class="img-in-text-right" src="img/brahma.jpg"/>
+			  Il se trouve appartenir à sa caste de manière entièrement déterminée par ses “vies” antérieures, par son Karma.</p>
+			  La caste procure à l’“individu” un “confort” maternel total, puisque toute sa conduite y est préétablie<img class="img-in-text-right" src="img/brahma.jpg"/>
 			  et la “solidarité” y est totale en même temps qu’un “monopole” intangible de cet Organe dans l’Organisme
 			  social global. D’ailleurs, les Puissances matérielles invoquées alors (nous appelons cela des “dieux”)
 			  appartiennent elles aussi à des castes réglées. C’est dans cet esprit qu’on peut comprendre le chant célèbre
