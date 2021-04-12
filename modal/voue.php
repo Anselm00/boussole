@@ -15,9 +15,9 @@ Communauté comprend un Troupeau ACTIF (oui !), qui se donne un Pasteur PASSIF
 (oui !). Le Pasteur est prisonnier du Troupeau, mais une influence cosmique en est la
 contre-partie. Le Pasteur est un peu comme la Reine d’une ruche d’abeilles, que les
 Anciens disaient « Roi sans aiguillon ». Comment le Troupeau peut-il être actif ?
-C’est qu’il n’est qu’un seul « corps ». C’est ce que se voulut toujours Israël. Quant au
+C’est qu’il n’est qu’un seul « corps ». C’est ce que se voulut toujours Israël. Quant au</p><img class="img-in-text-left" src="img/jean-baptiste.png"/>
 Voué juif, on le voit dans le NAZIR, désigné avant sa naissance et à vie ; tels sont
-Samuel, Jean-Baptiste,</p><img class="img-in-text-gauche" src="img/jean-baptiste.png"/> et… Marie ! Mais c’est dans le Grand-Prêtre (COHEN HAGADOL)
+Samuel, Jean-Baptiste,et… Marie ! Mais c’est dans le Grand-Prêtre (COHEN HAGADOL)
 qu’on le voit au sommet, et sa fonction brille pleinement au Jour de Pardon
 (YOM KIPPUR).</p>
 
