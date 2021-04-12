@@ -4,7 +4,7 @@
 			  <h4>Force Féconde</h4>
 			  
 
-			  <p> « <b>Ézéchiel I – II – III</b>
+			  <p> « <b>Ézéchiel I – II – III</b><img class="img-in-text-right-bigger" src="img/ezechiel.jpg"/>
 <p>“Il y eut une sorte d’Arc-en-Ciel : c’était la manifestation (spiration) de la Force de YHWH (la CHEKHINAH). Voyant l’Éclat, je m’affalai et entendis une Voix. Celle-ci dit : Fils-d’Homme, relève-toi pour m’écouter. Alors, de la force de la Force me pénétra, de sorte que je pus me mettre debout.</p>
 <p>La Voix dit : Je veux t’envoyer chez les Fils d’Israël, vers ces gens rebelles. En effet, eux et leurs pères n’ont toujours fait que Transgresser le pacte juré avec Moi. À ces gens à la face insolente et au coeur têtu, tu déclareras ceci : Élohim-Yahweh l’a décidé, que cela vous plaise ou non : c’est maintenant à un Prophète que vous avez affaire !</p>
 <p>La Voix dit : toi, Fils d’Homme, ne crains ni eux ni ce qu’ils diront ; ce ne sont que des rebelles ! N’aie donc pas peur d’avoir à marcher dans les ronces et à te trouver au milieu de scorpions ; ce ne sont que des rebelles !</p>
