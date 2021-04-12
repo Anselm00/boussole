@@ -4,7 +4,7 @@
       <h4><b>Âme Personnelle</b></h4>
 
 
-	  <p>« Comment, <b>avec</b> la formation convenable du corps humain, paraîtra <b>l’âme</b> qu’il réclame ? Ici le “bimane” de <b>Lamark</b> (1809), ce Déiste, et la “transformation du singe en homme par le Travail” d’<b>Engels</b> (1876), ce Panthéiste Sensualiste, peuvent fournir une réponse. “La quantité se change en qualité” : l’instinct animal fut porté jusqu’aux limites de la pré-intelligence humaine ; avec le bimane on bascule d’un coup dans l’Entendement, ce qui fait que l’homme “sent avec l’âme” simultanément. Pourquoi ?</p>
+	  <p>« Comment, <b>avec</b> la formation convenable du corps humain, paraîtra <b>l’âme</b> qu’il réclame ? Ici <img class="img-in-text-right" src="img/Lamarck.jpg"/> le “bimane” de <b>Lamark</b> (1809), ce Déiste, et la “transformation du singe en homme par le Travail” d’<b>Engels</b> (1876),<img class="img-in-text-left" src="img/Engels.jpg"/> ce Panthéiste Sensualiste, peuvent fournir une réponse. “La quantité se change en qualité” : l’instinct animal fut porté jusqu’aux limites de la pré-intelligence humaine ; avec le bimane on bascule d’un coup dans l’Entendement, ce qui fait que l’homme “sent avec l’âme” simultanément. Pourquoi ?</p>
 <p>• À la Troupe d’orangs ou de chimpanzés succède la <b>Société</b> humaine.
 <p>• Et cela par le <b>Travail</b> Rationnel mis en route : nouveaux besoins, feu domestiqué donne viande cuite, action mutuelle de la Main et du Cerveau donnant l’outil, langage articulé…</p>
 <p>En tout cas, nous devons voir la société “en figure” dans le “couple” Adam-Ève des Écritures.</p>

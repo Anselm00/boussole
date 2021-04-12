@@ -12,8 +12,8 @@ Et c’est bien pour cela que le Réalisme Vrai déroute, désarçonne, choque. 
 <p style="text-align:center;">• • •</p>
 Savez-vous qu’il exista un <b>Colonialisme</b> Révolutionnaire, c’est-à-dire intégralement Assimilateur,
 et même <b>Absolument révolutionnaire ?</b></p>
-Ce n’est même pas celui des Colonies Grecques et leur équivalent tout au long de la Civilisation.</p>
-C’est celui que s’appliqua à lui-même l’homme Parental pour se faire homme Politique (Hésiode, Confucius, Bouddha, Mahomet).
+Ce n’est même pas celui des Colonies Grecques et leur équivalent tout au long de la Civilisation.</p><img class="img-in-text-right" src="img/hesiode.png"/>
+C’est celui que s’appliqua à lui-même l’homme Parental pour se faire homme Politique (Hésiode, Confucius, Bouddha, Mahomet).</p><img class="img-in-text-left" src="img/confucius.png"/>
 Et la poursuite incessante de cela, dans le Dressage impitoyable des Enfants de ces derniers, pour les forcer au prétendu “âge de raison”. Ainsi vécut la 2ème espèce de la race humaine.</p>
 <p style="text-align:center;">• • •</p>
 <p><b>KANT.</b> Il fait la chasse forcenée au “Choséisme”, à la “Réification”. D’où tout le Phénoménisme qui domina après lui (Kierkegaard et Husserl, Gabriel Marcel et Sartre). Tous s’inclinèrent devant Kant, mais en refusant son Église Parfaite !</p>
