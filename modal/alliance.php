@@ -3,23 +3,7 @@
     <div class="modal-content">
       <h4><b>Alliance</b></h4>
 	  		
-		<p> « Nous veillerons à ne <b>pas verser dans l’ingratitude</b> d’autrefois.
-Un Musée de l’Homme Vivant sera élevé, où le message et l’exemple de nos Grands
-Hommes seront placés sous notre garde, offerts à perpétuité à notre méditation et
-notre émotion. Ils y seront comme les reliques de l’Ancienne Alliance, placées dans
-une nouvelle Arche, tels l’Urne d’or contenant la Manne, la Branche d’Aharôn ayant
-bourgeonné et les Plaques du Pacte de l’humanité passée (Hébreux 9 : 4). Car
-Rousseau et Helvétius <b>côtoieront</b> ici <b>les Masques Nègres et les Sarcophages
-des Pharaons</b>, unissant toute cette Préhistoire qui est la nôtre, dépassée et
-néanmoins vivante ! »</p>
-
-<p>__________________________</p>
-
-</blockquote>
-
-<p>voir <a href="https://www.eglise-realiste.org/pdf/resurrection_janv06_ed.pdf" target="_blank"> "Résurrection de l'Occident"</a> p.8 - janvier 2006 - Talib Freddy - Editions de l'Evidence</p>
-
-<p>__________________________</p>
+		
 
 <p>« Vis-à-vis de la Puissance, la Nature est <b>Non-Mort</b>,
 parce que dotée de vie relative, capable de <b>Bénédictions</b>
@@ -38,13 +22,25 @@ Sang unique et de principe qui en fait la Race d’Adam (Société de Personnes)
 <p>__________________________</p>
 
 
-
-
-		  </blockquote>
-
 		  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Humanite_Prehistorique_ed.pdf" target="_blank">"Humanité Préhistorique"</a>, Talib Freddy - 11 avril 2007 -  Editions de l'Evidence </p>
-	  <blockquote>
+	  
+	  <p>__________________________</p>
 
+	  <p> « Nous veillerons à ne<img class="img-in-text-right-bigger" src="img/arche-alliance-1600.jpg"/> <b>pas verser dans l’ingratitude</b> d’autrefois.
+Un Musée de l’Homme Vivant sera élevé, où le message et l’exemple de nos Grands
+Hommes seront placés sous notre garde, offerts à perpétuité à notre méditation et
+notre émotion. Ils y seront comme les reliques de l’Ancienne Alliance, placées dans
+une nouvelle Arche, tels l’Urne d’or contenant la Manne, la Branche d’Aharôn ayant
+bourgeonné et les Plaques du Pacte de l’humanité passée (Hébreux 9 : 4). Car
+Rousseau et Helvétius <b>côtoieront</b> ici <b>les Masques Nègres et les Sarcophages
+des Pharaons</b>, unissant toute cette Préhistoire qui est la nôtre, dépassée et
+néanmoins vivante ! »</p>
+
+<p>__________________________</p>
+
+
+
+<p>voir <a href="https://www.eglise-realiste.org/pdf/resurrection_janv06_ed.pdf" target="_blank"> "Résurrection de l'Occident"</a> p.8 - janvier 2006 - Talib Freddy - Editions de l'Evidence</p>
 		 	
 	
 	</div>

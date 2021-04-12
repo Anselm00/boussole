@@ -5,13 +5,13 @@
 			  
 			  <p>« Le Symbolisme est la mise en oeuvre du Témoignage, c’est-à-dire de la valeur de
 Signes qu’ont les phénomènes. <b>La Divination</b> des voyants et astrologues se consacre
-à dévoiler ce que les phénomènes ont de plus spécifiquement intelligible, par les
+à dévoiler ce que les phénomènes ont de plus spécifiquement intelligible, par les<img class="img-in-text-right-bigger" src="img/pantheon-azteque.png"/>
 présages et prémonitions. Exemples : tel bruit dans la montagne, le chant du hibou,
 un lapin entrant dans une maison, un loup traversant un chemin, sont autant
 d’avertissements particuliers significatifs chez les Aztèques.</p>
 
 <p>Le Symbolisme se perpétuera au travers de la mystique civilisée. Ainsi Apollonius
-de Tyane parle-t-il des “signes puissants et grandioses” qu’il importe de déceler.
+de Tyane parle-t-il des “signes puissants et grandioses” qu’il importe de déceler.<img class="img-in-text-left" src="img/appolonius-tyane.png"/>
 La voie du symbolisme traditionnel devient, avec le temps, une spécialité liée à des
 “états spéciaux” : rêve, transe, que favorisent des techniques appropriées : danses
 sacrées, drogues, etc. Mais la Tradition ne laisse jamais la spécialisation – qu’elle soit
@@ -31,8 +31,8 @@ explicitement féminine, dénommée “Al-Hahât”, qu’ils prononçaient “A
 et ne savaient rattacher qu’à leur déesse Vénus-Uranie. Vénus-Uranie, qu’Uranus
 engendra sans mère, était déesse de la divination astrologique.</p>
 <p>Dans le “Bacchus” arabe, il y avait quelque chose comme le Iahwéh juif.</p>
-<p>Dans la “Vénus” arabe, il y avait comme une puissance de l’Élohim juif.</p>
-<p>Le Coran, de son côté, signale trois “déesses” primitives : Allât, Al-Uzza et Manah.
+<p>Dans la “Vénus” arabe, il y avait comme une puissance de l’Élohim juif.</p><img class="img-in-text-right-bigger" src="img/uza-alat-mana.jpg"/>
+<p>Le Coran, de son côté, signale trois “déesses” primitives : Allât, Al-Uzza et Manah.</p>
 <p>Allât est la même qu’Alilât-Vénus ; Al-Uzza, très-Puissante, avait un arbre pour idole,
 et une prophétesse lui était attachée ; Manah avait une pierre dressée pour idole,
 sur laquelle devait couler (Mana) le sang des victimes offertes en sacrifice. »</p>

@@ -14,7 +14,7 @@
 	  Ceci étant bien établi, il va y avoir bien des problèmes secondaires à régler.</p>
 <p>Elle est bien extraordinaire la Parole de Dieu, dont l’expression n’est autre que le 
 Monde même ! Pas tant que cela, pour peu que le Monde soit vu à fond avec l’oeil de 
-l’Âme par nous autres bourgeois, c’est-à-dire de part en part comme <b>Épiphanie</b> de l’Être 
+l’Âme par nous autres bourgeois,<img class="img-in-text-right" src="img/epiphanie-matthias-stom.jpg"/> c’est-à-dire de part en part comme <b>Épiphanie</b> de l’Être 
 Suprême, comme la seule parution possible de son invisibilité, comme le Phénomène propre de son Noumène. 
 On ne peut donc comprendre le Monde que comme Création ; et si quelqu’un a des difficultés à le voir ainsi, 
 cela ne vient pas de Dieu mais de quelque chose qui ne va pas du côté de l’oeil de l’Âme chez celui qui 
