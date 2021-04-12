@@ -34,7 +34,7 @@ l’<b>Hégémonie</b> de la “substance” exclusive exaltée. »</p>
 			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Trois_Humanites_ed.pdf" target="_blank"> "Les Trois Humanités"</a>, p.4 - Talib Freddy - janvier 2007 - Editions de l'Evidence - 2010</p>
 			  <p>__________________________</p>
 			    
-			  <p>« Pour notre sauvage, la Conscience ne peut relever que de la substance-MATIÈRE.
+			  <p>« Pour notre sauvage, la Conscience ne peut relever que de la substance-MATIÈRE.<img class="img-in-text-left" src="img/patagon.png"/>
 Comment ? La Matière est la Vie-des-vies de tous les existants, et tout d’abord de
 l’Arbre de la Nature, pénétré partout de vie Infaillible, tel un sûr instinct, tant que
 l’Humanité ne vient pas troubler cette “santé” normale de la Nature. En effet, la
