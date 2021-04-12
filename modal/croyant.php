@@ -27,14 +27,14 @@ Dans ce couple, l’Humanité commande à la Nature : le croyant doit se faire �
 
 	  <p>« Le Croyant est perturbé par l’existence d’hommes Naturels.</p>
 <p>Nous sommes dans un Présent pris dans le Temps, et <b>IL Y A</b> des “peuples sans lois”,
-comme si nous étions, soit au Début du monde, soit à la Fin du monde ! Lors des Invasions Barbares,
+comme si <img class="img-in-text-left" src="img/saint_jerome.jpg"/>nous étions, soit au Début du monde, soit à la Fin du monde ! Lors des Invasions Barbares,
 autour de 400, le chrétien Prudence dit : “Comme l’homme est supérieur aux animaux, de même les Romains
-chrétiens sont supérieurs aux Barbares idolâtres”. Et Synésius : les Germains sont rebelles à toute
+chrétiens sont supérieurs aux Barbares idolâtres”. Et Synésius : les Germains sont rebelles à toute<img class="img-in-text-right" src="img/synesius.png"/>
 assimilation civilisée. Devant le danger barbare, Jérôme dit : “Ce sont nos péchés qui font la force des Barbares.
-Nous déplaisons tant à Dieu que la rage des Barbares est l’instrument de sa colère à notre endroit”.
+Nous déplaisons <img class="img-in-text-left" src="img/paul-orose.jpg"/>tant à Dieu que la rage des Barbares est l’instrument de sa colère à notre endroit”.
 Après le passage de la vague Vandale en Espagne, Orose dit : Dieu a toléré les invasions pour mettre
 ces peuples au contact du monde catholique qui les convertira. Et Augustin, qui inclinait à croire à la fin de Rome
-et du monde quelques années plus tôt, dit alors : l’un des signes de la fin du monde annoncée par l’Évangile
+<img class="img-in-text-right" src="img/St-augustin-boticcelli.jpg"/>et du monde quelques années plus tôt, dit alors : l’un des signes de la fin du monde annoncée par l’Évangile
 est loin d’être encore réalisé : la conversion des barbares au Christ. La menace est devenue une chance, la crainte espérance.
 <p style="text-align:center;"><b>•••</b></p>
 <p>Que sont donc les hommes Naturels, dont l’existence réelle doit être reconnue,
