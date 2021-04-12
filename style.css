@@ -228,17 +228,17 @@ div.modal {
     background-size: cover;
     margin-top: 67px;
 }
-.truck .wheel {
-    background: url(img/compass2.png) 50% 50%;
+.wheel {
+    background: url(img/compass2.png) no-repeat 50% 50%;
     background-size: 100%;
     padding: 7%;
 }
-.truck .wheel2 {
+.wheel2 {
     background: url(img/logo_home.png) no-repeat 50% 50%;
     background-size: 6%;
 }
 
-.truck object {
+.wheel object {
     -webkit-animation:spin 360s linear infinite;
     -moz-animation:spin 360s linear infinite;
     animation:spin 360s linear infinite;

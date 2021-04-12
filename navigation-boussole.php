@@ -2,7 +2,27 @@
 <?php require('header.php');?>
 
 
-	
+<div style="background:#492021;margin-top:60px;    height: 380px;text-align:center;
+    overflow: hidden;">
+
+
+<div class="row">
+			
+			<div class="col s6"><h1 style=" color:white;   font-family: 'FrenchScriptMT';font-style: italic;
+			font-size: 100px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Mots</span> <br>Bijoux</h1>
+		
+		<p style="font-family: 'Georgia';color:white;" >Poly-Prose philosophico-politique engagée<br> dans la Transformation de la Masse en Peuple. </h5>
+		</div>
+			<div class="col s6 roue" style="margin-top: 73px;"><div class="wheel"><div class="wheel2">			
+				<object data="images/svg2.svg" type="image/svg+xml"  width="100%" height="100%"></object>
+			</div></div></div>
+		</div>
+
+
+
+</div>
+
+<object style="margin-top: -20px;" data="img/arrow.svg" type="image/svg+xml"  width="100%"></object>
 		
 <div id="top" class="scrollspy" style = "max-width:1200px;margin:auto;overflow: hidden;margin-top: 100px">
 

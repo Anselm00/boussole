@@ -19,7 +19,7 @@
     src: url(../font/FrenchScriptMT.woff2) format('woff2');
   }
 
-  .bold { font-weight:bold; }
+  <!-- .bold { font-weight:bold; } -->
   .small-caps { font-variant:small-caps; }
 
 	.st0{display:none;}

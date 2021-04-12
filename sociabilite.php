@@ -60,6 +60,8 @@
 	 viewBox="0 0 977.1 973.3" style="enable-background:new 0 0 977.1 973.3;" xml:space="preserve">
 <style type="text/css">
 
+.small-caps { font-variant:small-caps; }
+
 	.st0{display:none;}
 	.st1{display:inline;stroke:#000;stroke-miterlimit:10;}
 	.st2{fill:none;}

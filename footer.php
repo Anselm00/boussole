@@ -22,19 +22,25 @@
           <div class="footer-copyright">
             <div class="container">
              
-            <p class="right grey-text">© Website made <a href="https://materializecss.com/">materializecss.com</a></p>
+            <p class="right grey-text">© Website made made with love by toto and ccile</p>
             </div>
           </div>
         </footer>
 		
-		
+		</div>
 
  <!--JavaScript at end of body for optimized loading-->
       <script type="text/javascript" src="js/materialize.min.js"></script>
       <script type="text/javascript" src="js/script.js"></script>
+      <script src="js/jquery.fittext.js"></script>
 
 
-		<script type="text/javascript">
+    <script type="text/javascript">
+
+
+
+
+
    $(document).ready(function(){
     $('.sidenav').sidenav();
 	
@@ -50,7 +56,7 @@
     $('.scrollspy').scrollSpy();
   });
       
-  $('.dropdown-trigger').dropdown();
+ // jQuery("#headline").fitText(0.5);
   
   </script>
 

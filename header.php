@@ -35,7 +35,7 @@
 
     <body>
       <div class="fond"></div>
-  <nav class="nav-wrapper transparent" data-target="blue" style="    position: fixed;    box-shadow: none;
+  <nav class="nav-wrapper white" data-target="blue" style="    position: fixed;    box-shadow: none;
     z-index: 2;color:black;">
     <div class="nav-wrapper transparent">
       <div>
@@ -43,10 +43,10 @@
     height: 64px;
     margin-left: 65px;float: left;">
       <form style="color:black;">
-      
+       
         <div class="input-field">
         <input id="search" type="search" onkeyup="showHint(this.value)" required >
-        <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+        <label class="label-icon" for="search"><i class="material-icons black-text">search</i></label>
         <i class="material-icons" onclick="clearShowHint()">close</i>
         </div>
       </form>
@@ -56,9 +56,9 @@
 
       
         <ul id="nav-mobile" class="right" style="color:black;">
-        <li><a class="black-text" href="navigation-boussole.php">PolyProse</a></li>
-          <li><a class="black-text" href="sociabilite.php">Sociabilité</a></li>
-          <li><a class="black-text" href="electre.php">Electre</a></li>
+        <li><a class="black-text" href="navigation-boussole.php"><span style="font-family: 'EdwardianScriptITC'">Mots</span> <span style="font-family: 'FrenchScriptMT'">Bijoux</span></a></li>
+          <li><a class="black-text" href="sociabilite.php"><span style="font-family: 'EdwardianScriptITC'">Sociabilité</span></a></li>
+          <li><a class="black-text" href="electre.php"><span style="font-family: 'FrenchScriptMT'">Electre</span></a></li>
           
         </ul>
       </div>
