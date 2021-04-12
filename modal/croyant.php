@@ -16,7 +16,7 @@ Dans ce couple, l’Humanité commande à la Nature : le croyant doit se faire �
 <p>Notes:</p>
 <p>(1) Fleuron – sens figuré : Ce qu’on possède de plus précieux, de plus avantageux, de plus productif. (Larousse – 1922)<p>
 <p>(2) soeur = soror = cousine.<p>
-Voir "Religion" I- L'Orthodoxie - p.2 Freddy Malot -Avril 2007 »</p>
+
 
 
 <p>__________________________</p>
