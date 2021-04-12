@@ -13,7 +13,7 @@ eut une importance plus grande encore : elle “a donné à l’homme pour la pr
 l’empire sur une force de la nature et, en cela, l’a séparé définitivement du règne animal”
 (Engels). Le feu réchauffe l’homme, le protège des fauves ; il l’aide à la chasse et enfin à la
 fabrication d’instruments.</p>
-<p>Ces <b>outils</b> et armes sont peu à peu moins grossiers : aux simples éclats de silex
+<p>Ces <b>outils</b> et armes sont peu à peu moins grossiers : aux simples éclats de silex<img class="img-in-text-left" src="img/silex.jpg"/>
 succèdent des instruments taillés sous toutes leurs faces, à la massue se joint la lance à
 pointe de pierre.</p>
 				  <p>La chasse intensive et la production primitive de subsistances naturelles, la
@@ -48,7 +48,7 @@ décisive sur <b>l’auto-développement</b> de l’homme. “L’homme n’est 
 sans régime carné” (Engels). Ce qui est au plus haut point caractéristique de l’évolution
 humaine, c’est que plus l’homme devenait “carnassier”, plus il perdait ses traits
 simiesques.</p>
-<p>Le Pithécanthrope au front fuyant, aux maxillaires saillants, marchant le dos voûté en
+<img class="img-in-text-left" src="img/pithecanthrope.png"/><p>Le Pithécanthrope au front fuyant, aux maxillaires saillants, marchant le dos voûté en
 pliant les genoux, laisse la place, il y a 100 000 ans, à l’homme de Neandertal dont le
 cerveau a le volume de celui de l’homme moderne (1 300 cm³). Les hommes achevés, ou
 Néanthropes, apparaissent enfin il y a moins de 50 000 ans ; ils sont dotés de la voûte
