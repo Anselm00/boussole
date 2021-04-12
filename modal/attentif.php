@@ -5,7 +5,7 @@
 	  		
 		<p>« Nous n’avons pas les mots pour parler la langue Parentale
 (même chose pour la langue Comm-Anar). Faut y être très attentif,
-sans en faire une montagne. Savons-nous nous faire une tête d’enfant en bas âge ?
+sans en faire une montagne. Savons-nous nous faire une tête d’enfant en bas âge ?<img class="img-in-text-right-bigger" src="img/bebe-femme.png"/><p>
 Un homme sait-il se faire sans problème une tête de femme (et réciproquement) ?
 Le pire, c’est que nous utilisons formellement la langue civilisée,
 sans nous rendre compte qu’elle ne convient plus du tout dans notre civilisation

@@ -15,8 +15,8 @@ et même <b>Absolument révolutionnaire ?</b></p>
 Ce n’est même pas celui des Colonies Grecques et leur équivalent tout au long de la Civilisation.</p><img class="img-in-text-right" src="img/hesiode.png"/>
 C’est celui que s’appliqua à lui-même l’homme Parental pour se faire homme Politique (Hésiode, Confucius, Bouddha, Mahomet).</p><img class="img-in-text-left" src="img/confucius.png"/>
 Et la poursuite incessante de cela, dans le Dressage impitoyable des Enfants de ces derniers, pour les forcer au prétendu “âge de raison”. Ainsi vécut la 2ème espèce de la race humaine.</p>
-<p style="text-align:center;">• • •</p>
-<p><b>KANT.</b> Il fait la chasse forcenée au “Choséisme”, à la “Réification”. D’où tout le Phénoménisme qui domina après lui (Kierkegaard et Husserl, Gabriel Marcel et Sartre). Tous s’inclinèrent devant Kant, mais en refusant son Église Parfaite !</p>
+<p style="text-align:center;">• • •</p> <img class="img-in-text-right" src="img/kant.png"/>
+<p><b>KANT.</b> Il fait la chasse forcenée au “Choséisme”,à la “Réification”. D’où tout le Phénoménisme qui domina après lui (Kierkegaard et Husserl, Gabriel Marcel et Sartre). Tous s’inclinèrent devant Kant, mais en refusant son Église Parfaite !</p>
 <p><b>Kant dit</b> : avant moi, on n’eut que des demi-civilisés, sur fond de sauvagerie.</p>
 <p><b>NOUS disons</b> : avant le Réalisme Vrai et le Comm-Anar, on n’eut que des demi-hommes, sur fond d’animalité. »</p>
 

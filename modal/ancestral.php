@@ -3,7 +3,7 @@
     <div class="modal-content">
       <h4><b>Ancestral</b></h4>
 	  		
-		<p> « <b> INTERDITE DE TOUTE LUMIÈRE MENTALE, L’HUMANITÉ SOMBRE DANS LA FOLIE !</b></p>
+		<p> « <b> INTERDITE DE TOUTE LUMIÈRE MENTALE, L’HUMANITÉ SOMBRE DANS LA FOLIE !</b></p><img class="img-in-text-right" src="img/socrate.jpg"/><p>
 <p>150 ans de Laïcité régnante démontrent à souhait qu’<b>il est vain d’attendre un nouveau
 Socrate !</b> Comment donc nous évader de la nuit spirituelle ?</p>
 <p>La Laïcité n’a vécu qu’en dévorant les manifestations du Dogme des Religieux. Il n’en reste

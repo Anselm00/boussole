@@ -10,7 +10,7 @@
 <p> Depuis 6 générations, la mafia qui dirige Babel-Occident répand
 à une allure endiablée (oh !) la Mort, la Misère et l’Affliction sur le genre
 humain ; et elle ravage corrélativement notre Mère la Terre. Aujourd’hui c’en
-est trop !</p>
+est trop !</p><img class="img-in-text-right" src="img/marx.jpg"/>
 <p>K. Marx dit : “l’humanité ne se pose jamais que des problèmes qu’elle
 peut résoudre; et le problème ne surgit que lorsque les conditions pour le
 résoudre existent à peu près” (1859). Prenons cette parole à notre compte,

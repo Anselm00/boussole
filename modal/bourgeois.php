@@ -42,7 +42,7 @@ Coagulés en “panthéon” terrestre dominant la Cité, ils sont quasi-“raci
 
 <p>__________________________</p>
 
-<p>L’Homme “vrai” est le Bourgeois ; la société Politique est “Naturelle”.</p>
+<p>L’Homme “vrai” est le Bourgeois ; la société Politique est “Naturelle”.</p><img class="img-in-text-right-bigger" src="img/ddhc.jpg"/>
 <p style="text-align:center;">• • •</p>
 <p>Que dit la toute première phrase de la “Déclaration des Droits de l’Homme et du Citoyen” d’août 1789 ? Ceci :</p>
 <p>“Les seules causes des malheurs publics et de la corruption des Gouvernements sont : l’Ignorance, l’Oubli ou le Mépris des droits NATURELS de l’Homme” ; étant Naturels, ces droits sont “Imprescriptibles (ou inaliénables) et Sacrés” ; et on se propose de les “déclarer en présence et sous les auspices de l’Être Suprême.”</p>
