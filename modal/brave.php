@@ -1,6 +1,7 @@
 <!-- Modal Structure (structure exemple) -->
 <div id="brave" class="modal">
     <div class="modal-content">
+	</p><img class="img-in-text-right" src="img/nimrod.png"/>
       <h4>Brave</h4>
 	  	
 	  <p>« Enfin, nos Évangélistes ne manqueront pas d’être BRAVES. Il le faut,
