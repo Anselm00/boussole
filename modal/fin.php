@@ -11,7 +11,7 @@ En attendant, faire rayonner la libre activité intelligente au sein même des c
 
 				  
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/FP_Est_I_ed.pdf" target="_blank"> "L'Est I - La quatrième Défaite du Peuple mondial"</a>, p.35 - septembre 1997 - Fredy Malot - Editions de l'Evidence</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/FP_Est_I_ed.pdf" target="_blank"> "L'Est I - La quatrième Défaite du Peuple mondial"</a>, p.35 - septembre 1997 - Freddy Malot - Editions de l'Evidence</p>
 			  
 
 			</div>

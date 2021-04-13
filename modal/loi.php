@@ -84,6 +84,12 @@ l’observent. »</p>
 
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Citations_Sieyès_DD_ed.pdf" target="_blank"> "Parole Musulmane"</a>, p.1 - Talib Freddy - 18 février 2016</p>
 
+<p>__________________________</p>
+<img class="image" src="img/code-penal.jpg"/>
+
+<p>__________________________</p>
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Proces_3_07_2017.pdf" target="_blank"> "Recueil Procès"</a>, p.22 - Talib Freddy - 4 juin 2017</p>
+
 
 </div>
 			<div class="modal-footer">
