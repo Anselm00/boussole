@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Fidélité</h4>
 			  
-			  <p>« La pensée asiate se trouve concentrée dans la notion de “<b>Fidélité</b>” juive à l’Alliance entre Yaweh et son peuple exclusif des Hébreux. Une telle notion est complètement étrangère à celle de “Foi” subjective, telle que l’entend le spiritualisme civilisé. Par suite, en lieu et place d’une “conversion” éventuelle à une confession civilisée, nous avons des critères d’“adoption” primitifs, fondés sur la parenté. Ces critères sont :</p>
+			  <p>« La pensée asiate se trouve concentrée dans la notion de “<b>Fidélité</b>” juive à l’Alliance entre Yaweh et son peuple exclusif des Hébreux. Une telle notion est complètement étrangère à celle de “Foi” subjective, telle que l’entend le spiritualisme civilisé. Par suite, en lieu et place d’une “conversion” éventuelle à une <img class="img-in-text-right-bigger" src="img/abraham.jpg"/>confession civilisée, nous avons des critères d’“adoption” primitifs, fondés sur la parenté. Ces critères sont :</p>
 <p>• La “descendance d’Abraham”, attestée par la circoncision ;</p>
 <p>• L’incorporation nécessaire en une “communauté”, gage du respect des observances rituelles.</p>
 <p>Nous observons ces traits bien ailleurs que chez les Juifs, par exemple dans le brahmanisme, inséparable des castes. Chez les Juifs, cela donna lieu au phénomène particulier des “prosélytes de la Porte”.</p>
