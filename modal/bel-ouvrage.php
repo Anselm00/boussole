@@ -1,7 +1,7 @@
 <!-- Modal Structure -->
 <div id="bel-ouvrage" class="modal">
 			<div class="modal-content">
-			  <h4>Bel Ouvrage</h4>
+			  <h4>Bel Ouvrage</h4><img class="img-in-text-right-bigger" src="img/logo.png"/>
 			  
 			  <p> « De préhistoire, tournons la page !<br>
 				  Du Peuple-roi à l’Homme-total, <br>

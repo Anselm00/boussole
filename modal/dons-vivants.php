@@ -6,7 +6,7 @@
 			  <p>« Dans l’histoire réelle de l’Émanation du Monde, la Communauté Parentale 
 				  élue (et donc toute l’humanité) ne sait pas “cueillir” comme il 
 				  faut les Dons de la Nature. Par suite, l’<b>Arbre de VIE</b> est empêché 
-				  de gouverner ; d’où les famines, les maladies et les morts (absences) 
+				  de gouverner ; d’où les famines, les maladies et les morts (absences) <img class="img-in-text-right" src="img/arbre-vie.png"/>
 				  anormales. C’est <b>l’Arbre de la Mort</b> qui domine nécessairement, 
 				  c’est-à-dire celui des Prescriptions concernant le Propice et 
 				  le Néfaste, le Pur et l’Impur, le Licite et le Défendu. C’est à 

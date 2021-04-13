@@ -3,7 +3,7 @@
     <div class="modal-content">
       <h4><b>Besoins</b></h4>
 	  		
-	  <p> « <b><u>LE NOUVEL HOMME</u></b></p>
+	  <p> « <b><u>LE NOUVEL HOMME</u></b></p><img class="img-in-text-right" src="img/jc.jpg"/>
 <p>Ça fait longtemps qu’on en parle ! Jésus n’était-il pas le Nouvel Adam ? Les
 marxistes parlèrent d’« Homme Total », « Polytechnique », du régime social « De
 chacun selon ses capacités, à chacun selon ses besoins ». L’ERM, elle, met en route
@@ -14,7 +14,7 @@ décompose la question :</p>
 <p>- Nous n’avons pas, actuellement, l’homme convenable pour relever le défi que
 nous lance <b>notre</b> époque. Et nous <b>nous</b> faisons homme convenable, nous
 dépouillons le vieil homme, en même temps que nous empoignons la question sociale posée, et que nous la résolvons. C’est en forgeant qu’on devient forgerons. Aide-toi, le
-ciel t’aidera. C’est le singe lui-même qui a fait de ses quatre membres des pieds et
+<img class="img-in-text-left" src="img/forge.png"/>ciel t’aidera. C’est le singe lui-même qui a fait de ses quatre membres des pieds et
 mains terminant des jambes et des bras. Car le singe initial n’était pas vraiment
 “quadrumane”, ses mains finales n’étant plus les mêmes qu’au début. La situation
 “immédiate” est la suivante : contre la société de Mort qu’il me faut à tout prix

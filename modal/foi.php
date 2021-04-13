@@ -14,9 +14,9 @@ la Foi et la Raison.</p>
 				  elle consiste dans le fait que la Raison <b>RELATIVE 
 				  de l’Homme</b> – cette raison faible, qui peut 
 				  dérailler, ou au moins douter d’elle-même – 
-				  si elle est conséquente, est conduite à découvrir 
+				  si elle est conséquente, est conduite à découvrir <img class="img-in-text-right" src="img/leroux.jpg.png"/>
 				  ses limites, et à s’incliner ELLE-MÊME devant une Raison 
-				  supérieure à la sienne, une Raison ABSOLUE.</p>
+				  supérieure à la sienne, une Raison ABSOLUE.
 				  <p>Comme disait un Ami du Peuple :</p>
 					 <p><i>“L’Homme est croyant parce qu’il est raisonnable”</i> – 
 					  Pierre Leroux.</p>

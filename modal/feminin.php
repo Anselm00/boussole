@@ -9,26 +9,26 @@ cause l’ensemble de l’ordre Civilisé.</p>
 <p>C’est d’un assainissement <b>Théorique</b> radical dont nous avons besoin. Pour ce faire, reportons nous
 tout d’abord à “Ménage Privé” et “Putain & Poulinière”.</p>
 <p>2/ Le Parti Féminin est tout autre chose qu’une <b>Association</b> parmi d’autres : c’est un des éléments
-de la double Assise naturelle du nouveau Peuple.</p>
+de la double Assise naturelle du nouveau Peuple.</p><img class="img-in-text-right" src="img/mary.jpg"/>
 <p>Le P.F. tranche aussi avec le <b>Féminisme</b> du passé. En contexte civilisé, retenons : Marie
-Wollstonecraft (1791), et Flora Tristan (1843). En contexte barbare, notons : les Suffragettes (1889),
+Wollstonecraft (1791), et Flora Tristan (1843). En contexte barbare, notons : les Suffragettes (1889),<img class="img-in-text-left" src="img/flora.jpg"/>
 et le M.L.F. (1968) (A). Ce féminisme fut Utopiste et acculé à la Défensive. On commença par
 n’envisager qu’une émancipation Assimilatrice contradictoire dans le Maritalat. Puis on s’enferma
-dans le dilemme hors sujet : féminisme “de lutte de classes” (pour les seuls prolétaires) - féminisme
+dans le dilemme hors sujet : féminisme “de lutte de classes” (pour les seuls prolétaires) - féminisme<img class="img-in-text-right" src="img/emmeline.jpg"/>
 “de lutte de sexes” (avenir sans hommes).</p>
 <p>3/ Rien ne se fera sans <b>désintoxication</b> totale concernant les progrès mensongers de la condition
 féminine dans notre Occident dégénéré depuis 1835. C’est au contraire de la faillite scandaleuse et
 cruelle des anti-droits portés à leur comble que le “Sexe” souffre actuellement.
 Dans tous les domaines, la femme n’a eu droit sous la Caste barbare dominante qu’à des cadeaux
 <b>empoisonnés</b> semant le malheur : droit de Vote, régime Matrimonial légal, Capacité juridique
-(action en justice, disposition des biens), liberté Professionnelle, Puissance maritale et paternelle,
+(action en justice, disposition des biens), liberté Professionnelle, Puissance maritale et paternelle,<img class="img-in-text-right" src="img/mlf.png"/>
 Divorce, Contraception-Avortement, Prostitution.</p>
 <p>4/ Le P.F. est tout d’abord l’instrument Vital – et le seul fiable – de destruction de la <b>Bestialité
 Sexuelle</b> (B.S.) en vigueur et portée aux nues par le Paganisme dominant (“laïcité”). La B.S. est tout
 simplement la putréfaction du Maritalat civilisé, organisée par l’Occident depuis 1835.</p>
 <p>Le combat d’anéantissement de la B.S. est rien moins que de Salut Public. Il impose au Parti
 Féminin l’article 1er de son programme : “mise sur pied de <b>bataillons</b> féminins de Garde Nationale”
-(civils de quartiers et villages). La lèpre multiforme de la Pornographie (sexshops, spectacles, média,
+(civils de quartiers et villages). La lèpre multiforme de la Pornographie (sexshops, spectacles, média,<img class="img-in-text-left" src="img/valerie.jpg"/>
 pubs…) ; les harcèlements, viols et meurtres de filles et femmes, par les obsédés gavés de slip-analyse ;
 l’horreur des “travailleuses du sexe” (fiscalisées en BNC !) tout cela doit être expéditivement rayé de
 la carte.</p>

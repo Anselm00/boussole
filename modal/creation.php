@@ -12,7 +12,7 @@
 	  avec un grand “H”, tout à fait constitué pour répondre au Créateur, car homme défini par son 
 	  esprit à lui, son Âme ; bref l’homme Civilisé, le “Bourgeois” au sens le plus général du terme. 
 	  Ceci étant bien établi, il va y avoir bien des problèmes secondaires à régler.</p>
-<p>Elle est bien extraordinaire la Parole de Dieu, dont l’expression n’est autre que le 
+<p>Elle est bien extraordinaire la Parole de Dieu, dont l’expression n’est autre que le <img class="img-in-text-right-bigger" src="img/epiphanie.png"/>
 Monde même ! Pas tant que cela, pour peu que le Monde soit vu à fond avec l’oeil de 
 l’Âme par nous autres bourgeois, c’est-à-dire de part en part comme <b>Épiphanie</b> de l’Être 
 Suprême, comme la seule parution possible de son invisibilité, comme le Phénomène propre de son Noumène. 

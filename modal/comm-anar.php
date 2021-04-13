@@ -4,26 +4,26 @@
 			  <h4>Comm-Anar</h4>
 			  
 	
-<p>C’est en donnant le schéma du régime social de la 3ème espèce de la race humaine que l’E.R.M
+<p>C’est en donnant le schéma du régime social de la 3ème espèce de la race humaine que l’E.R.M<img class="img-in-text-right" src="img/babeuf.jpg"/>
 <b>tire jusqu’au bout les conséquences</b> du Présupposé Lucide-Impartial dont elle a la garde. Rien
-d’étonnant que cela corresponde à la Société Convenable : le Communisme-Anarchisme !</P>
+d’étonnant que cela corresponde à la Société Convenable : le Communisme-Anarchisme !</P></p></b>
 <p><b>1/ <u>Communisme.</u></b></p>
-<p>C’est <b>l’Égalité</b> économique véritable.</p>
-<p>Ceci n’a à voir avec Babeuf, Fourier et Marx, que dans la mesure où ils cultivent confusément la
+<p>C’est <b>l’Égalité</b> économique véritable.
+<p>Ceci n’a à voir avec Babeuf, Fourier et Marx, que dans la mesure où ils cultivent confusément la<img class="img-in-text-left" src="img/fourier.png"/>
 <b>NOSTALGIE</b> de l’Âge d’Or de Cronos ; concrètement : s’inspirer de la “Loi” de Minos en Crète et
-celle de Lycurgue en Lacédémone…</p>
+celle de Lycurgue en Lacédémone…</p><img class="img-in-text-right" src="img/marx.jpg"/>
 <p>En effet, seule <b>l’humanité Parentale Matérialiste</b> a pu nous donner un “aperçu” historique de
-l’Égalité Sociale. Et encore, c’était au prix de l’incompatibilité radicale avec toute Liberté politique.
+l’Égalité Sociale. Et encore, c’était au prix de l’incompatibilité radicale avec toute Liberté politique.</p>
 Notre Communisme, en tout cas, donne une signification sérieuse à l’abolition du Cens électoral,
-et à l’institution du Jury au civil. Puisqu’il y a <b>suppression de l’ARGENT !</b></p>
+et à l’institution du Jury au civil. Puisqu’il y a <b>suppression de l’ARGENT !</b></p><img class="img-in-text-right" src="img/kant.jpg"/>
 <p><b>2/ <u>Anarchisme.</u></b></p>
 C’est la <b>Liberté</b> politique véritable.</p>
-<p>Ceci n’a à voir avec Godwin, La Mennais et Mazzini, que dans la mesure où ils cultivent
+<p>Ceci n’a à voir avec Godwin, La Mennais et Mazzini, que dans la mesure où ils cultivent<img class="img-in-text-left" src="img/godwin.jpg"/>
 fantastiquement l’<b>IMPATIENCE</b> du Paradis d’outre-tombe ; concrètement : les membres de
 l’Église Parfaite de Kant, recevant en prix le statut d’Agréé de Dieu (X), pour leur zèle efficace à
-pacifier la Terre.</p>
+pacifier la Terre.</p><img class="img-in-text-right" src="img/lamennais.png"/>
 <p>En effet, seule <b>l’humanité Bourgeoise Spiritualiste</b> a pu nous donner un “aperçu” historique
-de la Liberté Sociale. Et encore, c’était au prix de l’incompatibilité radicale avec toute Égalité
+de la Liberté Sociale. Et encore, c’était au prix de l’incompatibilité radicale avec toute Égalité<img class="img-in-text-left" src="img/mazzini.jpg"/>
 économique.</p>
 <p>Notre Anarchisme, en tous cas, donne une signification sérieuse à l’activité sans entrave des
 <b>Clubs</b> populaires, et à l’institution de la <b>Garde Nationale</b> élisant ses chefs. Puisque c’est ainsi que

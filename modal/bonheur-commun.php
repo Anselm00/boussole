@@ -3,8 +3,8 @@
     <div class="modal-content">
       <h4><b>Bonheur Commun</b></h4>
 	  	
-<p style="text-align:center;"><b>DÉPÊCHE</b></p>
-<p style="text-align:center;"><b><u>Procès à Lyon</u></b> (France) :</p>
+<p style="text-align:center;font-size:36px"><b>DÉPÊCHE</b></p>
+<p style="text-align:center;font-size:28px"><b><u>Procès à Lyon</u></b> (France) :</p>
 <p>• <b>F</b>reddy <b>M</b>alot, membre du « Tout Nouveau Peuple », jugea
 le régime de la France (péremptoirement dit-il) <b>RÉPUBLIQUE
 DESPOTIQUE</b> (sa Proclamation du <u>29 nov. 2016</u>).</p>
@@ -16,7 +16,7 @@ tel est Notre Bon-Plaisir » de sa Majesté Elyséenne (dit-il) !</p>
 de Lyon : 67, rue Servient – 69003, le <b>3 juillet 2017</b>, à 14 h 00,
 il publie, en héraut bien-fondé du « bonheur commun – but de la
 société » (Déclaration du 21 juin 1793 : Art. 1er) :</p>
-<p style="text-align:center;"><b><i>J’ASSUME, POINT BARRE !</i></b> – Cf. eglise-realiste.org.</p>
+<p style="text-align:center;font-size:30px"><b><i>J’ASSUME, POINT BARRE !</i></b> – Cf. eglise-realiste.org.</p>
 
 <p style="text-align:center;"><b>Destinataires</b></p>
 <p>• <b>Agences de Presse Mondiales</b> (> 400) : AFP, Reuters Holdings, Associated Press, United
@@ -52,7 +52,7 @@ Lyon 3ème/6ème.</p>
 
 <p style="text-align:center;"><b>3 juillet 2017</b></p>
 <img class="image" src="img/reel-vrai-arabe-dossier_proces.png"/>
-<p style="text-align:center;">RÉEL-VRAI surpasse tout !</p>
+<p style="text-align:center;font-size:35px">RÉEL-VRAI surpasse tout !</p>
 <p style="text-align:center;">Freddy Malot</p>
 
 <p>voir <a href="https://www.eglise-realiste.org/pdf/Proces_3_07_2017.pdf" target="_blank">"Recueil Procès"</a> de Freddy, Fils de Dom Deschamps - Editions de l'Evidence</p>
