@@ -1,9 +1,10 @@
 <!-- Modal Structure -->
 <div id="comm-anar" class="modal">
 			<div class="modal-content">
+			
 			  <h4>Comm-Anar</h4>
+			  <img class="img-on-text-left" src="img/chemins.png"/>
 			  
-	
 <p>C’est en donnant le schéma du régime social de la 3ème espèce de la race humaine que l’E.R.M<img class="img-in-text-right" src="img/babeuf.jpg"/>
 <b>tire jusqu’au bout les conséquences</b> du Présupposé Lucide-Impartial dont elle a la garde. Rien
 d’étonnant que cela corresponde à la Société Convenable : le Communisme-Anarchisme !</P></p></b>
@@ -69,12 +70,18 @@ de 1er plan dans leur système (cf. par exemple : De Dieu à l’Esprit ; et ici
 Résurrection de l’Occident) »</p>
 <p>__________________________</p>
 
-				  
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Se_Transformer_ed.pdf" target="_blank"> "Se Transformer"</a>, p.6, Point 8 - 29.11.2010 - Talib Freddy
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Se_Transformer_ed.pdf" target="_blank"> "Se Transformer"</a>, p.6, Point 8 - 29.11.2010 - Talib Freddy - Editions de l'Evidence
-			  
+
+				  			  
 				  <p>__________________________</p>
 
+				  <img class="image" src="img/utopisme.png"/>
+				  <p>__________________________</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Utopisme_Int_ed.pdf" target="_blank"> "De l'Utopisme Intégral au Comm-Anar"</a>, Talib Freddy - février 2007
+
+				  
+				  <p>__________________________</p>
 				  <img class="image" src="img/comm-anar-chant_page_1.jpg"/>
 				  
 				  <img class="image" src="img/comm-anar-chant_page_2.jpg"/>
