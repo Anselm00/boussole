@@ -6,7 +6,7 @@
 			  
 			  <p>« Sous le Maritalat, affranchissement de la femme voulait dire “<b>trahison</b>” de son sexe inévitable,
 et “singer les hommes” à son détriment. Même problème que pour les juifs : la solution des transfuges
-ne règle pas le problème communautaire (cf. Marx, Spinoza, etc.). Ou alors, c’est l’émancipation
+ne règle pas le problème communautaire (cf. Marx, Spinoza, etc.). Ou alors, c’est l’émancipation<img class="img-in-text-right" src="img/witikind.png"/>
 <b>suicidaire</b> : citoyenneté “accordée” aux juifs français en 1791. Même tragédie pour la civilisation
 communautaire forcée : le baptême du chef des Saxons WITIKIND par Charlemagne en 786 »</p>
 			  

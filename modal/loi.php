@@ -5,7 +5,7 @@
 			  
 
 
-			  <p>« <i>Dieu étant maître des Rois (..) <b>la loi de Dieu</b> a toujours été une borne. (Les) Rois
+			  <p>« <i>Dieu étant maître des Rois (..) <b>la loi de Dieu</b> a toujours été une borne. (Les) Rois<img class="img-in-text-right-bigger" src="img/richelieu.png"/>
 doivent plus que tous les autres agir par raison. (..) Un Roi qui a les mains nettes, le
 coeur pur et la langue innocente, n’a pas peu de vertu. (..) J’ai toujours estimé que tel
 défaut, blâmable en toute sorte de personne, est une dangereuse imperfection aux
@@ -43,13 +43,13 @@ peuvent arriver ;</i></p>
 Ils se trouveront bien plus coupables que ceux qui transgresseront les lois. (..)
 Beaucoup se sauveraient comme personnes privées, qui se damnent comme
 personnes publiques.</i></p>
-<p style="text-align:right;">Richelieu, Testament Politique (1637)</p>
+<p style="text-align:right;">Richelieu, Testament Politique (1637)</p><img class="img-in-text-left" src="img/almamoun.png"/>
 <p style="text-align:center;"><b>________</b></p>
 <p><i>Toutes <b>les révoltes</b> qui se sont produites ont été causées par les injustices
 commises par les gouverneurs.</i></p>
 <p style="text-align:right;">Al-Ma’mün (813/833)</p>
 <p style="text-align:center;"><b>________</b></p>
-<p><i>Si vous mettez, me disait-il, les peuples dans l’abondance, ils ne travailleront
+<p><i>Si vous mettez, me disait-il, les peuples dans l’abondance, ils ne travailleront<img class="img-in-text-right" src="img/fenelon.png"/>
 plus ; ils deviendront fiers, indociles, et seront toujours prêts à se révolter. Il n’y a
 que la faiblesse et la misère qui les rende souples et qui les empêche de résister à
 l’autorité.</i></p>
@@ -65,7 +65,7 @@ tienne bas pour son propre repos.</i></p>
 			  
 <p>__________________________</p>
 
-			  <p>« La volonté du Maître et les besoins de la communauté règlent leurs actions. Entre eux, pas de préférence de personne ; on juge selon le mérite, non d’après la noblesse. Ils s’honorent mutuellement et pour observer la loi du Christ, portent les fardeaux les uns des autres. Jamais une parole insolente, une besogne inutile, un éclat de rire immodéré, un murmure, si faible soit-il, ne demeurent impunis. Ils détestent les échecs, les jeux de hasard ; ont la chasse à courre en horreur et ne se divertissent pas à la chasse à l’oiseau dont tant d’autres raffolent. »</p>
+<img class="img-in-text-left" src="img/bernard.jpg"/> <p>« La volonté du Maître et les besoins de la communauté règlent leurs actions. Entre eux, pas de préférence de personne ; on juge selon le mérite, non d’après la noblesse. Ils s’honorent mutuellement et pour observer la loi du Christ, portent les fardeaux les uns des autres. Jamais une parole insolente, une besogne inutile, un éclat de rire immodéré, un murmure, si faible soit-il, ne demeurent impunis. Ils détestent les échecs, les jeux de hasard ; ont la chasse à courre en horreur et ne se divertissent pas à la chasse à l’oiseau dont tant d’autres raffolent. »</p>
 <p>__________________________</p>
 
 				  
