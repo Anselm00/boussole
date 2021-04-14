@@ -4,9 +4,12 @@
 			
 			  <h4>Comm-Anar</h4>
 			  <img class="img-on-text-left" src="img/chemins.png"/>
-			  
-<p>C’est en donnant le schéma du régime social de la 3ème espèce de la race humaine que l’E.R.M<img class="img-in-text-right" src="img/babeuf.jpg"/>
-<b>tire jusqu’au bout les conséquences</b> du Présupposé Lucide-Impartial dont elle a la garde. Rien
+			  <p>__________________________</p>
+			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Ma_Vie_ed.pdf" target="_blank"> "Ma Vie"</a>, p.11 - Aîné de Dom Deschamps - 19.09.2020</p>
+			  <p>__________________________</p>
+
+<p>C’est en donnant le schéma du régime social de la 3ème espèce (voir plus bas) de la race humaine que l’E.R.M
+<b>tire jusqu’au bout les conséquences</b> du Présupposé Lucide-Impartial dont elle a la garde. Rien<img class="img-in-text-right" src="img/babeuf.jpg"/>
 d’étonnant que cela corresponde à la Société Convenable : le Communisme-Anarchisme !</P></p></b>
 <p><b>1/ <u>Communisme.</u></b></p>
 <p>C’est <b>l’Égalité</b> économique véritable.
@@ -66,7 +69,7 @@ ne garde qu’une valeur relative. Absolument parlant, on arrive à une autre ve
 Préhistoire ne fut vivante que du fait qu’elle était partiellement ce que NOUS
 sommes : des Réalistes Vrais/Comm-Anar. L’“impérissable” chez les Gentilices et les
 Bourgeois ne s’y trouvait qu’à leur insu, et ne consistait pas dans ce qu’ils estimaient
-de 1er plan dans leur système (cf. par exemple : De Dieu à l’Esprit ; et ici, p. 10 :
+de 1er plan dans leur système (cf. par exemple : <b><i>De Dieu à l’Esprit</i></b> ; et ici, p. 10 :
 Résurrection de l’Occident) »</p>
 <p>__________________________</p>
 
@@ -86,10 +89,11 @@ Résurrection de l’Occident) »</p>
 				  
 				  <img class="image" src="img/comm-anar-chant_page_2.jpg"/>
 
-				  <p> <a href="https://youtu.be/FODjqZNH4-E" target="_blank"> En Musique </a>
+				  <p> <a href="https://youtu.be/FODjqZNH4-E" target="_blank"> En Musique </a></p>
 
-				 				  
+				  <img class="image" src="img/CA-egal.png"/>			  
 
+				  <img class="image" src="img/essence-sc.png"/>
 
 			</div>
 			<div class="modal-footer">

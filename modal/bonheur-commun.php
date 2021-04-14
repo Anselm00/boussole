@@ -42,7 +42,7 @@ International, International Crisis Group (ICG), Peterson Institute for Internat
 <p>• <b>Gouvernement MACRON</b> (1er & 2nd) : Président, 1er Ministre, Intérieur, Justice.</p>
 • Associatif : LDH, Amnesty, Reporters Sans Frontières...</p>
 
-_______________________________________________________
+<p>_______________________________________________________</p>
 
 <p>• <b>Les « intéressés »</b> directement : les 2 juges accusateurs (J. Aubriot, P. Duclos), le Procureur
 et le Bâtonnier du TGI Lyon, le Juge de l’audience du 3.07.17, Commissariat Lyon 7ème, Commissariat
@@ -54,9 +54,16 @@ Lyon 3ème/6ème.</p>
 <img class="image" src="img/reel-vrai-arabe-dossier_proces.png"/>
 <p style="text-align:center;font-size:35px">RÉEL-VRAI surpasse tout !</p>
 <p style="text-align:center;">Freddy Malot</p>
-
+<p style="text-align:center;"><b>__________________________</b></p>
 <p>voir <a href="https://www.eglise-realiste.org/pdf/Proces_3_07_2017.pdf" target="_blank">"Recueil Procès"</a> de Freddy, Fils de Dom Deschamps - Editions de l'Evidence</p>
-	  <blockquote>
+<p style="text-align:center;"><b>__________________________</b></p>
+
+<img class="img-in-text-align:center" src="img/marat.png"/>
+
+<p style="text-align:center;font-size:22px"><b>Marat</b></p>
+
+
+<p style="text-align:center;"><b>__________________________</b></p>
 
 <img class="image" src="img/systeme-babel-occident.png"/>
 

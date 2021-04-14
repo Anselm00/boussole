@@ -2,7 +2,7 @@
 <div id="feminin" class="modal">
 			<div class="modal-content">
 			  <h4>Feminin</h4>
-			  
+			  <img class="img-in-text-right" src="img/club-femme-1848.png"/>
 			  <p>« 1/ La question de la femme est évidemment aussi celle du <b>Ménage</b>. Or, ce dernier est la “cellule
 fondamentale” revendiquée de la société Bourgeoise. Le problème conduit donc à introduire dans la
 cause l’ensemble de l’ordre Civilisé.</p>
@@ -28,7 +28,7 @@ Sexuelle</b> (B.S.) en vigueur et portée aux nues par le Paganisme dominant (�
 simplement la putréfaction du Maritalat civilisé, organisée par l’Occident depuis 1835.</p>
 <p>Le combat d’anéantissement de la B.S. est rien moins que de Salut Public. Il impose au Parti
 Féminin l’article 1er de son programme : “mise sur pied de <b>bataillons</b> féminins de Garde Nationale”
-(civils de quartiers et villages). La lèpre multiforme de la Pornographie (sexshops, spectacles, média,<img class="img-in-text-left" src="img/valerie.jpg"/>
+(civils de quartiers et villages). La lèpre multiforme de la Pornographie (sexshops, spectacles, média,<img class="img-in-text-left" src="img/valerie-scum.png"/>
 pubs…) ; les harcèlements, viols et meurtres de filles et femmes, par les obsédés gavés de slip-analyse ;
 l’horreur des “travailleuses du sexe” (fiscalisées en BNC !) tout cela doit être expéditivement rayé de
 la carte.</p>
@@ -46,6 +46,9 @@ des ♂ : Society to Cut Up Men).»</p>
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Question de la Femme (Manuel-Programme)"</a>, p.68 (31) - 22.01.2012 - Talib Freddy - Editions de l'Evidence</p>
 				  <p>__________________________</p>
 				  <p>Voir aussi <a href="https://www.eglise-realiste.org/pdf/Menage_Prive_ed.pdf" target="_blank"> "Ménage Privé"</a>, et <a href="https://www.eglise-realiste.org/pdf/Putain_Pouliniere_ed.pdf" target="_blank"> "Putain & Poulinière"</a></p>
+				  
+				  <p>__________________________</p>
+				  <img class="image" src="img/maids-vs-gporcs.png"/>
 
 
 			</div>

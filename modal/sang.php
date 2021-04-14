@@ -2,8 +2,8 @@
 <div id="sang" class="modal">
 			<div class="modal-content">
 			  <h4>Sang</h4>
-			  
-			  <p>« La communauté spécifiquement « Parentale » se voulait unie par un Sang
+			  <img class="img-in-text-right" src="img/abraham&melchi.png"/>
+			  <p>« La communauté spécifiquement « Parentale » se voulait unie par un Sang 
 théorique, et groupée comme un Troupeau domestiqué, attaché à des <b>Voués</b>.
 L’exercice du travail mental se donnait comme le fait d’un Cerveau "collectif". »</p>
 
