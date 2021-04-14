@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Sauvage</h4>
 			  
-			  <p>« Dans le passé, deux humanités ont régné successivement sur le monde : d’abord
+			  <p>« Dans le passé, deux humanités ont régné successivement sur le monde : d’abord<img class="img-in-text-right-bigger" src="img/Vignette-Sauvage.jpg"/>
 l’humanité <b>Traditionnelle</b>, dite Primitive ; ensuite l’humanité <b>Civilisée</b>. Parler de
 “primitifs” ne veut rien dire, sauf que ce furent les premiers hommes ! parler de
 “civilisés” ne veut pas dire grand chose non plus ! <b>En grec</b>, le mot civilisé est

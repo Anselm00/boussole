@@ -49,7 +49,7 @@ Coagulés en “panthéon” terrestre dominant la Cité, ils sont quasi-“raci
 <p style="text-align:center;">• • •</p>
 <p>C’est-à-dire ?</p>
 <p>1- Le Droit Divin (Être Suprême) préside au Droit Naturel et le cautionne de toute ÉTERNITÉ ;</p>
-<p>2- Le Droit Naturel veut qu’il n’y ait qu’une seule manière d’être Homme possible et imaginable : c’est le Propriétaire privé, dont émane le Citoyen Public. Bref, le Bourgeois1.</p>
+<p>2- Le Droit Naturel veut qu’il n’y ait qu’une seule manière d’être Homme possible et imaginable : c’est le Propriétaire privé, dont émane le Citoyen Public. Bref, le Bourgeois.</p>
 <p>3- Le Droit Naturel étant inaliénable et imprescriptible, il n’y a aucune sorte d’Histoire : 1789 instaure la “vraie” société bourgeoise, valable pour tout le TEMPS du monde, qui fut auparavant seulement Ignorée, Oubliée ou Méprisée.</p>				 	
 <p>__________________________</p>
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/1789_Homme_Vrai_ed.pdf" target="_blank">"1789, l'Homme Vrai est le Bourgeois"</a> - Talib Freddy -février 2006 - Editions de l'Evidence</p>

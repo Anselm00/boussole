@@ -11,7 +11,7 @@ tout.</p>
 		  <p>Le Club se lève, <b>curieux de tout</b> ce qui a pu VRAIMENT légitimer la société Préhistorique
 (Parentale-Bourgeoise), ce qui a pu VRAIMENT l’amender ou la gâter ; et prêt à mener le bon combat
 contre notre société de Mort. C’est ce qui fait du Clubiste originel le militant <b>généraliste</b>, avide de
-tout sonder et embrasser.</p>
+tout sonder et embrasser.</p><img class="img-in-text-right-bigger" src="img/Vignette-Manuel.jpg"/>
 <p>La contrepartie, c’est que le Club du départ juge l’ERM et son programme essentiellement comme
 le dernier cri des utopies, et qui les intègre sans exception. Ainsi le Club anticipe-t-il réellement
 l’espèce Convenable dans <b>la forme</b> : par sa Gratitude-Tolérance historique inouïe jusque-là ; bien
