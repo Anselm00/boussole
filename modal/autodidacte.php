@@ -4,7 +4,7 @@
       <h4><b>autodidacte</b></h4>
 	  		
 	  <p style="text-align:center;"><b> « NOUVELLE TÊTE</b></p>
-	  <p style="text-align:center;"><b>“On n’apprend vraiment que ce qu’on s’enseigne soi-même.”</b></p>
+	  <p style="text-align:center;"><b>“On n’apprend vraiment que ce qu’on s’enseigne soi-même.”</b></p><img class="img-in-text-right-bigger" src="img/prof.png"/>
 		<p>Avec le Comm-Anar, finie l’École et les Profs !!</p>
 Place à l’homme Autodidacte, avec retour en force de l’Oral !</p>
 Que voudrait dire, autrement, “se faire une nouvelle tête” ?!</p>
@@ -25,10 +25,10 @@ Et la poursuite incessante de cela, dans le Dressage impitoyable des Enfants de 
 
 <p>__________________________</p>
 
-		  </blockquote>
+		 
 
 		  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Nouvelle_Tete_ed.pdf" target="_blank">"Nouvelle Tête"</a> - Talib Freddy - 13 janvier 2008</p>
-	  <blockquote>
+	  
 
 		 	
 	
