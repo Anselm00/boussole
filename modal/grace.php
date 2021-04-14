@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Grâce</h4>
 			  
-			  <p style="text-align:center;"><b>§ 166</b></p>
+			  <p style="text-align:center;"><b>§ 166</b></p><img class="img-in-text-right-bigger" src="img/christ.png"/>
 			  <p> « Le mystère réapparaît ouvertement dans <b>le Culte</b>, c’est-à-dire dans la question de
 l’hommage que nous devons rendre à Dieu. Ici on expose comment <b>le Mérite et la
 Grâce</b> se combinent dans <b>nos Œuvres</b>. À ce propos, disons ceci :</p>

@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Géographie</h4>
 			  
-			  <p> « En ce qui concerne les salariés et les peuples, seules les circonstances les font “appartenir” à </b><img class="img-in-text-right" src="img/napoleon3.jpg"/>
+			  <p> « En ce qui concerne les salariés et les peuples, seules les circonstances les font “appartenir” à </b><img class="img-in-text-right" src="img/napoleonIII.png"/>
 				  un camp ou un autre, selon le pur hasard de la géographie. Ils ne sont aucunement en 
 				  situation de “choisir” et ils sont eux seuls les victimes réelles de la polarisation 
 				  </b><img class="img-in-text-left" src="img/bismarck.jpg"/>qui s’est produite. Les salariés et les peuples n’ont pas eu le choix, en 1870 entre 
