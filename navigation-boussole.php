@@ -1,6 +1,15 @@
 
 <?php require('header.php');?>
 
+<h1 style="    font-family: 'FrenchScriptMT';font-style: italic;
+	font-size: 180px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Mots</span> Bijoux</h1>
+
+	<h5 style="text-align:center;font-size: 30px; font-family: 'Georgia';" class="black-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'Histoire n'est pas le Temps’’</i>, </h5> 
+
+<p style="font-family: 'Georgia';color:black;" >‘‘Mots Bijoux’’ est une Poly-Prose philosophico-politique engagée dans la Transformation de la Masse en Peuple. <br>Le but du jeu est de naviguer, à l'aide de boussoles, dans la causerie fraternelle-amicale...  pour la Victoire de l'Histoire.</p>
+
+
+
 
 <div style="background:#492021;margin-top:60px;    height: 380px;text-align:center;
     overflow: hidden;">
@@ -9,7 +18,7 @@
 <div class="row">
 			
 			<div class="col s6"><h1 style=" color:white;   font-family: 'FrenchScriptMT';font-style: italic;
-			font-size: 100px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Mots</span> <br>Bijoux</h1>
+			font-size: 100px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Boussole</span> <br>électre</h1>
 		
 		<p style="font-family: 'Georgia';color:white;" >Poly-Prose philosophico-politique engagée<br> dans la Transformation de la Masse en Peuple. </h5>
 		</div>
@@ -26,13 +35,6 @@
 		
 <div id="top" class="scrollspy" style = "max-width:1200px;margin:auto;overflow: hidden;margin-top: 100px">
 
-<h1 style="    font-family: 'FrenchScriptMT';font-style: italic;
-	font-size: 180px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Mots</span> Bijoux</h1>
-
-	<h5 style="text-align:center;font-size: 30px; font-family: 'Georgia';" class="black-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'Histoire n'est pas le Temps’’</i>, </h5> 
-
-<p style="font-family: 'Georgia';color:black;" >‘‘Mots Bijoux’’ est une Poly-Prose philosophico-politique engagée dans la Transformation de la Masse en Peuple. <br>Le but du jeu est de naviguer, à l'aide de boussoles, dans la causerie fraternelle-amicale...  pour la Victoire de l'Histoire.</p>
-
 <p style="margin-top: 200px;">
 		
 	<div class="truck" style = "margin-top: 25px;max-width:1200px;">
@@ -46,6 +48,7 @@
 			</div></div></div>
 		</div>
 	</div>
+	
 
 
 	<p style="margin-top: 40px">
@@ -69,6 +72,29 @@ Parnasse), où Apollon rendait ses oracles par la bouche de la Pythie. Voir<a hr
 
 
 <hr>
+
+</div>
+
+<div style="background:#492021;margin-top:60px;    height: 380px;text-align:center;
+    overflow: hidden;">
+
+
+<div class="row">
+			
+			<div class="col s6 roue" style="margin-top: 73px;"><div class="wheel"><div class="wheel2">			
+				<object data="images/svg1.svg" type="image/svg+xml"  width="100%" height="100%"></object>
+			</div></div></div>
+
+			<div class="col s6">
+			<h1 style=" color:white;   font-family: 'FrenchScriptMT';font-style: italic;
+			font-size: 100px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Boussole</span> <br>sociable</h1>
+		
+		<p style="font-family: 'Georgia';color:white;" >Poly-Prose philosophico-politique engagée<br> dans la Transformation de la Masse en Peuple. </h5>
+		</div>
+
+		</div>
+
+
 
 </div>
 
