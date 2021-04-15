@@ -54,17 +54,10 @@
 
   <a href="#" data-target="slide-out" class="sidenav-trigger"><img style="width: 44px;" src="img/logo_home.png"/></a>
   
-  <div class=""> 
+  <div class="compass-background"> 
       <div style = "max-width:1000px;margin:auto;width:100%;">
           <div class="compass">
               <div class="compass1">
-			  <?xml version="1.0" encoding="utf-8"?>
-			  <?xml version="1.0" encoding="utf-8"?>
-			  <?xml version="1.0" encoding="utf-8"?>
-			  <?xml version="1.0" encoding="utf-8"?>
-			  <?xml version="1.0" encoding="utf-8"?>
-			  <?xml version="1.0" encoding="utf-8"?>
-			  <?xml version="1.0" encoding="utf-8"?>
 			  <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -449,15 +442,7 @@
               
   </div></div></div></div>
   
-  <section class="indigo">
-  <div style = "max-width:1000px;margin:auto;width:100%;">
-  <form action="#">
-    <p class="range-field">
-      <input type="range" id="test5" min="0" max="100" value="0"/>
-    </p>
-  </form>
-  </div>
-</section>
+
 
 
 <?php require('modal/adequation.php');?> 
