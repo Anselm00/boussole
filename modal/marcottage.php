@@ -15,8 +15,10 @@ Par cette image du marcottage, vous pouvez comprendre comment l’arbre du Rappo
 <p>__________________________</p>
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Harangue_aux_Parisiens_ed.pdf" target="_blank"> "Harrangue aux Parisiens"</a>, p.14,15 - Freddy Malot - avril 1999</p>
-			  
+				  <p>__________________________</p>
 
+				  <img class="imgage" src="img/mao.jpg"/>
+				  <p>Mao dans les blés, 1958</p>
 
 			</div>
 			<div class="modal-footer">

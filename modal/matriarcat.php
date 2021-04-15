@@ -2,7 +2,7 @@
 <div id="matriarcat" class="modal">
 			<div class="modal-content">
 			  <h4>Matriarcat</h4>
-			  
+			  <img class="img-in-text-right" src="img/deesse-mexique.jpg"/>
 			  <p>« Le Matriarcat est fasciné par la fécondité “animale” de la femme. Car c’est bien elle qui
 est Grosse, qui Met Bas, et qui Allaite ! Même la découverte que la “pluie” du sperme “arrose” le
 champ féminin, ne fait que renforcer sans appel le rôle prévalant de la mère. Bref, une “recherche de

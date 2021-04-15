@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Mouvement</h4>
 			  
-			  <p>« MALGRÉ tous les ennuis dont notre ame s’irrite,<br>
+			  <p>« MALGRÉ tous les ennuis dont notre ame s’irrite,<br><img class="img-in-text-right-bigger" src="img/ether.jpg"/>
 L’Homme est le Souverain du Monde qu’il habite,<br>
 Il y commande en Maître et tout subit sa loi.<br>
 Mais qu’est-il ? d’où vient-il ? Que trouve-t-il en Soi<br>
