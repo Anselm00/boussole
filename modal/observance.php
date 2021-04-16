@@ -36,7 +36,10 @@ est le contraire d’une (!) religion ? C’est une Observance (SHEMYRAH) Matér
 <p>__________________________</p>
 
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Se_Transformer_ed.pdf" target="_blank"> "Se Transformer"</a>, p.6 - Talib Freddy - 29.11.2010</p>
-			  
+
+<p>__________________________</p>
+
+<img class="img-in-text-left-bigger" src="img/neturei-karta.png"/>
 
 
 

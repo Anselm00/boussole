@@ -65,16 +65,16 @@ fonder rien moins que “la Concorde du genre humain” définitive… »</p>
 
 
 <p>« De la même manière qu’il n’y eut jamais qu’un seul étalon monétaire
-métallique, <b>il n’y eut jamais qu’une Nation-Phare</b> : la France ou l’Angleterre.</p>
+métallique, <b>il n’y eut jamais qu’une Nation-Phare</b> : la France ou l’Angleterre. »</p>
 
 <p>__________________________</p>
 
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Effrontee_Anti-France_ed.pdf" target="_blank"> "Effrontée Anti-France"</a>, p.3 - 26 mai 2014 - Talib Freddy - Eglise Réaliste Mondiale</p>
 <p>__________________________</p>
-		
-<p style="text-align:center;size:22px;"><b>Adam Weishaupt</b></p>
-<p style="text-align:center;"><b>(1748-1830)</b></p><img class="img-in-text-right" src="img/weishaupt.png"/>
-<p>L’évolution sera parvenue à son dernier stade quand les hommes
+
+<p style="text-align:center;font-size:44px;"><b>Adam Weishaupt</b></p>
+<p style="text-align:center;"><b>(1748-1830)</b></p><img class="img-in-text-left" src="img/weishaupt.png"/>
+<p>« L’évolution sera parvenue à son dernier stade quand les hommes
 auront appris à modérer leurs désirs, car “avoir peu de besoins
 est le premier pas vers la liberté, c’est pourquoi les sauvages
 et les hommes parvenus au plus haut degré de développement
@@ -88,7 +88,7 @@ des pères, la puissance paternelle prend fin avec l’incapacité de
 l’enfant. Le père ferait outrage à son enfant s’il voulait s’attribuer
 quelques droits sur lui, passée cette époque. Tout homme majeur
 a le droit de se gouverner lui-même et, quand toute la nation est
-majeure, il n’y a plus de raison pour qu’elle reste en tutelle.”</p>
+majeure, il n’y a plus de raison pour qu’elle reste en tutelle.” »</p>
 
 <p>__________________________</p>
 
