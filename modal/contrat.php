@@ -68,6 +68,11 @@
 <p>• Babeuf ne trouve à se référer qu’à SPARTE chez les Anciens, ce qu’il y a de plus archaïque dans notre passé civilisé, de plus proche de la société Parentale primitive. Babeuf prend même à Sparte ce qu’il y a de quasi-mythique, l’exemple de Lycurgue.<img class="img-in-text-right" src="img/lycurgue.png"/><p> Alors que la Sparte “historique” ne connut pas de vrais Esclaves, mais les Ilotes restés énigmatiques pour les historiens. Alors que Sparte méprise Athènes, qu’elle dit peuplée de “bavards”. Alors que la Bible juive revendique une “parenté” avec Sparte, et que Sparte sera glorifiée par les Nazis.</p>
 <p>• Godwin, au contraire, <img class="img-in-text-right-bigger" src="img/cartwright.png"/>peut prêcher son Anarchie (le Suffrage étendu à tous au point d’abolir le Jury, réduit au rôle d’Arbitre) en s’appuyant sur le Radicalisme anglais le plus Moderne, celui issu du Major CARTWRIGHT (1774).</p>
 
+<p>__________________________</p>
+
+				  
+
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Communistes-Anarchistes_ed.pdf" target="_blank"> "Nous sommes Communistes-Anarchistes"</a> Freddy Malot -juillet 2003 - Eglise Réaliste Mondiale</p>
 
 
 

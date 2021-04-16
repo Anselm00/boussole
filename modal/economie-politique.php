@@ -18,7 +18,7 @@
 				  la Nature, ils n’y vont pas par quatre chemins, réclament pour l’Élite Sociale l’<b>OTIUM</b>, une 
 				  vie de <b>“Loisir”</b> total <b>pour en préserver la société</b>. Certains de leurs Penseurs iront jusqu’à prêcher qu’il 
 				  faut confier toutes les tâches de direction effective, pratique, à des Citoyens de 
-				  seconde zone, aidés par des esclaves éduqués pour ce faire (Sénèque en parle 
+				  <img class="img-in-text-left" src="img/seneque.jpg"/>seconde zone, aidés par des esclaves éduqués pour ce faire (Sénèque en parle 
 				  encore quoique pour critiquer cette École). Et c’est en tenant bien 
 				  compte de ce fait, que Platon prône le Communisme dans sa 
 				  République. C’est pour la même raison que les <b>Chrétiens</b>, 

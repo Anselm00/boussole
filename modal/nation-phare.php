@@ -70,8 +70,33 @@ métallique, <b>il n’y eut jamais qu’une Nation-Phare</b> : la France ou l�
 <p>__________________________</p>
 
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Effrontee_Anti-France_ed.pdf" target="_blank"> "Effrontée Anti-France"</a>, p.3 - 26 mai 2014 - Talib Freddy - Eglise Réaliste Mondiale</p>
+<p>__________________________</p>
+		
+<p style="text-align:center;size:22px;"><b>Adam Weishaupt</b></p>
+<p style="text-align:center;"><b>(1748-1830)</b></p><img class="img-in-text-right" src="img/weishaupt.png"/>
+<p>L’évolution sera parvenue à son dernier stade quand les hommes
+auront appris à modérer leurs désirs, car “avoir peu de besoins
+est le premier pas vers la liberté, c’est pourquoi les sauvages
+et les hommes parvenus au plus haut degré de développement
+intellectuel sont peut-être les seuls hommes libres”. Alors l’homme
+n’aura plus besoin de chefs et l’autorité civile disparaîtra comme
+un rouage inutile : “Des lumières partout répandues, une sécurité
+générale rendent les princes et les États inutiles… la morale est l’art
+qui enseigne aux hommes à devenir majeurs, à sortir de tutelle,
+à entrer dans l’âge viril et à se passer de princes.” “Les rois sont
+des pères, la puissance paternelle prend fin avec l’incapacité de
+l’enfant. Le père ferait outrage à son enfant s’il voulait s’attribuer
+quelques droits sur lui, passée cette époque. Tout homme majeur
+a le droit de se gouverner lui-même et, quand toute la nation est
+majeure, il n’y a plus de raison pour qu’elle reste en tutelle.”</p>
 
-			</div>
+<p>__________________________</p>
+
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Documents.pdf" target="_blank"> "Manuel du Comm-Anar"</a>, Documents p.172 (80) - Lyon - 2012</p>
+<p>__________________________</p>
+
+
+</div>
 			<div class="modal-footer">
 			  <a href="#!" class="modal-close waves-effect waves-green btn-flat">Vu</a>
 			</div>

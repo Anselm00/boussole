@@ -31,6 +31,10 @@ de la Civilisation ! »</p>
 
 
 				  <img class="image" src="img/convenable.png"/>
+				  <p>__________________________</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Manuel Programme du Comm-Anar"</a>, p.133 (61) - 2012 - Talib Freddy</p>
+				  	
+				  
 			</div>
 			<div class="modal-footer">
 			  <a href="#!" class="modal-close waves-effect waves-green btn-flat">Vu</a>

@@ -4,7 +4,7 @@
       <h4>Curieux</h4>
 	  	
 	  <img class="img-in-text-left" src="img/marat.jpg"/> <p><b> « Le nom</b> de Club. C’est un clin d’oeil aux groupes Radicaux que Marat connut en Angleterre, et
-aux Jacobins-Cordeliers du “89” français. Pourquoi <b>Jeunes</b> ? On peut penser à 16-25 ans. Mais en<img class="img-in-text-right-bigger" src="img/lenine.jpg"/>
+aux Jacobins-Cordeliers du “89” français. Pourquoi <b>Jeunes</b> ? On peut penser à 16-25 ans. Mais en<img class="img-in-text-right" src="img/lenine.jpg"/>
 s’attachant à l’attribut précieux de “plaque sensible de la société” (Lénine), qui n’est pas l’apanage
 “absolu” d’une tranche d’âge… Notre Jeunesse n’est pas avare d’Indignés-Altruistes-Intrépides, c’est
 tout.</p>

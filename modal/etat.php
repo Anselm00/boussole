@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Etat</h4>
 			  
-			  <p><b>« Qu’était donc la souveraineté au sens proprement civilisé du terme ?</b></p>
+			  <p><b>« Qu’était donc la souveraineté au sens proprement civilisé du terme ?</b></p> <img class="img-in-text-right-bigger" src="img/souverainete.png"/>
 <p>• <b>Envisagée d’une manière générale</b>, la notion de Souveraineté désigne la
 forme d’organisation sociale qui a succédé au communisme primitif. Durant les
 quelques 25 siècles qui embrassent l’ère civilisée, cette forme d’organisation sociale
@@ -21,7 +21,7 @@ comme l’unité organique des deux couples antagoniques que forment
 Familles-État et Humanité-Individus, et les relations mutuelles
 qu’entretiennent ces deux couples. »</b></p>
 
-<p>•••</p>
+<p style="text-align:center;"><b>•••</b></p>
 <p>Le contenu de la souveraineté civilisée – la relation Famille-État – constitue son
 dynamisme interne. Cette facette de la Souveraineté est la chose la plus connue.
 Cependant, la pensée décadente Contemporaine s’interdit de voir dans le
@@ -76,7 +76,7 @@ indirecte, dérivée.
 <p>__________________________</p>
 
 
-				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Manuel Programme"</a>, p.72 - Fredy Malot - Lyon 2012</p>
+				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Souverainete_ed.pdf" target="_blank"> "La Souveraineté"</a>, p.7 - Fredy Malot - août 1992 - Association le Sens de l'Histoire - Editions de l'Evidence - 2010</p>
 			  
 
 			</div>
