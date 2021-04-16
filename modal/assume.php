@@ -18,7 +18,7 @@ freudiens. »</p>
 		  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Se_Transformer_ed.pdf" target="_blank">"Se Transformer"</a>, page 11 - Talib Freddy - 29-11-2010 - Editions de l'Evidence </p>
 		  <p>__________________________</p> 
 
-	  <img class="image" src="img/femme-vamp.png"/>
+	 
 	 	
 	
 	</div>

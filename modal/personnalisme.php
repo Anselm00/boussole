@@ -18,7 +18,7 @@ route : ni angélique, ni animal. »</p>
 			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Manuel Programme du Comm-Anar"</a>, p.74 (34) - Talib Freddy  - 26.01.2012 -  Editions de l'Evidence</p>
 
 			    
-
+			  
 
 
 
