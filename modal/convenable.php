@@ -27,8 +27,10 @@ de la Civilisation ! »</p>
 				  
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Revanche_des_Sauvages_ed.pdf" target="_blank"> "Revanche des Sauvages"</a>, p.26 - 2017 - Talib Freddy - Editions de l'Evidence</p>
-			  
+				  <p>__________________________</p>		  
 
+
+				  <img class="image" src="img/convenable.png"/>
 			</div>
 			<div class="modal-footer">
 			  <a href="#!" class="modal-close waves-effect waves-green btn-flat">Vu</a>
