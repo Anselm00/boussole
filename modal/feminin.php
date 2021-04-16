@@ -48,6 +48,8 @@ des ♂ : Society to Cut Up Men).»</p>
 				  <p>Voir aussi <a href="https://www.eglise-realiste.org/pdf/Menage_Prive_ed.pdf" target="_blank"> "Ménage Privé"</a>, et <a href="https://www.eglise-realiste.org/pdf/Putain_Pouliniere_ed.pdf" target="_blank"> "Putain & Poulinière"</a></p>
 				  
 				  <p>__________________________</p>
+
+				  <img class="image" src="img/six-copines.png"/>
 				  <img class="image" src="img/maids-vs-gporcs.png"/>
 
 

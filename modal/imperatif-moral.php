@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Impératif Moral</h4>
 			  
-			  <p>« La vraie Religion est celle que j’expose. Elle est Naturelle et Rationnelle parce
+			  <p>« La vraie Religion est celle que j’expose. Elle est Naturelle et Rationnelle parce<img class="img-in-text-right-bigger" src="img/francais-ame-etre-supreme.png"/>
 qu’elle prêche ceci : chaque homme sans exception, s’il obéit à l’Impératif Moral avec
 ses conséquences prend le chemin d’un “vicaire de Dieu”. Mais lui-même est juge du
 fait qu’il emprunte la voie du Bien et s’y maintient, et personne d’autre ; et c’est en
@@ -11,7 +11,7 @@ l’Autre-monde seulement que le grade de Lieutenant de Dieu lui sera décerné.
 
 <p style="text-align:center;"><b>§ 6</b></p>		 
 		 
-<p>Si la Moralité veut
+<img class="img-in-text-left" src="img/concordat-2.png"/><p>Si la Moralité veut
 dire quelque chose, théoriquement, il
 faut chez l’homme un Motif des motifs,
 indispensable pour que sa conduite acquiert
@@ -184,7 +184,7 @@ irréprochables, quelques Clercs
 privilégiés, quelques Théologiens certifiés,
 et quelques Simples fidèles exceptionnellement
 inspirés.</p>
-<p>Tout au contraire. Le germe de la
+<p>Tout au contraire. Le germe de la<img class="img-in-text-right-bigger" src="img/fete-etre-supreme.png"/>
 vraie religion est bel et bien déposé en
 tous, et peut très bien se développer en
 tous. Il dépend de chacun de se Convertir,

@@ -19,7 +19,7 @@ patron Responsable a laissé la place à l’employeur Parasite. »</p>
 <p>__________________________</p>
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Trois_Humanites_ed.pdf" target="_blank"> "Les Trois Humanités"</a>, p.8 - Talib Freddy - janvier 2007 - Editions de l'Evidence - 2010</p>
 <p>__________________________</p>
-
+<img class="img-in-text-right-bigger" src="img/lamennais2.png"/>
 			 <p><b><i>“La liberté veut être conquise, jamais elle n’est concédée volontairement. Les prolétaires (les salariés) sont ceux qui, ne possédant rien, vivent uniquement de leur travail. Le plus grand nombre des prolétaires subsiste d’un travail corporel. Le prolétariat a pour terme correspondant le salaire, la rétribution accordée par le capitaliste.</i></b></p>
 			 <p><b><i>Le prolétaire a sur l’esclave antique un avantage immense, quand on le considère abstractivement : il s’appartient. Mais la volonté du prolétaire, exempte de contrainte directe, est soumise à une contrainte morale absolue. La liberté du prolétaire est fictive : son corps n’est pas esclave mais sa volonté l’est. Les chaînes et les verges de l’esclavage moderne, c’est la faim.</i></b></p>
 			 <p><b><i>L’esclave antique était assuré de la nourriture, du vêtement, d’un abri, de soins dans la maladie, de ne pas être accablé sous le poids d’un travail excessif ; à cause de l’intérêt que son maître avait de le conserver.</i></b></p>

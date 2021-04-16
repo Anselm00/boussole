@@ -66,7 +66,7 @@ Les Mystiques exclusifs se cantonneront à la Foi ; les Athées exaltés s’en 
 <p>- <b>Le Clérical</b> prétend subordonner la Foi au Culte. Les sauvages ne sont donc que
 de malheureux Croyants dégénérés, que les curés bondieusards doivent prendre en
 main, de peur qu’ils ne se régénèrent et se fassent Rationalistes empiristes ou, pire,
-Athées.
+Athées.<img class="img-in-text-right-bigger" src="img/leviathan.png"/>
 <p>- Le prétendu <b>Libre-penseur</b> prétend subordonner la Raison au “Bon Sens”
 vulgaire. Les sauvages ne sont donc que d’heureux Croyants dégénérés, que les
 “instituteurs” scientistes doivent prendre en main, de peur qu’ils ne se régénèrent et

@@ -8,7 +8,7 @@
 		<p>Avec le Comm-Anar, finie l’École et les Profs !!</p>
 Place à l’homme Autodidacte, avec retour en force de l’Oral !</p>
 Que voudrait dire, autrement, “se faire une nouvelle tête” ?!</p>
-Et c’est bien pour cela que le Réalisme Vrai déroute, désarçonne, choque. Veillons à ce qu’il ne se “vulgarise” pas !</p>
+Et c’est bien pour cela que le Réalisme Vrai déroute, désarçonne, choque. Veillons à ce qu’il ne se “vulgarise” pas !</p><img class="img-in-text-left" src="img/ecole-fuir.png"/>
 <p style="text-align:center;">• • •</p>
 Savez-vous qu’il exista un <b>Colonialisme</b> Révolutionnaire, c’est-à-dire intégralement Assimilateur,
 et même <b>Absolument révolutionnaire ?</b></p>
