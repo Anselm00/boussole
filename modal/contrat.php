@@ -76,6 +76,8 @@
 
 				  <p>__________________________</p>
 
+				  <p style="text-align:center;font-size: 42px"><b> Nouveau Contrat Social</b></p>
+
 <p>Le Comm-Anar est régi par un Nouveau Contrat Social. Je le caractérise par opposition à l’ordre
 Bourgeois (Civilisation). On en déduit aisément la correction Parentale (Tradition) apportée.</p>
  <p>1/ Il s’agit de briser les formes civilisées (d’antan !) :</p>
