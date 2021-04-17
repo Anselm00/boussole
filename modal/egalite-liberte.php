@@ -10,7 +10,7 @@ l’Historisme ; elle révèle ceci :</p>
 <p>- L’Humanité “surgie” de notre Monde dut adopter le mode de travail propre à la
 <b>Société Parentale</b> (société Première), travail selon l’Égalité. La caractéristique
 complète, en ayant en tête l’hégémonie, serait : Égalité-Liberté.</p>
-<p>- Ce mode de travail, ayant épuisé ses possibilités, enfanta correctement son<img class="img-in-text-right-bigger" src="img/voyer.png"/>
+<p>- Ce mode de travail, ayant épuisé ses possibilités, enfanta correctement son
 contraire direct : celui de la <b>Société Politique</b> (société Civilisée), travail selon la
 Liberté. La caractéristique complète, en ayant en tête l’hégémonie, serait : Liberté-Égalité.</p>
 Ce dernier mode de travail s’étant heurté à son tour à ses propres limites,
