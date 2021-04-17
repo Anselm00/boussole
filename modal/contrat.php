@@ -74,6 +74,48 @@
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Communistes-Anarchistes_ed.pdf" target="_blank"> "Nous sommes Communistes-Anarchistes"</a> Freddy Malot -juillet 2003 - Eglise Réaliste Mondiale</p>
 
+				  <p>__________________________</p>
+
+<p>Le Comm-Anar est régi par un Nouveau Contrat Social. Je le caractérise par opposition à l’ordre
+Bourgeois (Civilisation). On en déduit aisément la correction Parentale (Tradition) apportée.</p>
+ <p>1/ Il s’agit de briser les formes civilisées (d’antan !) :</p>
+<p>- Les Cellules du <b>Marché</b> (Ménage et Entreprise). Exit le marchand !</p>
+<p>- Les Organes de l’<b>État</b> (Gouvernement et Assemblée). Exit le fonctionnaire !</p>
+ <p>2/ Puis de tout recomposer, selon deux exigences :</p>
+<p>- La base sociale consiste en <b>deux Communautés</b> Sexuées massives : féminine et
+masculine.</p>
+<p>D’où nécessité du <u>Parti Féminin</u> (P.F.), ayant rang Constitutionnel (1). Cette novation
+sanctionne le tournant historique ainsi opéré.</p>
+<p>- Le régime adopté par tout “foyer social” (2) est celui d’authentiques <b>Associés
+Souverains</b> (3).</p>
+<p>D’où nécessité de la <u>Gérance Syndicale</u> (4) ayant rang Constitutionnel. Cette novation
+sanctionne le tournant historique ainsi opéré.</p>
+<p>3/ Au total, nous avons l’<b>Assise</b> sociale de caractère Partisan-Syndical qui sied au Comm-Anar.</p>
+
+<p>__________________________</p>
+
+<p><b>PRÉCISIONS</b> :</p>
+<p>(1) <b>Parti Féminin</b>. Du fait que nous sortons le plus directement du Maritalat, le parti Masculin
+est “Innommé”. Toute Association Mixte est présumée Masculine, et offerte au prosélytisme du
+P.F.</p>
+<p>(2) <b>Foyer Social</b>. Tous les Éléments du Peuple, y compris les unions conjugales et les Mille et
+Une Associations, fournissent de tels “foyers sociaux”, d’agents et usagers quelconques.</p>
+<p>(3) <b>Associés Souverains</b>. Il n’y a plus de “propriétés” privée ou publique. Un seul Propriétaire
+est reconnu : la Réalité pour-Nous (Humanité-Nature empiétant l’une sur l’autre comme deux
+contraires identiques). Les Associés sont des Possesseurs, collectifs et personnels.</p>
+<p>(4) <b>Gérance Syndicale</b>. La Possession des Associés est “gérée” par le Syndicat. En droit, on ne
+“gère” que “pour le compte d’autrui”. Le Syndicat peut gérer au moyen d’agents ou de commissions
+qu’il désigne librement à cet effet. Mais il rend compte de tout, dans les formes établies, aux Associés
+qui l’instituent (et l’épurent ou révoquent au besoin à volonté).</p>
+<p>Les Syndicats, gestionnaires de tout foyer social dans le principe (si les Associés en éprouvent
+le besoin), sont dans tous les cas composés de délégués de sociétaires ordinaires, et rémunérés à
+la manière de ces derniers, frais techniques mis à part. Les “syndicaux” sont, à tous les niveaux
+(géographique et sectoriel) des agents Responsables. Ceci dit, dans leur fonction, ils “délibèrent,
+ordonnent et exécutent tout à la fois” (cf. Marx : Commune de Paris).</p>
+
+<p>__________________________</p>
+
+<p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> "Manuel Programme du Comm-Anar"</a>, p.62 (28) - Talib Freddy  - 19.01.2012 -  Editions de l'Evidence</p>
 
 
 </div>				  

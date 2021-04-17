@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Promesse</h4>
 			  
-			  <p style="text-align:center;"><b>“Le bon dépôt”</b></p>
+			  <p style="text-align:center;font-size: 45px"><b>“Le bon dépôt”</b></p>
 			  <p style="text-align:center;">Saint Paul, 2 Timothée 1</p><img class="img-in-text-right-bigger" src="img/st-paul.png"/>
 <p>“Moi, Paul apôtre, j’ai été fait docteur parmi les païens. Et je souffre pour mon Évangile jusqu’aux chaînes, comme un criminel.
 Mais la Parole divine ne se laisse pas enchaîner !</p>
