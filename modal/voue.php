@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Voué</h4>
 			  
-			  <p>« <b><u>VOUÉS</u></b> au Système de Choses. Ce mot, au sud-ouest de mon tableau, doit faire
+			  <p>« <b><u>VOUÉS</u></b> au <a class="modal-trigger electre" href="#systeme-de-choses">Système de Choses</a>. Ce mot, au sud-ouest de mon tableau, doit faire
 sentir très fort qu’on ne se transforme pas sans peine en membre de la société
 parentale (congénère, contribute ou cotribute). Pour le souligner, je m’appuie sur le
 chapitre du « Rameau d’Or » de Frazer intitulé : « Le FARDEAU de la Royauté ». Ce

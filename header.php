@@ -56,7 +56,7 @@
 
       
         <ul id="nav-mobile" class="right" style="color:black;">
-        <li><a class="black-text" href="navigation-boussole.php"><span style="font-family: 'EdwardianScriptITC'">Mots</span> <span style="font-family: 'FrenchScriptMT'">Bijoux</span></a></li>
+        <li><a class="black-text" href="navigation-boussole.php"><span style="font-family: 'EdwardianScriptITC'">Accueil</span> <span style="font-family: 'FrenchScriptMT'"></span></a></li>
           <li><a class="black-text" href="sociabilite.php"><span style="font-family: 'EdwardianScriptITC'">Sociabilité</span></a></li>
           <li><a class="black-text" href="electre.php"><span style="font-family: 'FrenchScriptMT'">Electre</span></a></li>
           

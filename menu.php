@@ -150,7 +150,9 @@
 <li><a class="modal-trigger vmv" href="#pur-impur">Pur-Impur</a></li>
 <div>R</div>
 <li><a class="modal-trigger electre" href="#raison">Raison</a></li>
+<li><a class="modal-trigger electre" href="#rapport">Rapport</a></li>
 <li><a class="modal-trigger electre" href="#realiste">Réaliste</a></li>
+<li><a class="modal-trigger electre" href="#realisme-vrai">Réalisme Vrai ?</a></li>
 <li><a class="modal-trigger electre" href="#religion">Religion</a></li>
 <li><a class="modal-trigger electre" href="#responsable">Responsable</a></li>
 <li><a class="modal-trigger electre" href="#reve-communiste">Rêve Communiste</a></li>

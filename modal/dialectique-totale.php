@@ -17,7 +17,7 @@ chose du passé, c’est <b>le NÉGATIF de chacun des vieux systèmes</b>, dont 
 produit un Positif posthume. Qu’est ce “négatif” ? C’est non pas ce que la Tradition et
 la Civilisation jugeaient essentiels : le Matérialisme et l’Égalité d’un côté, le
 Spiritualisme et la Liberté de l’autre côté, mais le côté inverse qu’elles recelaient
-<b>effectivement</b>, mais réprouvaient dans l’Absolu et toléraient dans le Relatif13,
+<b>effectivement</b>, mais réprouvaient dans l’Absolu et toléraient dans le Relatif,
 c’est-à-dire l’Esprit dans la Tradition et la Matière dans la Civilisation (cf.
 Résurrection de l’Occident, annexe : Orthodoxie Générale). C’est donc l’ombre de
 l’humanité préhistorique que nous retenons seulement, ce qui met en relief que le

@@ -5,7 +5,7 @@
 			  
 			  <p>« On voit bien que, s’agissant du Monde, c’est le côté Système de Choses de ce dernier qui est la
 préoccupation fondamentale de l’humanité Traditionnelle, <b>contrairement</b> à
-l’humanité Civilisée qui a en vue prioritairement la Société de Personnes. Il faut
+l’humanité Civilisée qui a en vue prioritairement la<a class="modal-trigger electre" href="#societe-de-personnes"> Société de Personnes</a>. Il faut
 préciser que, justement pour cela, l’expression Système de Choses attribuée aux
 Parentaux n’a pas du tout la même signification que chez les Policés ! Pourquoi cela,
 précisément ? Parce que la Matière des prétendus « sauvages » est estimée Vivante –

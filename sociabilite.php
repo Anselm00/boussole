@@ -31,7 +31,7 @@
 
       
         <ul id="nav-mobile" class="right">
-		<li><a class="black-text" href="navigation-boussole.php"><span style="font-family: 'EdwardianScriptITC'">Mots</span> <span style="font-family: 'FrenchScriptMT'">Bijoux</span></a></li>
+		<li><a class="black-text" href="navigation-boussole.php"><span style="font-family: 'EdwardianScriptITC'">Accueil</span> <span style="font-family: 'FrenchScriptMT'"></span></a></li>
 		<li><a class="black-text" href="sociabilite.php"><span style="font-family: 'EdwardianScriptITC'">Sociabilité</span></a></li>
 		<li><a class="black-text" href="electre.php"><span style="font-family: 'FrenchScriptMT'">Electre</span></a></li>
         </ul>
@@ -577,7 +577,9 @@
 <?php require('modal/puissances.php');?>
 <?php require('modal/pur-impur.php');?>
 <?php require('modal/raison.php');?>
+<?php require('modal/rapport.php');?>
 <?php require('modal/realiste.php');?>
+<?php require('modal/realisme-vrai.php');?>
 <?php require('modal/religion.php');?>
 <?php require('modal/responsable.php');?>
 <?php require('modal/reve-communiste.php');?>

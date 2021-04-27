@@ -29,9 +29,22 @@ Et la poursuite incessante de cela, dans le Dressage impitoyable des Enfants de 
 
 		  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Nouvelle_Tete_ed.pdf" target="_blank">"Nouvelle Tête"</a> - Talib Freddy - 13 janvier 2008</p>
 	  
+		  <p>__________________________</p>	  
 
+		  <p>Les “adultes” de l’Assise finale sont naturellement des <b>Savants AUTODIDACTES</b> et des <b>Agents
+ARTISTES</b> (indissociablement Créateurs et Amateurs). C’est inévitable, tout étant devenu “lié”, en
+pensée, volonté et action ; et l’Écrit relégué pour une grande part au rôle d’Aide-Mémoire. Bref, il n’y
+a plus lieu du tout à une couche “intellectuelle” séparée des “exécutants” ; et c’est dans les Mille et
+Une Associations que la Nouvelle Culture du Peuple s’exprime.</p>
 		 	
-	
+
+<p>__________________________</p>
+
+		 
+
+		  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank">"Manuel Programme du Comm-Anar"</a>, p.58 (26) - Talib Freddy - 19.01.2012</p>
+
+
 	</div>
 		<div class="modal-footer">
   			<a href="#!" class="modal-close waves-effect waves-green btn-flat">Vu</a>
