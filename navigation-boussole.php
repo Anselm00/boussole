@@ -147,6 +147,7 @@ Parnasse), où Apollon rendait ses oracles par la bouche de la Pythie. Voir<a hr
 <?php require('modal/mere-fondamentale.php');?>
 <?php require('modal/merite.php');?>
 <?php require('modal/moeurs.php');?>
+<?php require('modal/monde.php');?>
 <?php require('modal/morale.php');?>
 <?php require('modal/mouvement.php');?>
 <?php require('modal/moyen.php');?>

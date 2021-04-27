@@ -93,6 +93,7 @@ $array = array(
 "mere-fondamentale"=>"Mère Fondamentale",
 "merite"=>"Mérite",
 "moeurs"=>"Moeurs",
+"monde"=>"Monde",
 "morale"=>"Morale",
 "mouvement"=>"Mouvement",
 "moyen"=>"Moyen",

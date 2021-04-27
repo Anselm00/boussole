@@ -109,6 +109,7 @@
 <li><a class="modal-trigger electre" href="#mere-fondamentale">Mère Fondamentale</a></li>
 <li><a class="modal-trigger vmv" href="#merite">Mérite</a></li>
 <li><a class="modal-trigger electre" href="#moeurs">Moeurs</a></li>
+<li><a class="modal-trigger electre" href="#monde">Monde</a></li>
 <li><a class="modal-trigger electre" href="#morale">Morale</a></li>
 <li><a class="modal-trigger vmv" href="#mouvement">Mouvement</a></li>
 <li><a class="modal-trigger vmv" href="#moyen">Moyen</a></li>

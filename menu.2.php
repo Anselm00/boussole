@@ -98,6 +98,7 @@ $array = array(
     " mere-fondamentale",
     " merite",
     " moeurs",
+    " monde",
     " morale",
     " mouvement",
     " moyen",
