@@ -4,7 +4,7 @@
       <h4><b>Ami</b></h4>
 	  		
 		
-	  <p>« Sous le Maritalat Bourgeois, on exaltait la <b>Liberté Amicale</b> (“Philique” – PHILĒÔ : plaire,
+	  <p>« Sous le <a class="modal-trigger " href="#maritalat">Maritalat</a> Bourgeois, on exaltait la <b>Liberté Amicale</b> (“Philique” – PHILĒÔ : plaire,
 désirer, de façon extra-parentale = Φιλέω) ; mais en ravalant l’Égalité. »</p>
 
 <p>__________________________</p>

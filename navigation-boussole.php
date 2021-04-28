@@ -32,7 +32,7 @@
 		<h6 style="    color: black;
     font-size: 18px;
     text-align: right;
-    font-family: 'Georgia';">Devise de notre Nouveau Socratisme. Socrate (468-399 †) fit sienne cette devise gravée au fronton du Temple de Delphes (au pied du
+    font-family: 'Georgia';">Devise de notre Nouveau Socratisme. <a href="https://www.eglise-realiste.org/pdf/SOCRATE_ed.pdf" target="_blank">Socrate</a> (468-399 †) fit sienne cette devise gravée au fronton du Temple de Delphes (au pied du
 Parnasse), où Apollon rendait ses oracles par la bouche de la Pythie. Voir<a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> ‘‘Manuel Programme du Comm-Anar’’</a> - Talib Freddy - 24.02.2012<h6>
 
 
