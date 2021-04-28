@@ -8,7 +8,7 @@
 
 
 <h1 style="    font-family: 'FrenchScriptMT';font-style: italic;
-	font-size: 150px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Culture</span> Réaliste Vraie</h1>
+	font-size: 160px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Culture</span> Réaliste Vraie</h1>
 
 	<h5 style="text-align:center;font-size: 30px; font-family: 'Georgia';" class="black-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'Histoire n'est pas le Temps’’</i>, </h5> 
 
@@ -18,7 +18,7 @@
 
 
 	<p style="margin-top: 40px">
-	<p style="font-family: 'Georgia';color:black;font-size: 16px;" >
+	<p style="font-family: 'Georgia';color:black;font-size: 20px;" >
 	Puisque nous n’avons plus que <i><b>“nos Chaînes à perdre, et un Monde à gagner !</b></i>”… (Marx-Engels : Manifeste).</p> 
 		
 

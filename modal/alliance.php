@@ -5,19 +5,19 @@
 	  		
 		
 
-<p>« Vis-à-vis de la Puissance, la Nature est <b>Non-Mort</b>,
+<p>« Vis-à-vis de la <a class="modal-trigger " href="#puissances">Puissance</a>, la Nature est <b>Non-Mort</b>,
 parce que dotée de vie relative, capable de <b>Bénédictions</b>
 (de Fécondité débordante) et de <b>Sacrifices</b> de toutes
 Prémices à offrir à l’Émanatrice. Au contraire, vis-à-vis de la Puissance,
 l’Humanité est <b>Non-vie</b>, parce que la Dépendance de
-l’Émanation vis-à-vis de l’Existence Absolue s’y trouve réfléchie
-par la pensée Symbolique et fait l’objet du Mythe social ;
+<a class="modal-trigger " href="#emanation">l’Émanation</a> vis-à-vis de l’Existence Absolue s’y trouve réfléchie
+par la pensée Symbolique et fait l’objet du <a class="modal-trigger " href="#mythe">Mythe</a> social ;
 en conséquence, la communauté parentale se veut Image-Ressemblance de l’Émanatrice,
 couvrant en surimpression toute l’Émanation, gage nécessaire de la distinction
 essentielle de l’Émanation vis-à-vis de l’Émanatrice. C’est pourquoi,
 <b>quant à sa face “humaine”, le Monde n’est “émané” que négativement</b> :
 la Puissance ne fait que conclure avec l’humanité une Alliance de
-Sang unique et de principe qui en fait la Race d’Adam (Société de Personnes). »</p>
+<a class="modal-trigger " href="#sang">Sang</a> unique et de principe qui en fait la Race d’Adam (Société de Personnes). »</p>
 
 <p>__________________________</p>
 
