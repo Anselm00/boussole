@@ -142,6 +142,7 @@
 <li><a class="modal-trigger vmv" href="#preceptes">Préceptes</a></li>
 <li><a class="modal-trigger vmv" href="#precis">Précis</a></li>
 <li><a class="modal-trigger vmv" href="#predestination">Prédestination</a></li>
+<li><a class="modal-trigger vmv" href="#presuppose">Présupposé</a></li>
 <li><a class="modal-trigger vmv" href="#principe">Principe</a></li>
 <li><a class="modal-trigger electre" href="#promesse">Promesse</a></li>
 <li><a class="modal-trigger electre" href="#propitiation">Propitiation</a></li>

@@ -125,6 +125,7 @@ $array = array(
     " preceptes",
     " precis",
     " predestination",
+    " presuppose",
     " principe",
     " promesse",
     " propitiation",

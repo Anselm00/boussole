@@ -575,6 +575,7 @@
 <?php require('modal/preceptes.php');?>
 <?php require('modal/precis.php');?>
 <?php require('modal/predestination.php');?>
+<?php require('modal/presuppose.php');?>
 <?php require('modal/principe.php');?>
 <?php require('modal/promesse.php');?>
 <?php require('modal/propitiation.php');?>

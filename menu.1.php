@@ -120,6 +120,7 @@ $array = array(
 "preceptes"=>"Préceptes",
 "precis"=>"Précis",
 "predestination"=>"Prédestination",
+"presuppose"=>"Présupposé",
 "principe"=>"Principe",
 "promesse"=>"Promesse",
 "prophetie"=>"Prophétie",
