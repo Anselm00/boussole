@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Emanation</h4>
 			  
-			  <p>« Tout au long de son histoire, la Société Parentale conserva <b>la même base</b>.
+			  <p>« Tout au long de son histoire, la Société <a class="modal-trigger " href="#parents">Parentale</a> conserva <b>la même base</b>.
 Concernant la théorie, elle est Matérialiste. Cela veut dire que la Substance
 dernière de la Réalité est la Matière Fondamentale, “RACINE” (CHORÈCH) du Monde.</p>
 <p>Quant au Monde, il est Émanation de cette Racine répartie en deux régions :</p>
@@ -14,7 +14,7 @@ est celui de Vie-Intermittente. Pourquoi cette intermittence ? Fondamentalement,
 c’est parce que le Monde, puisque émané, ne saurait se confondre avec l’Émanatrice
 cis-cendante (l’inverse de trans-cendant). La Dépendance du monde vis-à-vis de Mère-Matière
 s’exprime Ici-Bas dans l’Hégémonie déclarée de la Nature sur l’Humanité,
-la seconde se reconnaissant tributaire des Bénédictions (dons) proposées par la première; ceci a son reflet au sein de l’Humanité dans la Fécondité maternelle avant tout. »</p>
+la seconde se reconnaissant tributaire des Bénédictions (<a class="modal-trigger " href="#dons-vivants">dons</a>) proposées par la première; ceci a son reflet au sein de l’Humanité dans la Fécondité maternelle avant tout. »</p>
 <p>__________________________</p>
 
 				  
