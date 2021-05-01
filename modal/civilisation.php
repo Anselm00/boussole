@@ -10,12 +10,12 @@
 <p>__________________________</p>
 			
 <p> « La caractéristique fondamentale de la Société Politique est 
-			  qu’elle était Spiritualiste, religieuse. Il n’est pas du tout 
+			  qu’elle était <a class="modal-trigger electre" href="#spiritualiste">Spiritualiste</a>, religieuse. Il n’est pas du tout 
 			  intelligent d’opposer à cela une fin de non recevoir, de dire 
 			  que c’était là une “illusion”. Ce qui est sage est de s’incliner 
 			  devant les faits. La société Politique, qui n’est qu’un synonyme 
 			  de la Civilisation, déclarait : ce qui est substantiel dans la 
-			  Réalité est <b>l’Esprit</b> ; ma Conception du monde ne fait 
+			  Réalité est <b> <a class="modal-trigger electre" href="#esprit">l’Esprit</a></b> ; ma Conception du monde ne fait 
 			  que s’incliner devant ce fait Objectif, et ma Méthode mentale 
 			  Subjective se trouve en pleine conformité avec la Réalité ainsi 
 			  assumée.</p>

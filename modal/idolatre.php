@@ -14,10 +14,10 @@ Solidarité de sang, secours à la veuve et l’orphelin, vénération des patri
 l’Égalité solennelle « antique » discréditée <b>appelait</b> insidieusement – mais à cor et à
 cri – l’ère « contraire » de la Liberté hégémonique.</p>
  <p>- C’est donc bel et bien par une guerre déclarée à l’Humanité-Mère, au prix
-d’une <b>ingratitude</b> aveugle (et confessée !) de ses auteurs, que la Civilisation
+d’une <b>ingratitude</b> aveugle (et confessée !) de ses auteurs, que la  <a class="modal-trigger electre" href="#civilisation">Civilisation</a>
 Spiritualiste s’établit partout !</p>
 <p>Certes, il y a le revers de la médaille : en jouant de <b>l’Allégorie</b>, appliquée aux
-trésors de la Tradition Orale de leurs ascendants réprouvés, les toutes nouvelles
+trésors de la  <a class="modal-trigger electre" href="#tradition">Tradition</a> Orale de leurs ascendants réprouvés, les toutes nouvelles
 « personnes » se donnaient une élite Religieuse. Cette dernière confectionna
 soigneusement une toute nouvelle « Conception du Monde » Révolutionnaire
 (bourgeoise) devant se substituer à la précédente Réactionnaire – ce n’est pas
@@ -25,8 +25,8 @@ péjoratif – (parentale).</p>
 <p>- En fait, le <b>sens</b> général à donner aux allégories, et le critère de leur sélection,
 qui devait soutenir l’ouvrage et garantir sa cohérence se ramenaient à un principe
 d’une simplicité magistrale : pondre le <b>CONTRAIRE IDENTIQUE</b> de la doctrine
-parentale ! C’était : substituer le Dogme au Mythe, l’Esprit à la Matière, la Religion à
-l’Observance, la Liberté à l’Égalité, etc., etc. Bien sûr, l’oeuvre devait s’adapter aux
+parentale ! C’était : substituer le  <a class="modal-trigger electre" href="#dogme">Dogme</a> au  <a class="modal-trigger electre" href="#mythe">Mythe</a>, l’ <a class="modal-trigger electre" href="#esprit">Esprit</a> à la Matière, la  <a class="modal-trigger electre" href="#religion">Religion</a> à
+l’ <a class="modal-trigger electre" href="#observance">Observance</a>, la Liberté à l’Égalité, etc., etc. Bien sûr, l’oeuvre devait s’adapter aux
 particularités locales, et se plier au processus « Du Simple au Pur » ; mais le
 fondement était catégorique : les Personnes du « siècle » ne pouvaient se donner
 qu’un <b>Sujet Suprême</b> (Âme absolue), Père-Créateur ayant « tiré du Néant »

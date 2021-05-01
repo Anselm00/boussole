@@ -7,7 +7,7 @@
 par Dieu, et il se trouvait couronné par la fleur du Génie des Grands Hommes dont le
 parfum s’élevait jusqu’au ciel. Par les deux extrémités, la création visible parvenait
 ainsi à se reposer dans la grâce divine.</p>
-<p>La civilisation, en effet, n’appréhendait les Personnes en tant que telles – non pas
+<p>La  <a class="modal-trigger electre" href="#civilisation">civilisation</a>, en effet, n’appréhendait les Personnes en tant que telles – non pas
 les pères de famille prosaïque, mais les Individus purs et simples – qu’au travers des
 Grands Hommes, ceux dignes de devenir des Immortels de l’Académie, ou d’être
 inhumés au Panthéon. Ces bienfaiteurs de la civilisation, auxquels “l’humanité

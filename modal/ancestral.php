@@ -4,11 +4,11 @@
       <h4><b>Ancestral</b></h4>
 	  		
 		<p> « <b> INTERDITE DE TOUTE LUMIÈRE MENTALE, L’HUMANITÉ SOMBRE DANS LA FOLIE !</b></p><img class="img-in-text-right" src="img/socrate.jpg"/><p>
-<p>150 ans de Laïcité régnante démontrent à souhait qu’<b>il est vain d’attendre un nouveau
-Socrate !</b> Comment donc nous évader de la nuit spirituelle ?</p>
-<p>La Laïcité n’a vécu qu’en dévorant les manifestations du Dogme des Religieux. Il n’en reste
+<p>150 ans de <a href="http://www.docil-cocktail.org/laicite/index.html" target="_blank">Laïcité</a> régnante démontrent à souhait qu’<b>il est vain d’attendre un nouveau
+<a href="https://www.eglise-realiste.org/pdf/SOCRATE_ed.pdf" target="_blank">Socrate</a> !</b> Comment donc nous évader de la nuit spirituelle ?</p>
+<p>La Laïcité n’a vécu qu’en dévorant les manifestations du <a class="modal-trigger electre" href="#dogme">Dogme</a> des Religieux. Il n’en reste
 plus rien. L’heure est bien d’en sauver l’essence ! Mais cela ne se peut qu’en réhabilitant en
-même temps le fond du <b>Mythe ancestral des Idolâtres</b>, dont la Religion avait dû balayer des
+même temps le fond du <b><a class="modal-trigger electre" href="#mythe">Mythe</a> ancestral des  <a class="modal-trigger electre" href="#idolatre">Idolâtres</a></b>, dont la Religion avait dû balayer des
 formes ultimes corrompues pour imposer ses premiers foyers.</p>
 <p>Aujourd’hui s’ouvre un âge mental tout nouveau. Il s’annonce en proclamant simplement
 ceci : mère-Matière et père-Esprit sont les deux faces d’une même médaille : <b>la VRAIE RÉALITÉ</b>,
