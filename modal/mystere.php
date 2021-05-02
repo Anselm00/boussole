@@ -44,7 +44,7 @@ complètement cachés en Ce-monde (chap. V).</p>
 <p style="text-align:center;"><b>§ 166</b></p>
 <p>Le mystère réapparaît ouvertement dans le Culte, c’est-à-dire dans la question de
 l’hommage que nous devons rendre à Dieu. Ici on expose comment le Mérite et la
-<p>Grâce se combinent dans nos OEuvres. À ce propos, disons ceci :</p>
+Grâce se combinent dans nos OEuvres. À ce propos, disons ceci :</p>
 <p>- Du fait que les actes mêmes des meilleurs croyants ne sauraient produire un seul
 Saint en Ce-monde, il nous faut supposer le Secours divin dans notre Conduite.</p>
 <p>- N’empêche que ce que Dieu veut et peut faire pour notre Salut nous est

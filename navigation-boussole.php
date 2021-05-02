@@ -10,7 +10,20 @@
 <h1 style="    font-family: 'FrenchScriptMT';font-style: italic;
 	font-size: 160px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Culture</span> Réaliste Vraie</h1>
 
-	<h5 style="text-align:center;font-size: 30px; font-family: 'Georgia';" class="black-text"><i>‘‘Le pur est le pire’’</i>,<br><i>‘‘L'Histoire n'est pas le Temps’’</i>, </h5> 
+<hr>
+
+
+<hr>
+<h5 style="    font-size: 27px; font-family: 'georgia';" class="black-text"><b><i>‘‘Espèce Travailleuse, “CONNAIS-TOI TOI-MÊME !”</i></b> </h5> 
+	<h6 style="    color: black;
+font-size: 18px;
+text-align: right;
+font-family: 'Georgia';">Devise de notre Nouveau Socratisme. <a href="https://www.eglise-realiste.org/pdf/SOCRATE_ed.pdf" target="_blank">Socrate</a> (468-399 †) fit sienne cette devise gravée au fronton du Temple de Delphes (au pied du
+Parnasse), où Apollon rendait ses oracles par la bouche de la Pythie. Voir<a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> ‘‘Manuel Programme du Comm-Anar’’</a> - Talib Freddy - 24.02.2012<h6>
+
+
+
+<hr>
 
 <p style="font-family: 'Georgia';color:black;" > Poly-Prose philosophico-politique engagée dans la Transformation de la Masse en Peuple. <br>Le but du jeu est de naviguer, à l'aide de boussoles, dans la causerie fraternelle-amicale...  pour la Victoire de l'Histoire.</p>
 
@@ -24,20 +37,7 @@
 
 
 
-<hr>
 
-
-	<hr>
-	<h5 style="    font-size: 27px; font-family: 'georgia';" class="black-text"><b><i>‘‘Espèce Travailleuse, “CONNAIS-TOI TOI-MÊME !”</i></b> </h5> 
-		<h6 style="    color: black;
-    font-size: 18px;
-    text-align: right;
-    font-family: 'Georgia';">Devise de notre Nouveau Socratisme. <a href="https://www.eglise-realiste.org/pdf/SOCRATE_ed.pdf" target="_blank">Socrate</a> (468-399 †) fit sienne cette devise gravée au fronton du Temple de Delphes (au pied du
-Parnasse), où Apollon rendait ses oracles par la bouche de la Pythie. Voir<a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> ‘‘Manuel Programme du Comm-Anar’’</a> - Talib Freddy - 24.02.2012<h6>
-
-
-
-<hr>
 
 </div>
 

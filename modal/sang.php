@@ -12,7 +12,7 @@ L’exercice du travail mental se donnait comme le fait d’un <a class="modal-t
 			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Revanche_de_Sauvages_ed.pdf" target="_blank"> "Revanche des Sauvages"</a>, p.7 - Talib Freddy - Lyon - 2017</p>
 			  <p>__________________________</p>
 			    
-			  <p>« Pour notre sauvage, la Conscience ne peut relever que de la substance-MATIÈRE.
+			  <p>« Pour notre <a class="modal-trigger electre" href="#sauvage">sauvage</a>, la Conscience ne peut relever que de la substance-MATIÈRE.
 Comment ? La Matière est la Vie-des-vies de tous les existants, et tout d’abord de
 l’Arbre de la Nature, pénétré partout de vie Infaillible, tel un sûr instinct, tant que
 l’Humanité ne vient pas troubler cette “santé” normale de la Nature. En effet, la
