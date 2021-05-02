@@ -59,9 +59,9 @@ des 2 versions rivales ; et les deux vont à la faillite quand leur perfection f
 
 			  
 			  
-			  <img class="image" src="img/realiste.png"/>
+			  <img class="image" src="img/realiste.jpg"/>
 			  <p>__________________________</p>
-			  <img class="image" src="img/realite.png"/>
+			  <img class="image" src="img/realite.jpg"/>
 
 			  <p>__________________________</p>
 

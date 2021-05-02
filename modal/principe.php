@@ -15,7 +15,7 @@ déconcertée par le principe Mathématique, et l’Entendement déconcerté par
 principe Logique. C’est ce qui explique, par exemple, que des Idéalistes comme
 Pythagore, Nicolas de Cuse, ou Leibniz, sont “obsédés” par les Mathématiques. »</p>
 
-<img class="image" src="img/principe.png"/>
+<img class="image" src="img/principe.jpg"/>
 
 <p>__________________________</p>
 

@@ -5,13 +5,13 @@
 			  
 			  <p>« Le Symbolisme est la mise en oeuvre du Témoignage, c’est-à-dire de la valeur de
 Signes qu’ont les phénomènes. <b>La Divination</b> des voyants et astrologues se consacre
-à dévoiler ce que les phénomènes ont de plus spécifiquement intelligible, par les<img class="img-in-text-right-bigger" src="img/pantheon-azteque.png"/>
+à dévoiler ce que les phénomènes ont de plus spécifiquement intelligible, par les<img class="img-in-text-right-bigger" src="img/pantheon-azteque.jpg"/>
 présages et prémonitions. Exemples : tel bruit dans la montagne, le chant du hibou,
 un lapin entrant dans une maison, un loup traversant un chemin, sont autant
 d’avertissements particuliers significatifs chez les Aztèques.</p>
 
 <p>Le Symbolisme se perpétuera au travers de la mystique civilisée. Ainsi Apollonius
-de Tyane parle-t-il des “signes puissants et grandioses” qu’il importe de déceler.<img class="img-in-text-left" src="img/appolonius-tyane.png"/>
+de Tyane parle-t-il des “signes puissants et grandioses” qu’il importe de déceler.<img class="img-in-text-left" src="img/appolonius-tyane.jpg"/>
 La voie du symbolisme traditionnel devient, avec le temps, une spécialité liée à des
 “états spéciaux” : rêve, transe, que favorisent des techniques appropriées : danses
 sacrées, drogues, etc. Mais la Tradition ne laisse jamais la spécialisation – qu’elle soit

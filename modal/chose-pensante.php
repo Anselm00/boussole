@@ -5,9 +5,9 @@
 			  
 			  <p>« Telle est l’analyse rigoureuse de la Préhistoire : nous eûmes deux sociétés
 bien vivantes de choses pensantes. Or, si l’histoire prouve que la seconde est issue
-collectivement de la première, et que des métissages furent légion, <b>notre Énigme<img class="img-in-text-right" src="img/levrier.png"/>
+collectivement de la première, et que des métissages furent légion, <b>notre Énigme<img class="img-in-text-right" src="img/levrier.jpg"/>
 surgit en force</b> avec l’énoncé ci-dessus, inclinant à parler de deux « races »
-<img class="img-in-text-left" src="img/basset.png"/>hétérogènes, faites plutôt pour s’ignorer totalement, pareilles à deux compagnies
+<img class="img-in-text-left" src="img/basset.jpg"/>hétérogènes, faites plutôt pour s’ignorer totalement, pareilles à deux compagnies
 qui seraient celles du lévrier et du basset. Toute notre affaire est de trouver une
 issue à ce dédale. »
 <p>__________________________</p>

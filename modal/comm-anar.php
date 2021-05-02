@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			
 			  <h4>Comm-Anar</h4>
-			  <img class="img-on-text-left" src="img/chemins.png"/>
+			  <img class="img-on-text-left" src="img/chemins.jpg"/>
 			  <p>__________________________</p>
 			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Ma_Vie_ed.pdf" target="_blank"> "Ma Vie"</a>, p.11 - Aîné de Dom Deschamps - 19.09.2020</p>
 			  <p>__________________________</p>
@@ -13,7 +13,7 @@
 d’étonnant que cela corresponde à la Société Convenable : le Communisme-Anarchisme !</P></p></b>
 <p><b>1/ <u>Communisme.</u></b></p>
 <p>C’est <b>l’Égalité</b> économique véritable.
-<p>Ceci n’a à voir avec Babeuf, Fourier et Marx, que dans la mesure où ils cultivent confusément la<img class="img-in-text-left" src="img/fourier.png"/>
+<p>Ceci n’a à voir avec Babeuf, Fourier et Marx, que dans la mesure où ils cultivent confusément la<img class="img-in-text-left" src="img/fourier.jpg"/>
 <b>NOSTALGIE</b> de l’Âge d’Or de Cronos ; concrètement : s’inspirer de la “Loi” de Minos en Crète et
 celle de Lycurgue en Lacédémone…</p><img class="img-in-text-right" src="img/marx.jpg"/>
 <p>En effet, seule <b>l’humanité Parentale Matérialiste</b> a pu nous donner un “aperçu” historique de
@@ -25,7 +25,7 @@ C’est la <b>Liberté</b> politique véritable.</p>
 <p>Ceci n’a à voir avec Godwin, La Mennais et Mazzini, que dans la mesure où ils cultivent<img class="img-in-text-left" src="img/godwin.jpg"/>
 fantastiquement l’<b>IMPATIENCE</b> du Paradis d’outre-tombe ; concrètement : les membres de
 l’Église Parfaite de Kant, recevant en prix le statut d’Agréé de Dieu (X), pour leur zèle efficace à
-pacifier la Terre.</p><img class="img-in-text-right" src="img/lamennais.png"/>
+pacifier la Terre.</p><img class="img-in-text-right" src="img/lamennais.jpg"/>
 <p>En effet, seule <b>l’humanité Bourgeoise Spiritualiste</b> a pu nous donner un “aperçu” historique
 de la Liberté Sociale. Et encore, c’était au prix de l’incompatibilité radicale avec toute Égalité<img class="img-in-text-left" src="img/mazzini.jpg"/>
 économique.</p>
@@ -79,7 +79,7 @@ Résurrection de l’Occident) »</p>
 				  			  
 				  <p>__________________________</p>
 
-				  <img class="image" src="img/utopisme.png"/>
+				  <img class="image" src="img/utopisme.jpg"/>
 				  <p>__________________________</p>
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Utopisme_Int_ed.pdf" target="_blank"> "De l'Utopisme Intégral au Comm-Anar"</a>, Talib Freddy - février 2007
 
@@ -91,9 +91,9 @@ Résurrection de l’Occident) »</p>
 
 				  <p> <a href="https://youtu.be/FODjqZNH4-E" target="_blank"> En Musique </a></p>
 
-				  <img class="image" src="img/CA-egal.png"/>			  
+				  <img class="image" src="img/CA-egal.jpg"/>			  
 
-				  <img class="image" src="img/essence-sc.png"/>
+				  <img class="image" src="img/essence-sc.jpg"/>
 
 			</div>
 			<div class="modal-footer">

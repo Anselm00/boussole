@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Inventif</h4>
 			  
-			  <img class="image" src="img/Trois_Humanites.png"/>
+			  <img class="image" src="img/Trois_Humanites.jpg"/>
 <p>__________________________</p>
 
 				  

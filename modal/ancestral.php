@@ -22,7 +22,7 @@ complète et équilibrée.. »</p>
 
 <p>__________________________</p>
 
-<p>	« L’irruption de l’Homme sur <b>notre</b> Terre fut un événement dérisoire au regard de<img class="img-in-text-right-bigger" src="img/ssolaire.png"/><p>
+<p>	« L’irruption de l’Homme sur <b>notre</b> Terre fut un événement dérisoire au regard de<img class="img-in-text-right-bigger" src="img/ssolaire.jpg"/><p>
 l’Univers ; mais quel fait formidable que, dans le domaine de <b>notre</b> Soleil, il se
 trouvât une planète <b>habitée</b> !</p>
 <p>Et, avec cela, il y a le fait époustouflant que, la chose largement « artificielle »

@@ -29,7 +29,7 @@ Dans ce couple, l’Humanité commande à la Nature : le croyant doit se faire �
 <p>Nous sommes dans un Présent pris dans le Temps, et <b>IL Y A</b> des “peuples sans lois”,
 comme si <img class="img-in-text-left" src="img/saint_jerome.jpg"/>nous étions, soit au Début du monde, soit à la Fin du monde ! Lors des Invasions Barbares,
 autour de 400, le chrétien Prudence dit : “Comme l’homme est supérieur aux animaux, de même les Romains
-chrétiens sont supérieurs aux Barbares idolâtres”. Et Synésius : les Germains sont rebelles à toute<img class="img-in-text-right" src="img/synesius.png"/>
+chrétiens sont supérieurs aux Barbares idolâtres”. Et Synésius : les Germains sont rebelles à toute<img class="img-in-text-right" src="img/synesius.jpg"/>
 assimilation civilisée. Devant le danger barbare, Jérôme dit : “Ce sont nos péchés qui font la force des Barbares.
 Nous déplaisons <img class="img-in-text-left" src="img/paul-orose.jpg"/>tant à Dieu que la rage des Barbares est l’instrument de sa colère à notre endroit”.
 Après le passage de la vague Vandale en Espagne, Orose dit : Dieu a toléré les invasions pour mettre
@@ -66,7 +66,7 @@ Les Mystiques exclusifs se cantonneront à la Foi ; les Athées exaltés s’en 
 <p>- <b>Le Clérical</b> prétend subordonner la Foi au Culte. Les sauvages ne sont donc que
 de malheureux Croyants dégénérés, que les curés bondieusards doivent prendre en
 main, de peur qu’ils ne se régénèrent et se fassent Rationalistes empiristes ou, pire,
-Athées.<img class="img-in-text-right-bigger" src="img/leviathan.png"/>
+Athées.<img class="img-in-text-right-bigger" src="img/leviathan.jpg"/>
 <p>- Le prétendu <b>Libre-penseur</b> prétend subordonner la Raison au “Bon Sens”
 vulgaire. Les sauvages ne sont donc que d’heureux Croyants dégénérés, que les
 “instituteurs” scientistes doivent prendre en main, de peur qu’ils ne se régénèrent et

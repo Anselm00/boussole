@@ -35,8 +35,8 @@ aux besoins de la communauté générale, “hic et nunc” et “ad hoc”. »<
 
 <p>__________________________</p>
 
-<img class="image" src="img/ERM-TNP_Page_1.png"/>
-<img class="image" src="img/ERM-TNP_Page_2.png"/>	
+<img class="image" src="img/ERM-TNP_Page_1.jpg"/>
+<img class="image" src="img/ERM-TNP_Page_2.jpg"/>	
 
 
 
@@ -52,7 +52,7 @@ aux besoins de la communauté générale, “hic et nunc” et “ad hoc”. »<
 
 <p>__________________________</p>
 
-<img class="image" src="img/tnp.png"/>
+<img class="image" src="img/tnp.jpg"/>
  
 
 			</div>

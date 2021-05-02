@@ -35,7 +35,7 @@
 				  <p>__________________________</p>
 
 
-<p><b>1-</b> <img class="img-in-text-left" src="img/ricardo.png"/>Au sommet de la civilisation Moderne (1760/1795 ; 1807/1814), le système Contrat-Loi (domaine social, pratique) fut exalté de la manière suivante :</p>
+<p><b>1-</b> <img class="img-in-text-left" src="img/ricardo.jpg"/>Au sommet de la civilisation Moderne (1760/1795 ; 1807/1814), le système Contrat-Loi (domaine social, pratique) fut exalté de la manière suivante :</p>
 <p>• Les Libéraux à l’anglaise disent (Smith : 1776 ; Ricardo : 1817) :</p><img class="img-in-text-right" src="img/smith.jpg"/>
 <p><b>“L’État est un MAL NÉCESSAIRE”.</b></p>
 <p>Par État, il faut entendre finalement : le Gouvernement, l’Administration.</p>
@@ -62,11 +62,11 @@
 <p><b>Le Communiste</b> dit : il est temps de nous dégager des langes sociaux que furent la Vénalité (l’intérêt privé exclusif, source de l’exploitation), le Patronat, l’aiguillon de la Faim, l’Argent et la Concurrence aveugle (qui fait l’apologie de l’impuissance du genre humain).
 <p style="text-align:center;"><b>•••</b></p>
 (...)
-<p><b>6-</b> C’est une chose bien étrange, si on y réfléchit, de voir Babeuf <img class="img-in-text-left" src="img/morelly.png"/>(après Morelly et, finalement toute la tradition Communiste qui remonte au moins à Cléomène) “retourner” la notion habituelle d’Égalité, pour l’appliquer à la Propriété, au domaine du droit Civil, celui des Contrats !</p>
+<p><b>6-</b> C’est une chose bien étrange, si on y réfléchit, de voir Babeuf <img class="img-in-text-left" src="img/morelly.jpg"/>(après Morelly et, finalement toute la tradition Communiste qui remonte au moins à Cléomène) “retourner” la notion habituelle d’Égalité, pour l’appliquer à la Propriété, au domaine du droit Civil, celui des Contrats !</p>
 <p>Cette prétention Communiste, selon les critères civilisés, est “infiniment” moins acceptable que celle des Anarchistes ; si ces derniers paraissent simplement Utopistes en voulant tuer la Hiérarchie politique, les premiers, eux, prétendant tuer l’Hégémonie civile, semblent tout à fait FOUS !</p>
 <p>Ceci explique la contradiction suivante :</p>
-<p>• Babeuf ne trouve à se référer qu’à SPARTE chez les Anciens, ce qu’il y a de plus archaïque dans notre passé civilisé, de plus proche de la société Parentale primitive. Babeuf prend même à Sparte ce qu’il y a de quasi-mythique, l’exemple de Lycurgue.<img class="img-in-text-right" src="img/lycurgue.png"/><p> Alors que la Sparte “historique” ne connut pas de vrais Esclaves, mais les Ilotes restés énigmatiques pour les historiens. Alors que Sparte méprise Athènes, qu’elle dit peuplée de “bavards”. Alors que la Bible juive revendique une “parenté” avec Sparte, et que Sparte sera glorifiée par les Nazis.</p>
-<p>• Godwin, au contraire, <img class="img-in-text-right-bigger" src="img/cartwright.png"/>peut prêcher son Anarchie (le Suffrage étendu à tous au point d’abolir le Jury, réduit au rôle d’Arbitre) en s’appuyant sur le Radicalisme anglais le plus Moderne, celui issu du Major CARTWRIGHT (1774).</p>
+<p>• Babeuf ne trouve à se référer qu’à SPARTE chez les Anciens, ce qu’il y a de plus archaïque dans notre passé civilisé, de plus proche de la société Parentale primitive. Babeuf prend même à Sparte ce qu’il y a de quasi-mythique, l’exemple de Lycurgue.<img class="img-in-text-right" src="img/lycurgue.jpg"/><p> Alors que la Sparte “historique” ne connut pas de vrais Esclaves, mais les Ilotes restés énigmatiques pour les historiens. Alors que Sparte méprise Athènes, qu’elle dit peuplée de “bavards”. Alors que la Bible juive revendique une “parenté” avec Sparte, et que Sparte sera glorifiée par les Nazis.</p>
+<p>• Godwin, au contraire, <img class="img-in-text-right-bigger" src="img/cartwright.jpg"/>peut prêcher son Anarchie (le Suffrage étendu à tous au point d’abolir le Jury, réduit au rôle d’Arbitre) en s’appuyant sur le Radicalisme anglais le plus Moderne, celui issu du Major CARTWRIGHT (1774).</p>
 
 <p>__________________________</p>
 
@@ -122,8 +122,8 @@ ordonnent et exécutent tout à la fois” (cf. Marx : Commune de Paris).</p>
 
 </div>				  
 <div id="two">
-				  <img class="image" src="img/jeanne-dalbret.png"/>
-				  <img class="image" src="img/primitif-civilises.png"/>
+				  <img class="image" src="img/jeanne-dalbret.jpg"/>
+				  <img class="image" src="img/primitif-civilises.jpg"/>
 				  <img class="image" src="img/feu_la_civilisation_ed.jpg"/>
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Feu_la_Civilisation_ed.pdf" target="_blank"> "Feu la Civilisation"</a>
 				  

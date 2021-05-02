@@ -17,7 +17,7 @@ règle générale de conduite. »</p>
 				  <p>__________________________</p>
 
 				  <p>« Quant aux bêtes, 
-elles n’ont rien de pareil :<img class="img-in-text-right" src="img/foin.png"/>
+elles n’ont rien de pareil :<img class="img-in-text-right" src="img/foin.jpg"/>
 n’ayant ni intelligence ni volonté,
 elles ne sauraient faire le mal. 
 À ceux qui lui objectaient qu’on 

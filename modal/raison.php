@@ -57,7 +57,7 @@ perdent la raison ! »</p>
 
 			  <p>__________________________</p>
 
-			  <img class="image" src="img/foi-raison2.png"/>
+			  <img class="image" src="img/foi-raison2.jpg"/>
 
 			  
 

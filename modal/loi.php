@@ -5,7 +5,7 @@
 			  
 
 
-			  <p>« <i>Dieu étant maître des Rois (..) <b>la loi de Dieu</b> a toujours été une borne. (Les) Rois<img class="img-in-text-right-bigger" src="img/richelieu.png"/>
+			  <p>« <i>Dieu étant maître des Rois (..) <b>la loi de Dieu</b> a toujours été une borne. (Les) Rois<img class="img-in-text-right-bigger" src="img/richelieu.jpg"/>
 doivent plus que tous les autres agir par raison. (..) Un Roi qui a les mains nettes, le
 coeur pur et la langue innocente, n’a pas peu de vertu. (..) J’ai toujours estimé que tel
 défaut, blâmable en toute sorte de personne, est une dangereuse imperfection aux
@@ -43,13 +43,13 @@ peuvent arriver ;</i></p>
 Ils se trouveront bien plus coupables que ceux qui transgresseront les lois. (..)
 Beaucoup se sauveraient comme personnes privées, qui se damnent comme
 personnes publiques.</i></p>
-<p style="text-align:right;">Richelieu, Testament Politique (1637)</p><img class="img-in-text-left" src="img/almamoun.png"/>
+<p style="text-align:right;">Richelieu, Testament Politique (1637)</p><img class="img-in-text-left" src="img/almamoun.jpg"/>
 <p style="text-align:center;"><b>________</b></p>
 <p><i>Toutes <b>les révoltes</b> qui se sont produites ont été causées par les injustices
 commises par les gouverneurs.</i></p>
 <p style="text-align:right;">Al-Ma’mün (813/833)</p>
 <p style="text-align:center;"><b>________</b></p>
-<p><i>Si vous mettez, me disait-il, les peuples dans l’abondance, ils ne travailleront<img class="img-in-text-right" src="img/fenelon.png"/>
+<p><i>Si vous mettez, me disait-il, les peuples dans l’abondance, ils ne travailleront<img class="img-in-text-right" src="img/fenelon.jpg"/>
 plus ; ils deviendront fiers, indociles, et seront toujours prêts à se révolter. Il n’y a
 que la faiblesse et la misère qui les rende souples et qui les empêche de résister à
 l’autorité.</i></p>

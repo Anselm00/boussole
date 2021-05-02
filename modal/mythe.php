@@ -5,7 +5,7 @@
 			  
 			  <p>« La clef du caractère anormal de l’importance donnée au <a href="http://www.parti-masculin.org/pdf/Judaïsme_Vs_Sionisme_erm-r.pdf" target="_blank">judaïsme</a>, et que traduit l’expression de civilisation “judéo-chrétienne”, n’est pas difficile à découvrir.</p>
 <p>Il n’est pas scandaleux, mais au contraire inévitable et fascinant, que le spiritualisme civilisé se donne un “Ancien Testament” ayant pour origine le Matérialisme primitif. La <a class="modal-trigger " href="#religion">Religion</a> doit vouloir posséder un fond qui échappe à l’Histoire, revendiquer et “nier” en même temps son passé Mythique.</p>
-<p>L’Hellénisme Jupitérien nous donne une expression simple du Mythe matérialiste adopté comme soubassement du Dogme <img class="img-in-text-left" src="img/pisistrate.png"/>spiritualiste, quand Pisistrate (-560) collecte, transcrit et ordonne l’Iliade d’HOMÈRE, pour faire de cette épopée rapsodique la Préface de la Théogonie d’<a href="https://www.eglise-realiste.org/pdf/Hesiode_ed.pdf" target="_blank">Hésiode</a>. Ainsi, le propre Mythe des grecs sera fondateur de la religion de Zeus. »</p>
+<p>L’Hellénisme Jupitérien nous donne une expression simple du Mythe matérialiste adopté comme soubassement du Dogme <img class="img-in-text-left" src="img/pisistrate.jpg"/>spiritualiste, quand Pisistrate (-560) collecte, transcrit et ordonne l’Iliade d’HOMÈRE, pour faire de cette épopée rapsodique la Préface de la Théogonie d’<a href="https://www.eglise-realiste.org/pdf/Hesiode_ed.pdf" target="_blank">Hésiode</a>. Ainsi, le propre Mythe des grecs sera fondateur de la religion de Zeus. »</p>
 
 <p>__________________________</p>
 

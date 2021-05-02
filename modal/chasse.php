@@ -48,7 +48,7 @@ décisive sur <b>l’auto-développement</b> de l’homme. “L’homme n’est 
 sans régime carné” (Engels). Ce qui est au plus haut point caractéristique de l’évolution
 humaine, c’est que plus l’homme devenait “carnassier”, plus il perdait ses traits
 simiesques.</p>
-<img class="img-in-text-left" src="img/pithecanthrope.png"/><p>Le Pithécanthrope au front fuyant, aux maxillaires saillants, marchant le dos voûté en
+<img class="img-in-text-left" src="img/pithecanthrope.jpg"/><p>Le Pithécanthrope au front fuyant, aux maxillaires saillants, marchant le dos voûté en
 pliant les genoux, laisse la place, il y a 100 000 ans, à l’homme de Neandertal dont le
 cerveau a le volume de celui de l’homme moderne (1 300 cm³). Les hommes achevés, ou
 Néanthropes, apparaissent enfin il y a moins de 50 000 ans ; ils sont dotés de la voûte

@@ -117,7 +117,7 @@ _____________
 <p>__________________________</p>
 
 
-			  <img class="image" src="img/religion.png"/>
+			  <img class="image" src="img/religion.jpg"/>
 
 			</div>
 			<div class="modal-footer">

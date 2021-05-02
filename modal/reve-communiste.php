@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Rêve Communiste</h4>
 			  
-			  <img class="image" src="img/je-suis-je-suis.png"/>
+			  <img class="image" src="img/je-suis-je-suis.jpg"/>
 
 
 			  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Livret_ed.pdf" target="_blank"> "Livret de l'ERM"</a>, p.42 - Freddy Malot - juillet 2000 - augmenté en mai 2004 - Editions de l'Evidence - 2012</p>

@@ -9,7 +9,7 @@ Immédiatement après, il faut préciser : ce n’est point en recourant à la <
 Terre ; mais précisément par l’<b><u>Observance</u></b> (matérialiste), qui en est le contraire direct.
 On a ainsi :</p>
 
-<img class="image" src="img/evidence.png"/>
+<img class="image" src="img/evidence.jpg"/>
 
 <p>__________________________</p>
 

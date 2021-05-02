@@ -4,7 +4,7 @@
 			  <h4>Théorie</h4>
 			  
 			  « Le Credo de l’ERM est mieux dit <b>Théorie Évidente</b>, pour le distinguer du Mythe matérialiste
-qui invoque le Secret, et du Dogme spiritualiste qui invoque le Mystère.</p><img class="img-in-text-right" src="img/dede.png"/>
+qui invoque le Secret, et du Dogme spiritualiste qui invoque le Mystère.</p><img class="img-in-text-right" src="img/dede.jpg"/>
 Notre Théorie comprend 2 volets mutuellement Cohérents : le Réalisme Vrai pour <b>le Mode de
 Pensée</b>, et le Comm-Anar pour le <b>Régime Social</b>. Le très-cher <b>Dom Deschamps</b> (1772) disait :
 Vérité Métaphysique d’une part et Vérité Morale d’autre part.

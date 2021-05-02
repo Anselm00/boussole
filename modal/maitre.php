@@ -4,7 +4,7 @@
 			  <h4>Maître</h4>
 			  
 			  <p>« Que fut l’avènement de l’Occident civilisé ? Le “miracle grec” consista avant tout
-dans la proclamation fondatrice du règne de Dieu sous le nom de ZEUS, ce qui veut<img class="img-in-text-left" src="img/zeus.png"/>
+dans la proclamation fondatrice du règne de Dieu sous le nom de ZEUS, ce qui veut<img class="img-in-text-left" src="img/zeus.jpg"/>
 dire Lumière Supérieure Intelligible (tel est le sens du mot grec Zevs).
 Quel tournant historique immense ! Pensons qu’à partir de l’adoration déclarée de
 Zeus, l’humanité se trouva irréversiblement partagée en “grecs et barbares”. C’était

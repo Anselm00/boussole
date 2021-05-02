@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Etat</h4>
 			  
-			  <p><b>« Qu’était donc la souveraineté au sens proprement civilisé du terme ?</b></p> <img class="img-in-text-right-bigger" src="img/souverainete.png"/>
+			  <p><b>« Qu’était donc la souveraineté au sens proprement civilisé du terme ?</b></p> <img class="img-in-text-right-bigger" src="img/souverainete.jpg"/>
 <p>• <b>Envisagée d’une manière générale</b>, la notion de Souveraineté désigne la
 forme d’organisation sociale qui a succédé au communisme primitif. Durant les
 quelques 25 siècles qui embrassent l’ère civilisée, cette forme d’organisation sociale

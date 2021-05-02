@@ -51,21 +51,21 @@ Lyon 3ème/6ème.</p>
 <p style="text-align:center;"><b>__________________________</b></p>
 
 <p style="text-align:center;"><b>3 juillet 2017</b></p>
-<img class="image" src="img/reel-vrai-arabe-dossier_proces.png"/>
+<img class="image" src="img/reel-vrai-arabe-dossier_proces.jpg"/>
 <p style="text-align:center;font-size:35px">RÉEL-VRAI surpasse tout !</p>
 <p style="text-align:center;">Freddy Malot</p>
 <p style="text-align:center;"><b>__________________________</b></p>
 <p>voir <a href="https://www.eglise-realiste.org/pdf/Proces_3_07_2017.pdf" target="_blank">"Recueil Procès"</a> de Freddy, Fils de Dom Deschamps - Editions de l'Evidence</p>
 <p style="text-align:center;"><b>__________________________</b></p>
 
-<img class="img-in-text-align:center" src="img/marat.png"/>
+<img class="img-in-text-align:center" src="img/marat.jpg"/>
 
 <p style="text-align:center;font-size:22px"><b>Marat</b></p>
 
 
 <p style="text-align:center;"><b>__________________________</b></p>
 
-<img class="image" src="img/systeme-babel-occident.png"/>
+<img class="image" src="img/systeme-babel-occident.jpg"/>
 
 
 

@@ -14,7 +14,7 @@ la Foi et la Raison.</p>
 				  elle consiste dans le fait que la Raison <b>RELATIVE 
 				  de l’Homme</b> – cette raison faible, qui peut 
 				  dérailler, ou au moins douter d’elle-même – 
-				  si elle est conséquente, est conduite à découvrir <img class="img-in-text-right" src="img/leroux.jpg.png"/>
+				  si elle est conséquente, est conduite à découvrir <img class="img-in-text-right" src="img/leroux.jpg"/>
 				  ses limites, et à s’incliner ELLE-MÊME devant une Raison 
 				  supérieure à la sienne, une Raison ABSOLUE.
 				  <p>Comme disait un Ami du Peuple :</p>
@@ -33,7 +33,7 @@ Et si la Raison a la prétention de trancher, la Foi n’en n’est nullement at
 <p>2- Et un Sommet, la Foi, qui a été nécessaire pour “surmonter” l’infirmité de la Raison. »</p>
 <p>__________________________</p>
 
-<img class="image" src="img/foi-raison.png"/>
+<img class="image" src="img/foi-raison.jpg"/>
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Religion_ed.pdf" target="_blank"> "Religion"</a>, p.35 - avril 2005  - Fredy Malot - Editions de l'Evidence - 2010</p>
 			  

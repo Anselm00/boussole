@@ -40,7 +40,7 @@
 	
 	<p>__________________________</p>
 
-	<img class="image" src="img/fecondite-travail.png"/>
+	<img class="image" src="img/fecondite-travail.jpg"/>
 
 
 <p>__________________________</p>
