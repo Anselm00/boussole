@@ -2,7 +2,7 @@
 <div id="frere" class="modal">
 			<div class="modal-content">
 			  <h4>Frère</h4>
-			  <img class="img-in-text-right" src="img/freres-scythes.png"/>
+			  <img class="img-in-text-right" src="img/freres-scythes.jpg"/>
 			  <p> « Sous le Matriarcat Parental, on exaltait l’<b>Égalité Fraternelle</b> (“Adelphique”, en grec, englobe
 soeurs et frères… car Adolphe est frère UTÉRIN ! Delphys – δελФυς = matrice) ; mais au prix de
 ravaler la Liberté.</p>

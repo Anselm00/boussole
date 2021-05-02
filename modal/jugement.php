@@ -1,7 +1,7 @@
 <!-- Modal Structure -->
 <div id="jugement" class="modal  modal-fixed-footer">
 			<div class="modal-content">
-			<img class="img-on-text" src="img/divinite.png"/>
+			<img class="img-on-text" src="img/divinite.jpg"/>
 			  <h4>Jugement</h4>
 			  
 			  <p><b>I - J U G E M E N T S</b>
@@ -32,7 +32,7 @@
 <p>__________________________</p>
 
 				
-			<img class="img-in-text-left" src="img/croissant.png"/> <p>Omar (que Dieu soit satisfait de lui) a dit encore :</p>
+			<img class="img-in-text-left" src="img/croissant.jpg"/> <p>Omar (que Dieu soit satisfait de lui) a dit encore :</p>
 <p>Un jour, nous étions assis en conférence chez l’Envoyé de Dieu (à lui bénédiction et salut), et voici que se présenta à nous un homme vêtu d’habits d’une blancheur resplendissante, et aux cheveux très noirs. On ne pouvait distinguer sur lui une trace de voyage, alors que personne d’entre nous ne le connaissait.</p>
 <p>Il prit alors place en face du Prophète (à lui bénédiction et salut). Il plaça ses genoux contre les siens, et posa les paumes de ses mains sur les cuisses de celui-ci, et lui dit :</p>
 <p>“O Moh’ammed, fais-moi connaître l’Islam”. L’Envoyé de Dieu (à lui bénédiction et salut) dit alors :</p>

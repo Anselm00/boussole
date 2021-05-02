@@ -11,7 +11,7 @@
 				
 				<p>__________________________</p>
 
-				<img class="image" src="img/travail-fecondite.png"/>
+				<img class="image" src="img/travail-fecondite.jpg"/>
 				<p>__________________________</p>
 
 				<p>Voir<a href="https://www.eglise-realiste.org/pdf/Menage_Prive_ed.pdf" target="_blank"> "Ménage Privé"</a>, p.29 - Freddy Malot- mars 1999 - Editions de l'Evidence - 2010</p>

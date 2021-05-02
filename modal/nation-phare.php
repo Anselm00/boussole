@@ -73,7 +73,7 @@ métallique, <b>il n’y eut jamais qu’une Nation-Phare</b> : la France ou l�
 <p>__________________________</p>
 
 <p style="text-align:center;font-size:44px;"><b>Adam Weishaupt</b></p>
-<p style="text-align:center;"><b>(1748-1830)</b></p><img class="img-in-text-left" src="img/weishaupt.png"/>
+<p style="text-align:center;"><b>(1748-1830)</b></p><img class="img-in-text-left" src="img/weishaupt.jpg"/>
 <p>« L’évolution sera parvenue à son dernier stade quand les hommes
 auront appris à modérer leurs désirs, car “avoir peu de besoins
 est le premier pas vers la liberté, c’est pourquoi les sauvages

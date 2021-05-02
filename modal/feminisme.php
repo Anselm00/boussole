@@ -5,9 +5,9 @@
 			  
 			  <p>« La société Préhistorique, Matriarcale puis Maritale ; Féministe puis
 Masculiniste est <b>à présent enfin comprise</b> par notre ERM-TNP. Ne parlons pas de leur
-décadence. Dans leur règne Vivant-Orthodoxe, chacune introduisait une faille : un aspect<img class="img-in-text-left" src="img/arc-antique.png"/>
+décadence. Dans leur règne Vivant-Orthodoxe, chacune introduisait une faille : un aspect<img class="img-in-text-left" src="img/arc-antique.jpg"/>
 marginal ARTIFICIEL. Le nécessaire élément a-normal se trouvait dans leur Constitution :
-la première les ARMES ; la seconde l’ARGENT (la monnaie). Ces 2 composantes étaient<img class="img-in-text-right" src="img/drachme.png"/>
+la première les ARMES ; la seconde l’ARGENT (la monnaie). Ces 2 composantes étaient<img class="img-in-text-right" src="img/drachme.jpg"/>
 positives, constituaient des <b>leviers sociaux indispensables</b> pour que les ères Parentale et 
 Bourgeoise puissent se développer du Simple au Pur. Or, pour établir la Société Convenable, 
 il n’est besoin que d’éliminer <b><u>la CHASSE et le SACRIFICE</u></b> (Armée) et <b><u>la

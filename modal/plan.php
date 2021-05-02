@@ -4,7 +4,7 @@
 			  <h4>Plan</h4>
 			  
 			  
-				<img class="image" src="img/territoires_et_taches.png"/>
+				<img class="image" src="img/territoires_et_taches.jpg"/>
 				<p>__________________________</p>
 
 				<p>Voir<a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Programme-Platform.pdf" target="_blank"> Tableau «TERRITOIRES ET TÂCHES»</a> - Manuel Programme de Société Convenable - p.90 - Talib Freddy - 2012</p>

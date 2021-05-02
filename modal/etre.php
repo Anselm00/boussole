@@ -26,8 +26,8 @@ l’intelligence du Monde donnée dans la perspective du Système des Corps. »<
 <p>__________________________</p>
 
 
-			<img class="image" src="img/ontologie.png"/>
-			<img class="image" src="img/ontologie2.png"/>	 
+			<img class="image" src="img/ontologie.jpg"/>
+			<img class="image" src="img/ontologie2.jpg"/>	 
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Principe_de_Raison_ed.pdf" target="_blank"> "Le Principe de Raison"</a>, p.81,82 - 1999-2000 - Freddy Malot - Editions de l'Evidence</p>
 

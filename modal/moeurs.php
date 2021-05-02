@@ -2,7 +2,7 @@
 <div id="moeurs" class="modal">
 			<div class="modal-content">
 			  <h4>Moeurs</h4>
-			  <img class="img-in-text-right" src="img/dom-deschamps.png"/>
+			  <img class="img-in-text-right" src="img/dom-deschamps.jpg"/>
 			  <p>« Le cri de la vérité morale (sociale) consiste à voir l’histoire toute 
 				  entière comme trois étapes de développement : l’état sauvage, l’état de lois et l’état de moeurs. »</p>
 

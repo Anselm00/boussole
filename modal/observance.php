@@ -39,7 +39,7 @@ est le contraire d’une (!) religion ? C’est une Observance (SHEMYRAH) Matér
 
 <p>__________________________</p>
 
-<img class="img-in-text-left-bigger" src="img/neturei-karta.png"/>
+<img class="img-in-text-left-bigger" src="img/neturei-karta.jpg"/>
 
 
 

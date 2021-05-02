@@ -14,7 +14,7 @@ décompose la question :</p>
 <p>- Nous n’avons pas, actuellement, l’homme convenable pour relever le défi que
 nous lance <b>notre</b> époque. Et nous <b>nous</b> faisons homme convenable, nous
 dépouillons le vieil homme, en même temps que nous empoignons la question sociale posée, et que nous la résolvons. C’est en forgeant qu’on devient forgerons. Aide-toi, le
-<img class="img-in-text-left" src="img/forge.png"/>ciel t’aidera. C’est le singe lui-même qui a fait de ses quatre membres des pieds et
+<img class="img-in-text-left" src="img/forge.jpg"/>ciel t’aidera. C’est le singe lui-même qui a fait de ses quatre membres des pieds et
 mains terminant des jambes et des bras. Car le singe initial n’était pas vraiment
 “quadrumane”, ses mains finales n’étant plus les mêmes qu’au début. La situation
 “immédiate” est la suivante : contre la société de Mort qu’il me faut à tout prix

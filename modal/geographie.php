@@ -3,13 +3,13 @@
 			<div class="modal-content">
 			  <h4>Géographie</h4>
 			  
-			  <p> « En ce qui concerne les salariés et les peuples, seules les circonstances les font “appartenir” à </b><img class="img-in-text-right" src="img/napoleonIII.png"/>
+			  <p> « En ce qui concerne les salariés et les peuples, seules les circonstances les font “appartenir” à </b><img class="img-in-text-right" src="img/napoleonIII.jpg"/>
 				  un camp ou un autre, selon le pur hasard de la géographie. Ils ne sont aucunement en 
 				  situation de “choisir” et ils sont eux seuls les victimes réelles de la polarisation 
 				  </b><img class="img-in-text-left" src="img/bismarck.jpg"/>qui s’est produite. Les salariés et les peuples n’ont pas eu le choix, en 1870 entre 
 				  Napoléon III et Bismarck ; en 1914 entre Guillaume II et Lloyd George ; en 1940 entre 
 				  Hitler et Roosevelt. Ils n’auront pas le choix dans la polarisation, plus vaste encore, 
-				  réellement “mondiale” cette fois, qui se dessine à présent, sur les ruines de l’ordre “onusien” </b><img class="img-in-text-right" src="img/kif-kif.png"/>
+				  réellement “mondiale” cette fois, qui se dessine à présent, sur les ruines de l’ordre “onusien” </b><img class="img-in-text-right" src="img/kif-kif.jpg"/>
 				  établi en 1945. Le seul choix propre des salariés et des peuples ne peut être que de refuser 
 				  en commun de s’associer à l’autodestruction de la civilisation, en faisant prévaloir, dans des 
 				  formes seulement distinctes selon leur “domicile” du moment, la cause unique de la République Sociale. »</p>
@@ -19,14 +19,14 @@
 <p>__________________________</p>
 
 				  <p>« Le phénomène de “blocage” de la pensée civilisée se manifesta clairement avec
-l’“éclectisme” de Victor Cousin et Jouffroy, à la veille de 1848. Nous savons que le</b><img class="img-in-text-left" src="img/cousin.png"/>
+l’“éclectisme” de Victor Cousin et Jouffroy, à la veille de 1848. Nous savons que le</b><img class="img-in-text-left" src="img/cousin.jpg"/>
 mode de pensée philosophique fut la forme de travail mental que se donna l’humanité
 civilisée, et qu’elle forgea laborieusement tout au long de cette étape prolongée de
 l’histoire sociale. Or, avec l’Éclectisme on prétendit présenter le philosophisme
 comme un pur instinct des hommes, relevant de l’histoire naturelle de l’espèce
 humaine. Dès lors, on proclamait du haut des chaires officielles que le véritable
 aliment de l’esprit était le préjugé philosophique lui-même, que la grande tâche de la
-philosophie était de se mordre la queue. Cousin s’imposa comme le grand maître de<img class="img-in-text-right" src="img/jouffroy.png"/>
+philosophie était de se mordre la queue. Cousin s’imposa comme le grand maître de<img class="img-in-text-right" src="img/jouffroy.jpg"/>
 cette gymnastique philosophique. Le “truc” consistait à proposer une visite guidée de
 la philosophie à travers les siècles, dans le but de démontrer que les philosophes n’avaient 
 cessé de faire du sur-place ; que, pour ce faire, ils avaient joué à s’affronter
@@ -36,7 +36,7 @@ maillots. Ainsi, au nom de l’histoire, la Philosophie trouvait un dernier pré
 s’agiter. En réalité, et c’est ce qui se passe dans tous les musées, l’histoire était
 devenue de la géographie. L’Éclectisme n’était que la philosophie se complaisant dans
 son épuisement.</p>
-<img class="img-in-text-left" src="img/lamennais.png"/>Lamennais et Pierre Leroux s’insurgèrent à juste titre contre l’entreprise
+<img class="img-in-text-left" src="img/lamennais.jpg"/>Lamennais et Pierre Leroux s’insurgèrent à juste titre contre l’entreprise
 éclectique de construction d’un mausolée de la philosophie, entreprise qu’ils
 stigmatisèrent sous le nom d’“Indifférentisme”. En effet, le somptueux monument
 funéraire que l’éclectisme érigeait constituait la pire insulte pour toute la lignée des

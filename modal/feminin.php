@@ -2,7 +2,7 @@
 <div id="feminin" class="modal">
 			<div class="modal-content">
 			  <h4>Feminin</h4>
-			  <img class="img-in-text-right" src="img/club-femme-1848.png"/>
+			  <img class="img-in-text-right" src="img/club-femme-1848.jpg"/>
 			  <p>« 1/ La question de la femme est évidemment aussi celle du <b>Ménage</b>. Or, ce dernier est la “cellule
 fondamentale” revendiquée de la société Bourgeoise. Le problème conduit donc à introduire dans la
 cause l’ensemble de l’ordre Civilisé.</p>
@@ -21,14 +21,14 @@ féminine dans notre Occident dégénéré depuis 1835. C’est au contraire de 
 cruelle des anti-droits portés à leur comble que le “Sexe” souffre actuellement.
 Dans tous les domaines, la femme n’a eu droit sous la Caste barbare dominante qu’à des cadeaux
 <b>empoisonnés</b> semant le malheur : droit de Vote, régime Matrimonial légal, Capacité juridique
-(action en justice, disposition des biens), liberté Professionnelle, Puissance maritale et paternelle,<img class="img-in-text-right" src="img/mlf.png"/>
+(action en justice, disposition des biens), liberté Professionnelle, Puissance maritale et paternelle,<img class="img-in-text-right" src="img/mlf.jpg"/>
 Divorce, Contraception-Avortement, Prostitution.</p>
 <p>4/ Le P.F. est tout d’abord l’instrument Vital – et le seul fiable – de destruction de la <b>Bestialité
 Sexuelle</b> (B.S.) en vigueur et portée aux nues par le Paganisme dominant (“laïcité”). La B.S. est tout
 simplement la putréfaction du Maritalat civilisé, organisée par l’Occident depuis 1835.</p>
 <p>Le combat d’anéantissement de la B.S. est rien moins que de Salut Public. Il impose au Parti
 Féminin l’article 1er de son programme : “mise sur pied de <b>bataillons</b> féminins de Garde Nationale”
-(civils de quartiers et villages). La lèpre multiforme de la Pornographie (sexshops, spectacles, média,<img class="img-in-text-left" src="img/valerie-scum.png"/>
+(civils de quartiers et villages). La lèpre multiforme de la Pornographie (sexshops, spectacles, média,<img class="img-in-text-left" src="img/valerie-scum.jpg"/>
 pubs…) ; les harcèlements, viols et meurtres de filles et femmes, par les obsédés gavés de slip-analyse ;
 l’horreur des “travailleuses du sexe” (fiscalisées en BNC !) tout cela doit être expéditivement rayé de
 la carte.</p>
@@ -49,8 +49,8 @@ des ♂ : Society to Cut Up Men).»</p>
 				  
 				  <p>__________________________</p>
 
-				  <img class="image" src="img/six-copines.png"/>
-				  <img class="image" src="img/maids-vs-gporcs.png"/>
+				  <img class="image" src="img/six-copines.jpg"/>
+				  <img class="image" src="img/maids-vs-gporcs.jpg"/>
 
 
 			</div>

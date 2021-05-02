@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Marché</h4>
 			  
-			  <p>« Sahlins :<img class="img-in-text-right" src="img/paleo.png"/>
+			  <p>« Sahlins :<img class="img-in-text-right" src="img/paleo.jpg"/>
 <p>“Les hommes paléolithiques ignorent <b>l’obsession de la Rareté</b> qui est caractéristique de l’économie de marché. L’économie de chasse et de cueillette (et ramassage) <b>mise systématiquement sur l’Abondance”</b>.</p>
 <p>“L’ère de la famine sans précédent, c’est la nôtre”. “<b>La pauvreté est une invention de la civilisation</b>”.</p>
 <p><b>Sahlins cite Marx</b>, qui s’attaque à Destutt de Tracy, l’économiste-vedette de la Libre-Pensée, exécré par Napoléon (les “idéologues”). Marx appelle Destutt un “doctrinaire bourgeois à sang de poisson”. Il ajoute : “dans les nations pauvres, les gens sont à leur aise, alors que dans les nations riches, ils sont généralement pauvres” (c’est-à-dire la masse). »</p>
@@ -24,8 +24,8 @@
 
 
 
-				  <img class="image" src="img/marche-etat-2.png"/>
-				  <img class="image" src="img/marche-etat-3.png"/>
+				  <img class="image" src="img/marche-etat-2.jpg"/>
+				  <img class="image" src="img/marche-etat-3.jpg"/>
 
 			</div>
 			<div class="modal-footer">

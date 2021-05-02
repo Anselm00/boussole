@@ -3,9 +3,9 @@
 			<div class="modal-content">
 			  <h4>Peuple Humain</h4>
 			  
-			  <img class="image" src="img/peuple-humain_page_1.png"/>
-			  <img class="image" src="img/peuple-humain_page_2.png"/>
-			  <img class="image" src="img/peuple-humain_page_3.png"/>
+			  <img class="image" src="img/peuple-humain_page_1.jpg"/>
+			  <img class="image" src="img/peuple-humain_page_2.jpg"/>
+			  <img class="image" src="img/peuple-humain_page_3.jpg"/>
 <p>__________________________</p>
 
 				  

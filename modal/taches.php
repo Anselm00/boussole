@@ -23,7 +23,7 @@ les handicapés, accidentés et malades. »</p>
 
 <p>__________________________</p>
 			 <p>"Notre Epoque et nos Tâches"</p>
-			  <img class="image" src="img/taches.png"/>
+			  <img class="image" src="img/taches.jpg"/>
 
 <p>__________________________</p>
 

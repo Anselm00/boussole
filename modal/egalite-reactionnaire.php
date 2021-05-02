@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Egalité Réactionnaire</h4>
 			  
-			  <img class="image" src="img/egalite-reactionnaire.png"/>
+			  <img class="image" src="img/egalite-reactionnaire.jpg"/>
 <p>__________________________</p>
 
 				  

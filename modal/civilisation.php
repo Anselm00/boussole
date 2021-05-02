@@ -30,22 +30,22 @@ deux choses sont déterminantes : Dieu et l’Âme des hommes. »<p>
 			  
 				  <p>__________________________</p>
 
-				  <img class="image" src="img/kepler.png"/>
+				  <img class="image" src="img/kepler.jpg"/>
 				  
-				  <img class="image" src="img/kepler1.png"/>
+				  <img class="image" src="img/kepler1.jpg"/>
 
-				  <img class="image" src="img/kepler2.png"/>
+				  <img class="image" src="img/kepler2.jpg"/>
 				  <p>__________________________</p>
 
 				 
-				  <img class="image" src="img/paiens-clericaux.png"/>
+				  <img class="image" src="img/paiens-clericaux.jpg"/>
 				  
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Societe_Politique_ed.pdf" target="_blank"> "La Société Politique"</a>, p.3 - Talib Freddy - 2005 - Editions de l'Evidence</p>
 
 				  <p>__________________________</p>
 
 		<img class="image" src="img/civilisation.jpg"/>
-		<img class="image" src="img/civilisation-2.png"/>		  
+		<img class="image" src="img/civilisation-2.jpg"/>		  
 		<p>__________________________</p>
 		<p>Voir <a href="https://www.eglise-realiste.org/pdf/Manuel-Handbook_Documents.pdf" target="_blank"> "Manuel Programme du Comm-Anar, II - Documents"</a>, p.57(126) - Talib Freddy - 2006
 
