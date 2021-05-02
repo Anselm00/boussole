@@ -14,8 +14,6 @@
 
     <body>
 
-	<div class="fond"></div>
-
   <nav class="nav-wrapper white" data-target="blue" style="    position: absolute;    box-shadow: none;
     z-index: 2;">
     <div class="nav-wrapper transparent">

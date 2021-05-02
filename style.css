@@ -135,13 +135,6 @@ h1 {
     transition-duration: 2.75s;
 }
 
-
-
-@font-face {
-    /* not working font-family: "FrenchScriptMT";
-    not working src: url("FrenchScriptMT.ttf") format("ttf"); */
-   }
-
 nav #nav-mobile a {
     /* font-family: 'FrenchScriptMT';  */
     font-size: 1.5em !important;
@@ -187,7 +180,7 @@ div.modal span {
     background: url(img/logo_home.png) no-repeat 50% 50%;
     background-size: 6%;
     border-radius: 1500px;
-    padding: 8%;
+    padding: 10%;
     /* border: solid 2px black; */
     /* box-shadow: 0px 0px 37px black; */
 }
@@ -214,7 +207,7 @@ div.modal {
 }
 
 .compass {
-    background: url(img/compass.svg) no-repeat 50% 54%;
+    background: url(img/compass.png) no-repeat 50% 54%;
     background-size: 100%;
     margin:2%;
 }
