@@ -229,8 +229,11 @@ complètement cachés en Ce-monde
 				  
 
 				  <p>Voir <a href="https://www.eglise-realiste.org/pdf/Etude_Abrege_ERM-Kant_ed.pdf" target="_blank"> "Etude de l'Abrégé de la Religion de Kant"</a> - Talib Freddy - mai 2008 - Eglise Réaliste Mondiale - Editions de l'Evidence - 2015</p>
-			  
+				  <p>__________________________</p>
+				    
+				  <p>Voir aussi <a href="https://www.eglise-realiste.org/pdf/Obligés_ed.pdf" target="_blank"> "Obligés ?"</a> - Aîné de Dom Deschamps - juin 2020</p>
 
+				  
 			</div>
 			<div class="modal-footer">
 			  <a href="#!" class="modal-close waves-effect waves-green btn-flat">Vu</a>

@@ -4,7 +4,7 @@
 			  <h4>Union sociale</h4>
 			  
 			  <p>« <b><u>Le “but final”</u></b> détermine la “tâche immédiate”. Ce vieux principe philosophique est de première
-importance. Et l’E.R.M. lui donne une puissance Impartiale toute nouvelle1.</p>
+importance. Et l’E.R.M. (Eglise Réaliste Mondiale) lui donne une puissance Impartiale toute nouvelle.</p>
 La prospective concernant le but final de la Société Convenable (S.C.) <b>ne suppose qu’une
 chose</b> : que ni l’état de notre Soleil, ni la démence de la B.I.D. (Barbarie Intégrale Dominante) n’aient rendu la Terre inhabitable – à
 son heure ou prématurément.</p>
