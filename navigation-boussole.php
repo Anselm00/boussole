@@ -7,8 +7,8 @@
 	
 
 
-<h1 style="    font-family: 'FrenchScriptMT';font-style: italic;
-	font-size: 160px;"><span style="    font-family: 'EdwardianScriptITC';font-style: initial;">Culture</span> Réaliste Vraie</h1>
+<h1 style="    font-family: 'EdwardianScriptITC';font-style: italic;
+	font-size: 160px;"><span style="    font-family: 'FrenchScriptMT';font-style: initial;">Cadran Social</span> Naturel</h1>
 
 <hr>
 
