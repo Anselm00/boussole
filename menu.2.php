@@ -23,6 +23,7 @@ $array = array(
     " citoyen",
     " civilisation",
     " comm-anar",
+    " communaute",
     " contrat",
     " convenable",
     " coutumes",
@@ -93,6 +94,7 @@ $array = array(
     " materialiste",
     " matiere-esprit",
     " matriarcat",
+    " matrice",
     " memoire",
     " meneur",
     " mere-fondamentale",
@@ -165,6 +167,7 @@ $array = array(
     " tranquille",
     " travail-fecondite",
     " union-planetaire",
+    " vertu",
     " voiant",
     " volontariat-gratuite");
 

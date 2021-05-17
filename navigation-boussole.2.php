@@ -119,6 +119,7 @@
 <?php require('modal/citoyen.php');?>
 <?php require('modal/civilisation.php');?>
 <?php require('modal/comm-anar.php');?>
+<?php require('modal/communaute.php');?>
 <?php require('modal/contrat.php');?>
 <?php require('modal/convenable.php');?>
 <?php require('modal/coutumes.php');?>
@@ -191,6 +192,7 @@
 <?php require('modal/materialiste.php');?>
 <?php require('modal/matiere-esprit.php');?>
 <?php require('modal/matriarcat.php');?>
+<?php require('modal/matrice.php');?>
 <?php require('modal/memoire.php');?>
 <?php require('modal/meneur.php');?>
 <?php require('modal/mere.php');?>
@@ -266,6 +268,7 @@
 <?php require('modal/tranquille.php');?>
 <?php require('modal/travail-fecondite.php');?>
 <?php require('modal/union-sociale.php');?>
+<?php require('modal/vertu.php');?>
 <?php require('modal/voiant.php');?>
 <?php require('modal/volontariat-gratuite.php');?>
 <?php require('modal/voue.php');?>

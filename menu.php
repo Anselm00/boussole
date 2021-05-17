@@ -24,6 +24,7 @@
 <li><a class="modal-trigger vmv" href="#citoyen">Citoyen</a></li>
 <li><a class="modal-trigger electre" href="#civilisation">Civilisation</a></li>
 <li><a class="modal-trigger electre" href="#comm-anar">Comm-Anar</a></li>
+<li><a class="modal-trigger electre" href="#cmmunaute">Communauté</a></li>
 <li><a class="modal-trigger electre" href="#contrat">Contrat</a></li>
 <li><a class="modal-trigger electre" href="#convenable">Convenable</a></li>
 <li><a class="modal-trigger electre" href="#coutumes">Coutumes</a></li>
@@ -187,6 +188,7 @@
 <div>U</div>
 <li><a class="modal-trigger vmv" href="#union-sociale">Union Sociale</a></li>
 <div>V</div>
+<li><a class="modal-trigger vmv" href="#vertu">Vertu</a></li>
 <li><a class="modal-trigger vmv" href="#voiant">Voïant</a></li>
 <li><a class="modal-trigger electre" href="#volontariat-gratuite">Volontariat-Gratuité</a></li>
 <li><a class="modal-trigger vmv" href="#voue">Voué</a></li>

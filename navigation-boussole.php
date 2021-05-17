@@ -69,6 +69,7 @@ Parnasse), où Apollon rendait ses oracles par la bouche de la Pythie. Voir<a hr
 <?php require('modal/citoyen.php');?>
 <?php require('modal/civilisation.php');?>
 <?php require('modal/comm-anar.php');?>
+<?php require('modal/communaute.php');?>
 <?php require('modal/contrat.php');?>
 <?php require('modal/convenable.php');?>
 <?php require('modal/coutumes.php');?>
@@ -216,6 +217,7 @@ Parnasse), où Apollon rendait ses oracles par la bouche de la Pythie. Voir<a hr
 <?php require('modal/tranquille.php');?>
 <?php require('modal/travail-fecondite.php');?>
 <?php require('modal/union-sociale.php');?>
+<?php require('modal/vertu.php');?>
 <?php require('modal/voiant.php');?>
 <?php require('modal/volontariat-gratuite.php');?>
 <?php require('modal/voue.php');?>

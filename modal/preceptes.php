@@ -4,7 +4,7 @@
 			  <h4>Préceptes</h4>
 
 			  
-			   <p>« Dans le Matérialisme parental, la Pensée n’est que vie Faillible ; d’où l’Humanité n’ayant pas l’Instinct sûr de la Nature, les Sacrifices, Rites et Préceptes que la Communauté doit observer.  »</p>
+			   <p>« Dans le Matérialisme parental, la Pensée n’est que vie Faillible ; d’où l’Humanité n’ayant pas l’Instinct sûr de la Nature, les Sacrifices, <a class="modal-trigger " href="#rites">Rites</a> et Préceptes que la <a class="modal-trigger " href="#communaute">Communauté</a> doit observer.  »</p>
 			  
 			  <p>__________________________</p>
 

@@ -96,6 +96,16 @@ compréhensible par n’importe qui. »</p>
 
 <p>Voir <a href="https://www.eglise-realiste.org/pdf/Etude_Abrege_ERM-Kant_ed.pdf" target="_blank"> "Etude de l'Abrégé de la Religion de Kant"</a> - Talib Freddy - mai 2008 - Eglise Réaliste Mondiale - Editions de l'Evidence - 2015</p>
 			  
+<p>__________________________</p>
+
+<p> « Rien ne sert de porter le nom de saint sans en avoir les moeurs ; lorsque la vie ne s'accorde pas avec la foi que l'on professe, elle détruit l'honneur d'un titre illustre
+	par la bassesse des actes indignes. Ainsi, puisqu'il n'y a presque aucune partie dans toute la communauté chrétienne et presque aucun recoin dans toutes
+	les églises que nous ne voyions remplis de tout genre d'offenses et de toute souillure qu'engendrent les péchés mortels, qu'est-ce qui nous permet de nous flatter du nom de Chrétien ?
+	De toute évidence la sainteté éminente de ce nom nous rend d'autant plus coupable que nous nous écartons de la sainteté de ce nom. Oui, nous offensons Dieu davantage en nous réclamant de la religion,
+	puisque c'est à l'intérieur de la religion que nous pêchons»</p>
+
+
+	Salvien de Marseille (390-484) "Le Gouvernement de Dieu"
 
 			</div>
 			<div class="modal-footer">
