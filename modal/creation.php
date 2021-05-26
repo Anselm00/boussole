@@ -3,7 +3,7 @@
     <div class="modal-content">
       <h4>Création</h4>
 	  	
-	  <p>« N’oublions jamais que la Création est le Mystère, que vis-à-vis de nous c’est la Raison 
+	  <p>« N’oublions jamais que la Création est le <a class="modal-trigger " href="#mystere">Mystère</a>, que vis-à-vis de nous c’est la Raison 
 	  Absurde, la Nécessité Libre, la Légalité Arbitraire. Bien sûr que, d’un côté, rien ne contraint 
 	  Dieu, ni à créer le Monde, ni à maintenir sa Création ; mais, d’un autre côté, tout l’y oblige : 
 	  étant Esprit, il doit être Sujet, étant Sujet il doit penser quelque chose, et pensant quelque 

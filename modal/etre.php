@@ -3,7 +3,7 @@
 			<div class="modal-content">
 			  <h4>Être</h4>
 			  
-			  <p>« Le Monde Spiritualiste se nomme <b>Création</b>. La Création n’a évidemment
+			  <p>« Le Monde Spiritualiste se nomme <a class="modal-trigger " href="#creation"><b>Création</b></a>. La Création n’a évidemment
 aucun sens si elle n’est pas rapportée, d’une manière ou d’une autre, au Créateur.
 Cela vaut sans réserve pour les Athées, qui nomment le Créateur “Matière” avec une
 majuscule. Le Monde spiritualiste se donne comme celui de l’“être” Relatif,
