@@ -113,6 +113,7 @@ $array = array(
     " neant2",
     " necessite",
     " observance",
+    " occultisme",
     " organes-publics",
     " parents",
     " patience",

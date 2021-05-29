@@ -28,7 +28,7 @@ Aztèques). Depuis la crise de l’esprit moderne, on range ces empires dans l�
 Ancien”, que l’on taxe, de la manière la plus ambiguë, de “berceau de la civilisation”.
 C’est ainsi que Sumer et d’autres “Mycéniens chalcolithiques” sont dissociés de l’ère
 primitive à laquelle ils appartiennent, pour être raccordés tant bien que mal à
-l’Athènes de Socrate ! Là-dessus, les occultistes surviennent pour proclamer que
+l’Athènes de Socrate ! Là-dessus, les <a class="modal-trigger " href="#occultisme">occultistes</a> surviennent pour proclamer que
 l’étape asiate, phase finale de l’ère primitive, est en réalité le point de départ absolu
 de l’humanité, dont témoigne... le continent disparu des Atlantes !</p>
 <p>En réalité, l’étape “asiate” de l’ère primitive porte la vieille communauté de sang à

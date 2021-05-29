@@ -560,6 +560,7 @@
 <?php require('modal/neant2.php');?>
 <?php require('modal/necessite.php');?>
 <?php require('modal/observance.php');?>
+<?php require('modal/occultisme.php');?>
 <?php require('modal/organes-publics.php');?>
 <?php require('modal/parents.php');?>
 <?php require('modal/patience.php');?>
